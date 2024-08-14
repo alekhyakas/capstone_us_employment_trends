@@ -1,0 +1,5701 @@
+Year,Month,Date,State,unemployment_rate
+2015,Jan,2015-01-01,alabama,6.1
+2015,Feb,2015-02-01,alabama,6.1
+2015,Mar,2015-03-01,alabama,6.1
+2015,Apr,2015-04-01,alabama,6.1
+2015,May,2015-05-01,alabama,6.1
+2015,Jun,2015-06-01,alabama,6.2
+2015,Jul,2015-07-01,alabama,6.2
+2015,Aug,2015-08-01,alabama,6.2
+2015,Sep,2015-09-01,alabama,6.1
+2015,Oct,2015-10-01,alabama,6.1
+2015,Nov,2015-11-01,alabama,6.1
+2015,Dec,2015-12-01,alabama,6.1
+2016,Jan,2016-01-01,alabama,6.1
+2016,Feb,2016-02-01,alabama,6.0
+2016,Mar,2016-03-01,alabama,6.0
+2016,Apr,2016-04-01,alabama,5.9
+2016,May,2016-05-01,alabama,5.9
+2016,Jun,2016-06-01,alabama,5.9
+2016,Jul,2016-07-01,alabama,5.9
+2016,Aug,2016-08-01,alabama,5.9
+2016,Sep,2016-09-01,alabama,5.9
+2016,Oct,2016-10-01,alabama,5.9
+2016,Nov,2016-11-01,alabama,5.8
+2016,Dec,2016-12-01,alabama,5.7
+2017,Jan,2017-01-01,alabama,5.5
+2017,Feb,2017-02-01,alabama,5.2
+2017,Mar,2017-03-01,alabama,5.0
+2017,Apr,2017-04-01,alabama,4.8
+2017,May,2017-05-01,alabama,4.6
+2017,Jun,2017-06-01,alabama,4.4
+2017,Jul,2017-07-01,alabama,4.3
+2017,Aug,2017-08-01,alabama,4.2
+2017,Sep,2017-09-01,alabama,4.1
+2017,Oct,2017-10-01,alabama,4.0
+2017,Nov,2017-11-01,alabama,4.0
+2017,Dec,2017-12-01,alabama,4.0
+2018,Jan,2018-01-01,alabama,4.0
+2018,Feb,2018-02-01,alabama,4.0
+2018,Mar,2018-03-01,alabama,4.0
+2018,Apr,2018-04-01,alabama,4.0
+2018,May,2018-05-01,alabama,4.0
+2018,Jun,2018-06-01,alabama,4.0
+2018,Jul,2018-07-01,alabama,4.0
+2018,Aug,2018-08-01,alabama,3.9
+2018,Sep,2018-09-01,alabama,3.9
+2018,Oct,2018-10-01,alabama,3.9
+2018,Nov,2018-11-01,alabama,3.8
+2018,Dec,2018-12-01,alabama,3.8
+2019,Jan,2019-01-01,alabama,3.7
+2019,Feb,2019-02-01,alabama,3.6
+2019,Mar,2019-03-01,alabama,3.4
+2019,Apr,2019-04-01,alabama,3.3
+2019,May,2019-05-01,alabama,3.1
+2019,Jun,2019-06-01,alabama,3.0
+2019,Jul,2019-07-01,alabama,3.0
+2019,Aug,2019-08-01,alabama,3.0
+2019,Sep,2019-09-01,alabama,3.0
+2019,Oct,2019-10-01,alabama,3.0
+2019,Nov,2019-11-01,alabama,3.0
+2019,Dec,2019-12-01,alabama,3.1
+2020,Jan,2020-01-01,alabama,3.2
+2020,Feb,2020-02-01,alabama,3.3
+2020,Mar,2020-03-01,alabama,3.4
+2020,Apr,2020-04-01,alabama,13.8
+2020,May,2020-05-01,alabama,10.4
+2020,Jun,2020-06-01,alabama,8.6
+2020,Jul,2020-07-01,alabama,7.5
+2020,Aug,2020-08-01,alabama,6.3
+2020,Sep,2020-09-01,alabama,5.9
+2020,Oct,2020-10-01,alabama,5.2
+2020,Nov,2020-11-01,alabama,4.8
+2020,Dec,2020-12-01,alabama,4.5
+2021,Jan,2021-01-01,alabama,4.2
+2021,Feb,2021-02-01,alabama,3.9
+2021,Mar,2021-03-01,alabama,3.8
+2021,Apr,2021-04-01,alabama,3.7
+2021,May,2021-05-01,alabama,3.5
+2021,Jun,2021-06-01,alabama,3.5
+2021,Jul,2021-07-01,alabama,3.3
+2021,Aug,2021-08-01,alabama,3.2
+2021,Sep,2021-09-01,alabama,3.0
+2021,Oct,2021-10-01,alabama,2.9
+2021,Nov,2021-11-01,alabama,2.8
+2021,Dec,2021-12-01,alabama,2.7
+2022,Jan,2022-01-01,alabama,2.6
+2022,Feb,2022-02-01,alabama,2.6
+2022,Mar,2022-03-01,alabama,2.6
+2022,Apr,2022-04-01,alabama,2.5
+2022,May,2022-05-01,alabama,2.5
+2022,Jun,2022-06-01,alabama,2.5
+2022,Jul,2022-07-01,alabama,2.5
+2022,Aug,2022-08-01,alabama,2.5
+2022,Sep,2022-09-01,alabama,2.5
+2022,Oct,2022-10-01,alabama,2.5
+2022,Nov,2022-11-01,alabama,2.5
+2022,Dec,2022-12-01,alabama,2.4
+2023,Jan,2023-01-01,alabama,2.4
+2023,Feb,2023-02-01,alabama,2.3
+2023,Mar,2023-03-01,alabama,2.3
+2023,Apr,2023-04-01,alabama,2.3
+2023,May,2023-05-01,alabama,2.3
+2023,Jun,2023-06-01,alabama,2.3
+2023,Jul,2023-07-01,alabama,2.4
+2023,Aug,2023-08-01,alabama,2.5
+2023,Sep,2023-09-01,alabama,2.7
+2023,Oct,2023-10-01,alabama,2.8
+2023,Nov,2023-11-01,alabama,2.8
+2023,Dec,2023-12-01,alabama,2.8
+2024,Jan,2024-01-01,alabama,2.9
+2024,Feb,2024-02-01,alabama,3.0
+2024,Mar,2024-03-01,alabama,3.0
+2024,Apr,2024-04-01,alabama,3.1
+2024,May,2024-05-01,alabama,3.0
+2024,Jun,2024-06-01,alabama,2.9
+2015,Jan,2015-01-01,alaska,6.2
+2015,Feb,2015-02-01,alaska,6.3
+2015,Mar,2015-03-01,alaska,6.3
+2015,Apr,2015-04-01,alaska,6.3
+2015,May,2015-05-01,alaska,6.3
+2015,Jun,2015-06-01,alaska,6.3
+2015,Jul,2015-07-01,alaska,6.2
+2015,Aug,2015-08-01,alaska,6.2
+2015,Sep,2015-09-01,alaska,6.2
+2015,Oct,2015-10-01,alaska,6.3
+2015,Nov,2015-11-01,alaska,6.3
+2015,Dec,2015-12-01,alaska,6.4
+2016,Jan,2016-01-01,alaska,6.4
+2016,Feb,2016-02-01,alaska,6.5
+2016,Mar,2016-03-01,alaska,6.5
+2016,Apr,2016-04-01,alaska,6.5
+2016,May,2016-05-01,alaska,6.6
+2016,Jun,2016-06-01,alaska,6.6
+2016,Jul,2016-07-01,alaska,6.6
+2016,Aug,2016-08-01,alaska,6.7
+2016,Sep,2016-09-01,alaska,6.7
+2016,Oct,2016-10-01,alaska,6.7
+2016,Nov,2016-11-01,alaska,6.7
+2016,Dec,2016-12-01,alaska,6.7
+2017,Jan,2017-01-01,alaska,6.6
+2017,Feb,2017-02-01,alaska,6.6
+2017,Mar,2017-03-01,alaska,6.5
+2017,Apr,2017-04-01,alaska,6.5
+2017,May,2017-05-01,alaska,6.5
+2017,Jun,2017-06-01,alaska,6.5
+2017,Jul,2017-07-01,alaska,6.5
+2017,Aug,2017-08-01,alaska,6.5
+2017,Sep,2017-09-01,alaska,6.5
+2017,Oct,2017-10-01,alaska,6.5
+2017,Nov,2017-11-01,alaska,6.5
+2017,Dec,2017-12-01,alaska,6.4
+2018,Jan,2018-01-01,alaska,6.4
+2018,Feb,2018-02-01,alaska,6.3
+2018,Mar,2018-03-01,alaska,6.2
+2018,Apr,2018-04-01,alaska,6.1
+2018,May,2018-05-01,alaska,6.0
+2018,Jun,2018-06-01,alaska,5.9
+2018,Jul,2018-07-01,alaska,5.9
+2018,Aug,2018-08-01,alaska,5.9
+2018,Sep,2018-09-01,alaska,5.9
+2018,Oct,2018-10-01,alaska,5.9
+2018,Nov,2018-11-01,alaska,6.0
+2018,Dec,2018-12-01,alaska,6.0
+2019,Jan,2019-01-01,alaska,6.0
+2019,Feb,2019-02-01,alaska,5.9
+2019,Mar,2019-03-01,alaska,5.8
+2019,Apr,2019-04-01,alaska,5.7
+2019,May,2019-05-01,alaska,5.6
+2019,Jun,2019-06-01,alaska,5.6
+2019,Jul,2019-07-01,alaska,5.6
+2019,Aug,2019-08-01,alaska,5.6
+2019,Sep,2019-09-01,alaska,5.5
+2019,Oct,2019-10-01,alaska,5.4
+2019,Nov,2019-11-01,alaska,5.3
+2019,Dec,2019-12-01,alaska,5.3
+2020,Jan,2020-01-01,alaska,5.4
+2020,Feb,2020-02-01,alaska,5.5
+2020,Mar,2020-03-01,alaska,5.5
+2020,Apr,2020-04-01,alaska,11.7
+2020,May,2020-05-01,alaska,11.8
+2020,Jun,2020-06-01,alaska,11.2
+2020,Jul,2020-07-01,alaska,11.1
+2020,Aug,2020-08-01,alaska,8.6
+2020,Sep,2020-09-01,alaska,7.9
+2020,Oct,2020-10-01,alaska,7.3
+2020,Nov,2020-11-01,alaska,7.1
+2020,Dec,2020-12-01,alaska,7.1
+2021,Jan,2021-01-01,alaska,7.0
+2021,Feb,2021-02-01,alaska,7.0
+2021,Mar,2021-03-01,alaska,7.0
+2021,Apr,2021-04-01,alaska,7.0
+2021,May,2021-05-01,alaska,6.8
+2021,Jun,2021-06-01,alaska,6.8
+2021,Jul,2021-07-01,alaska,6.4
+2021,Aug,2021-08-01,alaska,6.2
+2021,Sep,2021-09-01,alaska,5.9
+2021,Oct,2021-10-01,alaska,5.7
+2021,Nov,2021-11-01,alaska,5.5
+2021,Dec,2021-12-01,alaska,5.3
+2022,Jan,2022-01-01,alaska,5.2
+2022,Feb,2022-02-01,alaska,4.8
+2022,Mar,2022-03-01,alaska,4.5
+2022,Apr,2022-04-01,alaska,4.3
+2022,May,2022-05-01,alaska,4.2
+2022,Jun,2022-06-01,alaska,4.1
+2022,Jul,2022-07-01,alaska,4.0
+2022,Aug,2022-08-01,alaska,3.8
+2022,Sep,2022-09-01,alaska,3.9
+2022,Oct,2022-10-01,alaska,4.0
+2022,Nov,2022-11-01,alaska,4.0
+2022,Dec,2022-12-01,alaska,4.0
+2023,Jan,2023-01-01,alaska,3.9
+2023,Feb,2023-02-01,alaska,3.9
+2023,Mar,2023-03-01,alaska,3.8
+2023,Apr,2023-04-01,alaska,3.9
+2023,May,2023-05-01,alaska,4.0
+2023,Jun,2023-06-01,alaska,4.1
+2023,Jul,2023-07-01,alaska,4.3
+2023,Aug,2023-08-01,alaska,4.4
+2023,Sep,2023-09-01,alaska,4.5
+2023,Oct,2023-10-01,alaska,4.6
+2023,Nov,2023-11-01,alaska,4.6
+2023,Dec,2023-12-01,alaska,4.6
+2024,Jan,2024-01-01,alaska,4.6
+2024,Feb,2024-02-01,alaska,4.6
+2024,Mar,2024-03-01,alaska,4.6
+2024,Apr,2024-04-01,alaska,4.6
+2024,May,2024-05-01,alaska,4.5
+2024,Jun,2024-06-01,alaska,4.5
+2015,Jan,2015-01-01,arizona,6.4
+2015,Feb,2015-02-01,arizona,6.3
+2015,Mar,2015-03-01,arizona,6.2
+2015,Apr,2015-04-01,arizona,6.2
+2015,May,2015-05-01,arizona,6.1
+2015,Jun,2015-06-01,arizona,6.1
+2015,Jul,2015-07-01,arizona,6.1
+2015,Aug,2015-08-01,arizona,6.0
+2015,Sep,2015-09-01,arizona,6.0
+2015,Oct,2015-10-01,arizona,5.9
+2015,Nov,2015-11-01,arizona,5.8
+2015,Dec,2015-12-01,arizona,5.8
+2016,Jan,2016-01-01,arizona,5.7
+2016,Feb,2016-02-01,arizona,5.6
+2016,Mar,2016-03-01,arizona,5.6
+2016,Apr,2016-04-01,arizona,5.6
+2016,May,2016-05-01,arizona,5.5
+2016,Jun,2016-06-01,arizona,5.5
+2016,Jul,2016-07-01,arizona,5.5
+2016,Aug,2016-08-01,arizona,5.4
+2016,Sep,2016-09-01,arizona,5.4
+2016,Oct,2016-10-01,arizona,5.4
+2016,Nov,2016-11-01,arizona,5.3
+2016,Dec,2016-12-01,arizona,5.3
+2017,Jan,2017-01-01,arizona,5.2
+2017,Feb,2017-02-01,arizona,5.2
+2017,Mar,2017-03-01,arizona,5.1
+2017,Apr,2017-04-01,arizona,5.0
+2017,May,2017-05-01,arizona,5.0
+2017,Jun,2017-06-01,arizona,4.9
+2017,Jul,2017-07-01,arizona,4.9
+2017,Aug,2017-08-01,arizona,4.8
+2017,Sep,2017-09-01,arizona,4.9
+2017,Oct,2017-10-01,arizona,4.9
+2017,Nov,2017-11-01,arizona,4.9
+2017,Dec,2017-12-01,arizona,4.9
+2018,Jan,2018-01-01,arizona,4.9
+2018,Feb,2018-02-01,arizona,4.8
+2018,Mar,2018-03-01,arizona,4.8
+2018,Apr,2018-04-01,arizona,4.7
+2018,May,2018-05-01,arizona,4.7
+2018,Jun,2018-06-01,arizona,4.7
+2018,Jul,2018-07-01,arizona,4.7
+2018,Aug,2018-08-01,arizona,4.7
+2018,Sep,2018-09-01,arizona,4.8
+2018,Oct,2018-10-01,arizona,4.9
+2018,Nov,2018-11-01,arizona,5.0
+2018,Dec,2018-12-01,arizona,5.0
+2019,Jan,2019-01-01,arizona,5.0
+2019,Feb,2019-02-01,arizona,5.0
+2019,Mar,2019-03-01,arizona,4.9
+2019,Apr,2019-04-01,arizona,4.8
+2019,May,2019-05-01,arizona,4.8
+2019,Jun,2019-06-01,arizona,4.8
+2019,Jul,2019-07-01,arizona,4.8
+2019,Aug,2019-08-01,arizona,4.8
+2019,Sep,2019-09-01,arizona,4.7
+2019,Oct,2019-10-01,arizona,4.7
+2019,Nov,2019-11-01,arizona,4.7
+2019,Dec,2019-12-01,arizona,4.7
+2020,Jan,2020-01-01,arizona,4.8
+2020,Feb,2020-02-01,arizona,4.8
+2020,Mar,2020-03-01,arizona,4.9
+2020,Apr,2020-04-01,arizona,13.8
+2020,May,2020-05-01,arizona,11.2
+2020,Jun,2020-06-01,arizona,9.8
+2020,Jul,2020-07-01,arizona,8.9
+2020,Aug,2020-08-01,arizona,7.9
+2020,Sep,2020-09-01,arizona,7.5
+2020,Oct,2020-10-01,arizona,7.0
+2020,Nov,2020-11-01,arizona,6.7
+2020,Dec,2020-12-01,arizona,6.6
+2021,Jan,2021-01-01,arizona,6.4
+2021,Feb,2021-02-01,arizona,6.2
+2021,Mar,2021-03-01,arizona,6.0
+2021,Apr,2021-04-01,arizona,5.8
+2021,May,2021-05-01,arizona,5.5
+2021,Jun,2021-06-01,arizona,5.3
+2021,Jul,2021-07-01,arizona,5.0
+2021,Aug,2021-08-01,arizona,4.6
+2021,Sep,2021-09-01,arizona,4.3
+2021,Oct,2021-10-01,arizona,4.1
+2021,Nov,2021-11-01,arizona,3.9
+2021,Dec,2021-12-01,arizona,3.7
+2022,Jan,2022-01-01,arizona,3.7
+2022,Feb,2022-02-01,arizona,3.6
+2022,Mar,2022-03-01,arizona,3.6
+2022,Apr,2022-04-01,arizona,3.6
+2022,May,2022-05-01,arizona,3.7
+2022,Jun,2022-06-01,arizona,3.7
+2022,Jul,2022-07-01,arizona,3.8
+2022,Aug,2022-08-01,arizona,3.9
+2022,Sep,2022-09-01,arizona,4.0
+2022,Oct,2022-10-01,arizona,4.0
+2022,Nov,2022-11-01,arizona,3.9
+2022,Dec,2022-12-01,arizona,3.8
+2023,Jan,2023-01-01,arizona,3.7
+2023,Feb,2023-02-01,arizona,3.7
+2023,Mar,2023-03-01,arizona,3.6
+2023,Apr,2023-04-01,arizona,3.6
+2023,May,2023-05-01,arizona,3.7
+2023,Jun,2023-06-01,arizona,3.8
+2023,Jul,2023-07-01,arizona,3.9
+2023,Aug,2023-08-01,arizona,4.1
+2023,Sep,2023-09-01,arizona,4.2
+2023,Oct,2023-10-01,arizona,4.2
+2023,Nov,2023-11-01,arizona,4.2
+2023,Dec,2023-12-01,arizona,4.2
+2024,Jan,2024-01-01,arizona,4.2
+2024,Feb,2024-02-01,arizona,4.1
+2024,Mar,2024-03-01,arizona,3.8
+2024,Apr,2024-04-01,arizona,3.6
+2024,May,2024-05-01,arizona,3.4
+2024,Jun,2024-06-01,arizona,3.3
+2015,Jan,2015-01-01,arkansas,5.5
+2015,Feb,2015-02-01,arkansas,5.4
+2015,Mar,2015-03-01,arkansas,5.4
+2015,Apr,2015-04-01,arkansas,5.3
+2015,May,2015-05-01,arkansas,5.2
+2015,Jun,2015-06-01,arkansas,5.1
+2015,Jul,2015-07-01,arkansas,4.9
+2015,Aug,2015-08-01,arkansas,4.8
+2015,Sep,2015-09-01,arkansas,4.6
+2015,Oct,2015-10-01,arkansas,4.5
+2015,Nov,2015-11-01,arkansas,4.4
+2015,Dec,2015-12-01,arkansas,4.3
+2016,Jan,2016-01-01,arkansas,4.2
+2016,Feb,2016-02-01,arkansas,4.1
+2016,Mar,2016-03-01,arkansas,4.0
+2016,Apr,2016-04-01,arkansas,4.0
+2016,May,2016-05-01,arkansas,4.0
+2016,Jun,2016-06-01,arkansas,4.0
+2016,Jul,2016-07-01,arkansas,4.0
+2016,Aug,2016-08-01,arkansas,4.0
+2016,Sep,2016-09-01,arkansas,3.9
+2016,Oct,2016-10-01,arkansas,3.9
+2016,Nov,2016-11-01,arkansas,3.9
+2016,Dec,2016-12-01,arkansas,3.8
+2017,Jan,2017-01-01,arkansas,3.8
+2017,Feb,2017-02-01,arkansas,3.7
+2017,Mar,2017-03-01,arkansas,3.7
+2017,Apr,2017-04-01,arkansas,3.7
+2017,May,2017-05-01,arkansas,3.7
+2017,Jun,2017-06-01,arkansas,3.7
+2017,Jul,2017-07-01,arkansas,3.7
+2017,Aug,2017-08-01,arkansas,3.7
+2017,Sep,2017-09-01,arkansas,3.8
+2017,Oct,2017-10-01,arkansas,3.8
+2017,Nov,2017-11-01,arkansas,3.8
+2017,Dec,2017-12-01,arkansas,3.8
+2018,Jan,2018-01-01,arkansas,3.8
+2018,Feb,2018-02-01,arkansas,3.8
+2018,Mar,2018-03-01,arkansas,3.7
+2018,Apr,2018-04-01,arkansas,3.7
+2018,May,2018-05-01,arkansas,3.6
+2018,Jun,2018-06-01,arkansas,3.6
+2018,Jul,2018-07-01,arkansas,3.5
+2018,Aug,2018-08-01,arkansas,3.5
+2018,Sep,2018-09-01,arkansas,3.6
+2018,Oct,2018-10-01,arkansas,3.7
+2018,Nov,2018-11-01,arkansas,3.7
+2018,Dec,2018-12-01,arkansas,3.7
+2019,Jan,2019-01-01,arkansas,3.7
+2019,Feb,2019-02-01,arkansas,3.6
+2019,Mar,2019-03-01,arkansas,3.5
+2019,Apr,2019-04-01,arkansas,3.4
+2019,May,2019-05-01,arkansas,3.4
+2019,Jun,2019-06-01,arkansas,3.4
+2019,Jul,2019-07-01,arkansas,3.4
+2019,Aug,2019-08-01,arkansas,3.5
+2019,Sep,2019-09-01,arkansas,3.5
+2019,Oct,2019-10-01,arkansas,3.5
+2019,Nov,2019-11-01,arkansas,3.5
+2019,Dec,2019-12-01,arkansas,3.5
+2020,Jan,2020-01-01,arkansas,3.5
+2020,Feb,2020-02-01,arkansas,3.6
+2020,Mar,2020-03-01,arkansas,4.9
+2020,Apr,2020-04-01,arkansas,10.1
+2020,May,2020-05-01,arkansas,8.9
+2020,Jun,2020-06-01,arkansas,7.9
+2020,Jul,2020-07-01,arkansas,7.3
+2020,Aug,2020-08-01,arkansas,6.4
+2020,Sep,2020-09-01,arkansas,6.0
+2020,Oct,2020-10-01,arkansas,5.4
+2020,Nov,2020-11-01,arkansas,5.2
+2020,Dec,2020-12-01,arkansas,5.0
+2021,Jan,2021-01-01,arkansas,4.9
+2021,Feb,2021-02-01,arkansas,4.8
+2021,Mar,2021-03-01,arkansas,4.7
+2021,Apr,2021-04-01,arkansas,4.5
+2021,May,2021-05-01,arkansas,4.4
+2021,Jun,2021-06-01,arkansas,4.2
+2021,Jul,2021-07-01,arkansas,3.9
+2021,Aug,2021-08-01,arkansas,3.7
+2021,Sep,2021-09-01,arkansas,3.5
+2021,Oct,2021-10-01,arkansas,3.4
+2021,Nov,2021-11-01,arkansas,3.3
+2021,Dec,2021-12-01,arkansas,3.2
+2022,Jan,2022-01-01,arkansas,3.2
+2022,Feb,2022-02-01,arkansas,3.2
+2022,Mar,2022-03-01,arkansas,3.2
+2022,Apr,2022-04-01,arkansas,3.1
+2022,May,2022-05-01,arkansas,3.2
+2022,Jun,2022-06-01,arkansas,3.2
+2022,Jul,2022-07-01,arkansas,3.2
+2022,Aug,2022-08-01,arkansas,3.3
+2022,Sep,2022-09-01,arkansas,3.3
+2022,Oct,2022-10-01,arkansas,3.3
+2022,Nov,2022-11-01,arkansas,3.2
+2022,Dec,2022-12-01,arkansas,3.1
+2023,Jan,2023-01-01,arkansas,3.0
+2023,Feb,2023-02-01,arkansas,2.9
+2023,Mar,2023-03-01,arkansas,2.8
+2023,Apr,2023-04-01,arkansas,2.8
+2023,May,2023-05-01,arkansas,2.9
+2023,Jun,2023-06-01,arkansas,3.0
+2023,Jul,2023-07-01,arkansas,3.2
+2023,Aug,2023-08-01,arkansas,3.4
+2023,Sep,2023-09-01,arkansas,3.6
+2023,Oct,2023-10-01,arkansas,3.7
+2023,Nov,2023-11-01,arkansas,3.7
+2023,Dec,2023-12-01,arkansas,3.7
+2024,Jan,2024-01-01,arkansas,3.7
+2024,Feb,2024-02-01,arkansas,3.6
+2024,Mar,2024-03-01,arkansas,3.5
+2024,Apr,2024-04-01,arkansas,3.4
+2024,May,2024-05-01,arkansas,3.4
+2024,Jun,2024-06-01,arkansas,3.3
+2015,Jan,2015-01-01,california,6.8
+2015,Feb,2015-02-01,california,6.7
+2015,Mar,2015-03-01,california,6.6
+2015,Apr,2015-04-01,california,6.5
+2015,May,2015-05-01,california,6.4
+2015,Jun,2015-06-01,california,6.3
+2015,Jul,2015-07-01,california,6.2
+2015,Aug,2015-08-01,california,6.0
+2015,Sep,2015-09-01,california,5.9
+2015,Oct,2015-10-01,california,5.8
+2015,Nov,2015-11-01,california,5.8
+2015,Dec,2015-12-01,california,5.7
+2016,Jan,2016-01-01,california,5.7
+2016,Feb,2016-02-01,california,5.6
+2016,Mar,2016-03-01,california,5.6
+2016,Apr,2016-04-01,california,5.5
+2016,May,2016-05-01,california,5.5
+2016,Jun,2016-06-01,california,5.5
+2016,Jul,2016-07-01,california,5.5
+2016,Aug,2016-08-01,california,5.5
+2016,Sep,2016-09-01,california,5.5
+2016,Oct,2016-10-01,california,5.5
+2016,Nov,2016-11-01,california,5.4
+2016,Dec,2016-12-01,california,5.4
+2017,Jan,2017-01-01,california,5.2
+2017,Feb,2017-02-01,california,5.1
+2017,Mar,2017-03-01,california,5.0
+2017,Apr,2017-04-01,california,5.0
+2017,May,2017-05-01,california,4.9
+2017,Jun,2017-06-01,california,4.9
+2017,Jul,2017-07-01,california,4.8
+2017,Aug,2017-08-01,california,4.8
+2017,Sep,2017-09-01,california,4.7
+2017,Oct,2017-10-01,california,4.6
+2017,Nov,2017-11-01,california,4.5
+2017,Dec,2017-12-01,california,4.5
+2018,Jan,2018-01-01,california,4.4
+2018,Feb,2018-02-01,california,4.3
+2018,Mar,2018-03-01,california,4.3
+2018,Apr,2018-04-01,california,4.2
+2018,May,2018-05-01,california,4.2
+2018,Jun,2018-06-01,california,4.2
+2018,Jul,2018-07-01,california,4.2
+2018,Aug,2018-08-01,california,4.2
+2018,Sep,2018-09-01,california,4.2
+2018,Oct,2018-10-01,california,4.3
+2018,Nov,2018-11-01,california,4.3
+2018,Dec,2018-12-01,california,4.3
+2019,Jan,2019-01-01,california,4.3
+2019,Feb,2019-02-01,california,4.3
+2019,Mar,2019-03-01,california,4.2
+2019,Apr,2019-04-01,california,4.1
+2019,May,2019-05-01,california,4.0
+2019,Jun,2019-06-01,california,4.0
+2019,Jul,2019-07-01,california,4.0
+2019,Aug,2019-08-01,california,4.0
+2019,Sep,2019-09-01,california,4.0
+2019,Oct,2019-10-01,california,4.0
+2019,Nov,2019-11-01,california,4.1
+2019,Dec,2019-12-01,california,4.2
+2020,Jan,2020-01-01,california,4.3
+2020,Feb,2020-02-01,california,4.4
+2020,Mar,2020-03-01,california,5.5
+2020,Apr,2020-04-01,california,16.1
+2020,May,2020-05-01,california,15.8
+2020,Jun,2020-06-01,california,13.8
+2020,Jul,2020-07-01,california,13.2
+2020,Aug,2020-08-01,california,11.9
+2020,Sep,2020-09-01,california,10.0
+2020,Oct,2020-10-01,california,9.3
+2020,Nov,2020-11-01,california,9.0
+2020,Dec,2020-12-01,california,9.0
+2021,Jan,2021-01-01,california,8.7
+2021,Feb,2021-02-01,california,8.6
+2021,Mar,2021-03-01,california,8.4
+2021,Apr,2021-04-01,california,8.3
+2021,May,2021-05-01,california,7.9
+2021,Jun,2021-06-01,california,7.8
+2021,Jul,2021-07-01,california,7.4
+2021,Aug,2021-08-01,california,7.0
+2021,Sep,2021-09-01,california,6.5
+2021,Oct,2021-10-01,california,6.1
+2021,Nov,2021-11-01,california,5.7
+2021,Dec,2021-12-01,california,5.5
+2022,Jan,2022-01-01,california,5.2
+2022,Feb,2022-02-01,california,4.8
+2022,Mar,2022-03-01,california,4.4
+2022,Apr,2022-04-01,california,4.2
+2022,May,2022-05-01,california,4.1
+2022,Jun,2022-06-01,california,4.0
+2022,Jul,2022-07-01,california,3.9
+2022,Aug,2022-08-01,california,3.8
+2022,Sep,2022-09-01,california,4.0
+2022,Oct,2022-10-01,california,4.2
+2022,Nov,2022-11-01,california,4.3
+2022,Dec,2022-12-01,california,4.4
+2023,Jan,2023-01-01,california,4.5
+2023,Feb,2023-02-01,california,4.5
+2023,Mar,2023-03-01,california,4.5
+2023,Apr,2023-04-01,california,4.5
+2023,May,2023-05-01,california,4.5
+2023,Jun,2023-06-01,california,4.6
+2023,Jul,2023-07-01,california,4.7
+2023,Aug,2023-08-01,california,4.8
+2023,Sep,2023-09-01,california,5.0
+2023,Oct,2023-10-01,california,5.1
+2023,Nov,2023-11-01,california,5.1
+2023,Dec,2023-12-01,california,5.1
+2024,Jan,2024-01-01,california,5.2
+2024,Feb,2024-02-01,california,5.3
+2024,Mar,2024-03-01,california,5.3
+2024,Apr,2024-04-01,california,5.3
+2024,May,2024-05-01,california,5.2
+2024,Jun,2024-06-01,california,5.2
+2015,Jan,2015-01-01,colorado,4.1
+2015,Feb,2015-02-01,colorado,4.1
+2015,Mar,2015-03-01,colorado,4.1
+2015,Apr,2015-04-01,colorado,4.0
+2015,May,2015-05-01,colorado,3.9
+2015,Jun,2015-06-01,colorado,3.8
+2015,Jul,2015-07-01,colorado,3.7
+2015,Aug,2015-08-01,colorado,3.6
+2015,Sep,2015-09-01,colorado,3.5
+2015,Oct,2015-10-01,colorado,3.4
+2015,Nov,2015-11-01,colorado,3.4
+2015,Dec,2015-12-01,colorado,3.3
+2016,Jan,2016-01-01,colorado,3.3
+2016,Feb,2016-02-01,colorado,3.3
+2016,Mar,2016-03-01,colorado,3.3
+2016,Apr,2016-04-01,colorado,3.3
+2016,May,2016-05-01,colorado,3.3
+2016,Jun,2016-06-01,colorado,3.2
+2016,Jul,2016-07-01,colorado,3.2
+2016,Aug,2016-08-01,colorado,3.1
+2016,Sep,2016-09-01,colorado,3.0
+2016,Oct,2016-10-01,colorado,3.0
+2016,Nov,2016-11-01,colorado,2.9
+2016,Dec,2016-12-01,colorado,2.7
+2017,Jan,2017-01-01,colorado,2.6
+2017,Feb,2017-02-01,colorado,2.5
+2017,Mar,2017-03-01,colorado,2.4
+2017,Apr,2017-04-01,colorado,2.4
+2017,May,2017-05-01,colorado,2.4
+2017,Jun,2017-06-01,colorado,2.5
+2017,Jul,2017-07-01,colorado,2.6
+2017,Aug,2017-08-01,colorado,2.7
+2017,Sep,2017-09-01,colorado,2.8
+2017,Oct,2017-10-01,colorado,2.8
+2017,Nov,2017-11-01,colorado,2.8
+2017,Dec,2017-12-01,colorado,2.8
+2018,Jan,2018-01-01,colorado,2.9
+2018,Feb,2018-02-01,colorado,2.9
+2018,Mar,2018-03-01,colorado,2.9
+2018,Apr,2018-04-01,colorado,3.0
+2018,May,2018-05-01,colorado,3.0
+2018,Jun,2018-06-01,colorado,3.1
+2018,Jul,2018-07-01,colorado,3.1
+2018,Aug,2018-08-01,colorado,3.1
+2018,Sep,2018-09-01,colorado,3.2
+2018,Oct,2018-10-01,colorado,3.2
+2018,Nov,2018-11-01,colorado,3.1
+2018,Dec,2018-12-01,colorado,3.1
+2019,Jan,2019-01-01,colorado,3.0
+2019,Feb,2019-02-01,colorado,2.9
+2019,Mar,2019-03-01,colorado,2.8
+2019,Apr,2019-04-01,colorado,2.6
+2019,May,2019-05-01,colorado,2.6
+2019,Jun,2019-06-01,colorado,2.5
+2019,Jul,2019-07-01,colorado,2.5
+2019,Aug,2019-08-01,colorado,2.5
+2019,Sep,2019-09-01,colorado,2.5
+2019,Oct,2019-10-01,colorado,2.6
+2019,Nov,2019-11-01,colorado,2.7
+2019,Dec,2019-12-01,colorado,2.8
+2020,Jan,2020-01-01,colorado,3.0
+2020,Feb,2020-02-01,colorado,3.2
+2020,Mar,2020-03-01,colorado,3.3
+2020,Apr,2020-04-01,colorado,11.2
+2020,May,2020-05-01,colorado,11.7
+2020,Jun,2020-06-01,colorado,11.2
+2020,Jul,2020-07-01,colorado,6.5
+2020,Aug,2020-08-01,colorado,6.2
+2020,Sep,2020-09-01,colorado,6.3
+2020,Oct,2020-10-01,colorado,6.2
+2020,Nov,2020-11-01,colorado,6.2
+2020,Dec,2020-12-01,colorado,6.4
+2021,Jan,2021-01-01,colorado,6.3
+2021,Feb,2021-02-01,colorado,6.3
+2021,Mar,2021-03-01,colorado,6.2
+2021,Apr,2021-04-01,colorado,6.2
+2021,May,2021-05-01,colorado,5.9
+2021,Jun,2021-06-01,colorado,5.9
+2021,Jul,2021-07-01,colorado,5.6
+2021,Aug,2021-08-01,colorado,5.3
+2021,Sep,2021-09-01,colorado,4.9
+2021,Oct,2021-10-01,colorado,4.6
+2021,Nov,2021-11-01,colorado,4.4
+2021,Dec,2021-12-01,colorado,4.2
+2022,Jan,2022-01-01,colorado,4.0
+2022,Feb,2022-02-01,colorado,3.6
+2022,Mar,2022-03-01,colorado,3.3
+2022,Apr,2022-04-01,colorado,3.1
+2022,May,2022-05-01,colorado,3.0
+2022,Jun,2022-06-01,colorado,2.8
+2022,Jul,2022-07-01,colorado,2.7
+2022,Aug,2022-08-01,colorado,2.6
+2022,Sep,2022-09-01,colorado,2.8
+2022,Oct,2022-10-01,colorado,2.9
+2022,Nov,2022-11-01,colorado,3.0
+2022,Dec,2022-12-01,colorado,3.0
+2023,Jan,2023-01-01,colorado,3.0
+2023,Feb,2023-02-01,colorado,3.0
+2023,Mar,2023-03-01,colorado,3.0
+2023,Apr,2023-04-01,colorado,3.0
+2023,May,2023-05-01,colorado,3.1
+2023,Jun,2023-06-01,colorado,3.1
+2023,Jul,2023-07-01,colorado,3.2
+2023,Aug,2023-08-01,colorado,3.2
+2023,Sep,2023-09-01,colorado,3.3
+2023,Oct,2023-10-01,colorado,3.3
+2023,Nov,2023-11-01,colorado,3.3
+2023,Dec,2023-12-01,colorado,3.3
+2024,Jan,2024-01-01,colorado,3.4
+2024,Feb,2024-02-01,colorado,3.5
+2024,Mar,2024-03-01,colorado,3.7
+2024,Apr,2024-04-01,colorado,3.7
+2024,May,2024-05-01,colorado,3.8
+2024,Jun,2024-06-01,colorado,3.8
+2015,Jan,2015-01-01,connecticut,6.0
+2015,Feb,2015-02-01,connecticut,5.9
+2015,Mar,2015-03-01,connecticut,5.8
+2015,Apr,2015-04-01,connecticut,5.8
+2015,May,2015-05-01,connecticut,5.7
+2015,Jun,2015-06-01,connecticut,5.6
+2015,Jul,2015-07-01,connecticut,5.6
+2015,Aug,2015-08-01,connecticut,5.5
+2015,Sep,2015-09-01,connecticut,5.4
+2015,Oct,2015-10-01,connecticut,5.4
+2015,Nov,2015-11-01,connecticut,5.4
+2015,Dec,2015-12-01,connecticut,5.3
+2016,Jan,2016-01-01,connecticut,5.2
+2016,Feb,2016-02-01,connecticut,5.2
+2016,Mar,2016-03-01,connecticut,5.1
+2016,Apr,2016-04-01,connecticut,5.0
+2016,May,2016-05-01,connecticut,4.9
+2016,Jun,2016-06-01,connecticut,4.9
+2016,Jul,2016-07-01,connecticut,4.8
+2016,Aug,2016-08-01,connecticut,4.7
+2016,Sep,2016-09-01,connecticut,4.7
+2016,Oct,2016-10-01,connecticut,4.7
+2016,Nov,2016-11-01,connecticut,4.6
+2016,Dec,2016-12-01,connecticut,4.6
+2017,Jan,2017-01-01,connecticut,4.6
+2017,Feb,2017-02-01,connecticut,4.5
+2017,Mar,2017-03-01,connecticut,4.5
+2017,Apr,2017-04-01,connecticut,4.5
+2017,May,2017-05-01,connecticut,4.4
+2017,Jun,2017-06-01,connecticut,4.4
+2017,Jul,2017-07-01,connecticut,4.4
+2017,Aug,2017-08-01,connecticut,4.4
+2017,Sep,2017-09-01,connecticut,4.4
+2017,Oct,2017-10-01,connecticut,4.3
+2017,Nov,2017-11-01,connecticut,4.3
+2017,Dec,2017-12-01,connecticut,4.3
+2018,Jan,2018-01-01,connecticut,4.2
+2018,Feb,2018-02-01,connecticut,4.1
+2018,Mar,2018-03-01,connecticut,4.1
+2018,Apr,2018-04-01,connecticut,4.0
+2018,May,2018-05-01,connecticut,3.9
+2018,Jun,2018-06-01,connecticut,3.9
+2018,Jul,2018-07-01,connecticut,3.8
+2018,Aug,2018-08-01,connecticut,3.8
+2018,Sep,2018-09-01,connecticut,3.7
+2018,Oct,2018-10-01,connecticut,3.7
+2018,Nov,2018-11-01,connecticut,3.7
+2018,Dec,2018-12-01,connecticut,3.7
+2019,Jan,2019-01-01,connecticut,3.7
+2019,Feb,2019-02-01,connecticut,3.6
+2019,Mar,2019-03-01,connecticut,3.6
+2019,Apr,2019-04-01,connecticut,3.5
+2019,May,2019-05-01,connecticut,3.5
+2019,Jun,2019-06-01,connecticut,3.5
+2019,Jul,2019-07-01,connecticut,3.5
+2019,Aug,2019-08-01,connecticut,3.6
+2019,Sep,2019-09-01,connecticut,3.6
+2019,Oct,2019-10-01,connecticut,3.6
+2019,Nov,2019-11-01,connecticut,3.7
+2019,Dec,2019-12-01,connecticut,3.7
+2020,Jan,2020-01-01,connecticut,3.8
+2020,Feb,2020-02-01,connecticut,3.8
+2020,Mar,2020-03-01,connecticut,3.9
+2020,Apr,2020-04-01,connecticut,8.3
+2020,May,2020-05-01,connecticut,11.8
+2020,Jun,2020-06-01,connecticut,11.5
+2020,Jul,2020-07-01,connecticut,11.7
+2020,Aug,2020-08-01,connecticut,9.6
+2020,Sep,2020-09-01,connecticut,8.8
+2020,Oct,2020-10-01,connecticut,7.9
+2020,Nov,2020-11-01,connecticut,7.5
+2020,Dec,2020-12-01,connecticut,7.4
+2021,Jan,2021-01-01,connecticut,7.1
+2021,Feb,2021-02-01,connecticut,7.1
+2021,Mar,2021-03-01,connecticut,7.0
+2021,Apr,2021-04-01,connecticut,7.1
+2021,May,2021-05-01,connecticut,6.9
+2021,Jun,2021-06-01,connecticut,6.8
+2021,Jul,2021-07-01,connecticut,6.5
+2021,Aug,2021-08-01,connecticut,6.2
+2021,Sep,2021-09-01,connecticut,5.9
+2021,Oct,2021-10-01,connecticut,5.6
+2021,Nov,2021-11-01,connecticut,5.3
+2021,Dec,2021-12-01,connecticut,5.1
+2022,Jan,2022-01-01,connecticut,4.9
+2022,Feb,2022-02-01,connecticut,4.6
+2022,Mar,2022-03-01,connecticut,4.4
+2022,Apr,2022-04-01,connecticut,4.3
+2022,May,2022-05-01,connecticut,4.1
+2022,Jun,2022-06-01,connecticut,4.0
+2022,Jul,2022-07-01,connecticut,3.9
+2022,Aug,2022-08-01,connecticut,3.8
+2022,Sep,2022-09-01,connecticut,3.8
+2022,Oct,2022-10-01,connecticut,3.8
+2022,Nov,2022-11-01,connecticut,3.8
+2022,Dec,2022-12-01,connecticut,3.7
+2023,Jan,2023-01-01,connecticut,3.6
+2023,Feb,2023-02-01,connecticut,3.5
+2023,Mar,2023-03-01,connecticut,3.4
+2023,Apr,2023-04-01,connecticut,3.3
+2023,May,2023-05-01,connecticut,3.3
+2023,Jun,2023-06-01,connecticut,3.4
+2023,Jul,2023-07-01,connecticut,3.6
+2023,Aug,2023-08-01,connecticut,3.8
+2023,Sep,2023-09-01,connecticut,4.0
+2023,Oct,2023-10-01,connecticut,4.2
+2023,Nov,2023-11-01,connecticut,4.2
+2023,Dec,2023-12-01,connecticut,4.2
+2024,Jan,2024-01-01,connecticut,4.4
+2024,Feb,2024-02-01,connecticut,4.5
+2024,Mar,2024-03-01,connecticut,4.5
+2024,Apr,2024-04-01,connecticut,4.4
+2024,May,2024-05-01,connecticut,4.3
+2024,Jun,2024-06-01,connecticut,3.9
+2015,Jan,2015-01-01,delaware,5.0
+2015,Feb,2015-02-01,delaware,4.9
+2015,Mar,2015-03-01,delaware,4.9
+2015,Apr,2015-04-01,delaware,4.9
+2015,May,2015-05-01,delaware,4.9
+2015,Jun,2015-06-01,delaware,4.8
+2015,Jul,2015-07-01,delaware,4.8
+2015,Aug,2015-08-01,delaware,4.7
+2015,Sep,2015-09-01,delaware,4.7
+2015,Oct,2015-10-01,delaware,4.7
+2015,Nov,2015-11-01,delaware,4.6
+2015,Dec,2015-12-01,delaware,4.6
+2016,Jan,2016-01-01,delaware,4.5
+2016,Feb,2016-02-01,delaware,4.5
+2016,Mar,2016-03-01,delaware,4.4
+2016,Apr,2016-04-01,delaware,4.4
+2016,May,2016-05-01,delaware,4.4
+2016,Jun,2016-06-01,delaware,4.5
+2016,Jul,2016-07-01,delaware,4.5
+2016,Aug,2016-08-01,delaware,4.5
+2016,Sep,2016-09-01,delaware,4.6
+2016,Oct,2016-10-01,delaware,4.6
+2016,Nov,2016-11-01,delaware,4.7
+2016,Dec,2016-12-01,delaware,4.7
+2017,Jan,2017-01-01,delaware,4.7
+2017,Feb,2017-02-01,delaware,4.6
+2017,Mar,2017-03-01,delaware,4.6
+2017,Apr,2017-04-01,delaware,4.6
+2017,May,2017-05-01,delaware,4.5
+2017,Jun,2017-06-01,delaware,4.5
+2017,Jul,2017-07-01,delaware,4.5
+2017,Aug,2017-08-01,delaware,4.4
+2017,Sep,2017-09-01,delaware,4.4
+2017,Oct,2017-10-01,delaware,4.3
+2017,Nov,2017-11-01,delaware,4.3
+2017,Dec,2017-12-01,delaware,4.2
+2018,Jan,2018-01-01,delaware,4.1
+2018,Feb,2018-02-01,delaware,4.0
+2018,Mar,2018-03-01,delaware,3.9
+2018,Apr,2018-04-01,delaware,3.8
+2018,May,2018-05-01,delaware,3.8
+2018,Jun,2018-06-01,delaware,3.7
+2018,Jul,2018-07-01,delaware,3.6
+2018,Aug,2018-08-01,delaware,3.6
+2018,Sep,2018-09-01,delaware,3.5
+2018,Oct,2018-10-01,delaware,3.5
+2018,Nov,2018-11-01,delaware,3.5
+2018,Dec,2018-12-01,delaware,3.5
+2019,Jan,2019-01-01,delaware,3.5
+2019,Feb,2019-02-01,delaware,3.5
+2019,Mar,2019-03-01,delaware,3.5
+2019,Apr,2019-04-01,delaware,3.5
+2019,May,2019-05-01,delaware,3.5
+2019,Jun,2019-06-01,delaware,3.5
+2019,Jul,2019-07-01,delaware,3.6
+2019,Aug,2019-08-01,delaware,3.6
+2019,Sep,2019-09-01,delaware,3.6
+2019,Oct,2019-10-01,delaware,3.6
+2019,Nov,2019-11-01,delaware,3.6
+2019,Dec,2019-12-01,delaware,3.6
+2020,Jan,2020-01-01,delaware,3.6
+2020,Feb,2020-02-01,delaware,3.6
+2020,Mar,2020-03-01,delaware,5.0
+2020,Apr,2020-04-01,delaware,13.1
+2020,May,2020-05-01,delaware,13.4
+2020,Jun,2020-06-01,delaware,12.7
+2020,Jul,2020-07-01,delaware,7.5
+2020,Aug,2020-08-01,delaware,7.3
+2020,Sep,2020-09-01,delaware,7.5
+2020,Oct,2020-10-01,delaware,5.1
+2020,Nov,2020-11-01,delaware,5.3
+2020,Dec,2020-12-01,delaware,5.6
+2021,Jan,2021-01-01,delaware,5.7
+2021,Feb,2021-02-01,delaware,5.8
+2021,Mar,2021-03-01,delaware,5.9
+2021,Apr,2021-04-01,delaware,5.9
+2021,May,2021-05-01,delaware,5.9
+2021,Jun,2021-06-01,delaware,5.8
+2021,Jul,2021-07-01,delaware,5.6
+2021,Aug,2021-08-01,delaware,5.4
+2021,Sep,2021-09-01,delaware,5.2
+2021,Oct,2021-10-01,delaware,5.0
+2021,Nov,2021-11-01,delaware,4.8
+2021,Dec,2021-12-01,delaware,4.7
+2022,Jan,2022-01-01,delaware,4.6
+2022,Feb,2022-02-01,delaware,4.4
+2022,Mar,2022-03-01,delaware,4.3
+2022,Apr,2022-04-01,delaware,4.2
+2022,May,2022-05-01,delaware,4.2
+2022,Jun,2022-06-01,delaware,4.2
+2022,Jul,2022-07-01,delaware,4.1
+2022,Aug,2022-08-01,delaware,4.1
+2022,Sep,2022-09-01,delaware,4.2
+2022,Oct,2022-10-01,delaware,4.2
+2022,Nov,2022-11-01,delaware,4.2
+2022,Dec,2022-12-01,delaware,4.1
+2023,Jan,2023-01-01,delaware,4.1
+2023,Feb,2023-02-01,delaware,4.0
+2023,Mar,2023-03-01,delaware,3.9
+2023,Apr,2023-04-01,delaware,3.8
+2023,May,2023-05-01,delaware,3.8
+2023,Jun,2023-06-01,delaware,3.9
+2023,Jul,2023-07-01,delaware,3.9
+2023,Aug,2023-08-01,delaware,4.0
+2023,Sep,2023-09-01,delaware,4.1
+2023,Oct,2023-10-01,delaware,4.1
+2023,Nov,2023-11-01,delaware,4.1
+2023,Dec,2023-12-01,delaware,4.1
+2024,Jan,2024-01-01,delaware,4.1
+2024,Feb,2024-02-01,delaware,4.0
+2024,Mar,2024-03-01,delaware,3.9
+2024,Apr,2024-04-01,delaware,3.9
+2024,May,2024-05-01,delaware,3.9
+2024,Jun,2024-06-01,delaware,4.0
+2015,Jan,2015-01-01,florida,5.9
+2015,Feb,2015-02-01,florida,5.8
+2015,Mar,2015-03-01,florida,5.8
+2015,Apr,2015-04-01,florida,5.7
+2015,May,2015-05-01,florida,5.7
+2015,Jun,2015-06-01,florida,5.6
+2015,Jul,2015-07-01,florida,5.5
+2015,Aug,2015-08-01,florida,5.4
+2015,Sep,2015-09-01,florida,5.3
+2015,Oct,2015-10-01,florida,5.3
+2015,Nov,2015-11-01,florida,5.2
+2015,Dec,2015-12-01,florida,5.1
+2016,Jan,2016-01-01,florida,5.1
+2016,Feb,2016-02-01,florida,5.0
+2016,Mar,2016-03-01,florida,5.0
+2016,Apr,2016-04-01,florida,4.9
+2016,May,2016-05-01,florida,4.9
+2016,Jun,2016-06-01,florida,4.9
+2016,Jul,2016-07-01,florida,4.9
+2016,Aug,2016-08-01,florida,4.9
+2016,Sep,2016-09-01,florida,4.9
+2016,Oct,2016-10-01,florida,4.9
+2016,Nov,2016-11-01,florida,4.8
+2016,Dec,2016-12-01,florida,4.8
+2017,Jan,2017-01-01,florida,4.7
+2017,Feb,2017-02-01,florida,4.6
+2017,Mar,2017-03-01,florida,4.5
+2017,Apr,2017-04-01,florida,4.4
+2017,May,2017-05-01,florida,4.3
+2017,Jun,2017-06-01,florida,4.3
+2017,Jul,2017-07-01,florida,4.2
+2017,Aug,2017-08-01,florida,4.2
+2017,Sep,2017-09-01,florida,4.2
+2017,Oct,2017-10-01,florida,4.1
+2017,Nov,2017-11-01,florida,4.1
+2017,Dec,2017-12-01,florida,4.0
+2018,Jan,2018-01-01,florida,3.9
+2018,Feb,2018-02-01,florida,3.9
+2018,Mar,2018-03-01,florida,3.8
+2018,Apr,2018-04-01,florida,3.8
+2018,May,2018-05-01,florida,3.7
+2018,Jun,2018-06-01,florida,3.6
+2018,Jul,2018-07-01,florida,3.6
+2018,Aug,2018-08-01,florida,3.5
+2018,Sep,2018-09-01,florida,3.5
+2018,Oct,2018-10-01,florida,3.5
+2018,Nov,2018-11-01,florida,3.5
+2018,Dec,2018-12-01,florida,3.5
+2019,Jan,2019-01-01,florida,3.5
+2019,Feb,2019-02-01,florida,3.5
+2019,Mar,2019-03-01,florida,3.4
+2019,Apr,2019-04-01,florida,3.3
+2019,May,2019-05-01,florida,3.3
+2019,Jun,2019-06-01,florida,3.3
+2019,Jul,2019-07-01,florida,3.2
+2019,Aug,2019-08-01,florida,3.2
+2019,Sep,2019-09-01,florida,3.2
+2019,Oct,2019-10-01,florida,3.1
+2019,Nov,2019-11-01,florida,3.0
+2019,Dec,2019-12-01,florida,3.0
+2020,Jan,2020-01-01,florida,3.0
+2020,Feb,2020-02-01,florida,3.0
+2020,Mar,2020-03-01,florida,4.1
+2020,Apr,2020-04-01,florida,13.4
+2020,May,2020-05-01,florida,14.2
+2020,Jun,2020-06-01,florida,11.8
+2020,Jul,2020-07-01,florida,11.8
+2020,Aug,2020-08-01,florida,8.8
+2020,Sep,2020-09-01,florida,8.1
+2020,Oct,2020-10-01,florida,7.1
+2020,Nov,2020-11-01,florida,6.6
+2020,Dec,2020-12-01,florida,6.4
+2021,Jan,2021-01-01,florida,5.9
+2021,Feb,2021-02-01,florida,5.6
+2021,Mar,2021-03-01,florida,5.4
+2021,Apr,2021-04-01,florida,5.2
+2021,May,2021-05-01,florida,4.9
+2021,Jun,2021-06-01,florida,4.9
+2021,Jul,2021-07-01,florida,4.6
+2021,Aug,2021-08-01,florida,4.4
+2021,Sep,2021-09-01,florida,4.1
+2021,Oct,2021-10-01,florida,3.9
+2021,Nov,2021-11-01,florida,3.8
+2021,Dec,2021-12-01,florida,3.6
+2022,Jan,2022-01-01,florida,3.5
+2022,Feb,2022-02-01,florida,3.3
+2022,Mar,2022-03-01,florida,3.2
+2022,Apr,2022-04-01,florida,3.1
+2022,May,2022-05-01,florida,3.0
+2022,Jun,2022-06-01,florida,2.9
+2022,Jul,2022-07-01,florida,2.8
+2022,Aug,2022-08-01,florida,2.8
+2022,Sep,2022-09-01,florida,2.8
+2022,Oct,2022-10-01,florida,2.9
+2022,Nov,2022-11-01,florida,2.8
+2022,Dec,2022-12-01,florida,2.8
+2023,Jan,2023-01-01,florida,2.8
+2023,Feb,2023-02-01,florida,2.8
+2023,Mar,2023-03-01,florida,2.8
+2023,Apr,2023-04-01,florida,2.7
+2023,May,2023-05-01,florida,2.8
+2023,Jun,2023-06-01,florida,2.8
+2023,Jul,2023-07-01,florida,2.9
+2023,Aug,2023-08-01,florida,3.0
+2023,Sep,2023-09-01,florida,3.0
+2023,Oct,2023-10-01,florida,3.1
+2023,Nov,2023-11-01,florida,3.1
+2023,Dec,2023-12-01,florida,3.1
+2024,Jan,2024-01-01,florida,3.1
+2024,Feb,2024-02-01,florida,3.1
+2024,Mar,2024-03-01,florida,3.2
+2024,Apr,2024-04-01,florida,3.3
+2024,May,2024-05-01,florida,3.3
+2024,Jun,2024-06-01,florida,3.3
+2015,Jan,2015-01-01,georgia,6.5
+2015,Feb,2015-02-01,georgia,6.4
+2015,Mar,2015-03-01,georgia,6.3
+2015,Apr,2015-04-01,georgia,6.3
+2015,May,2015-05-01,georgia,6.2
+2015,Jun,2015-06-01,georgia,6.1
+2015,Jul,2015-07-01,georgia,6.0
+2015,Aug,2015-08-01,georgia,5.9
+2015,Sep,2015-09-01,georgia,5.9
+2015,Oct,2015-10-01,georgia,5.8
+2015,Nov,2015-11-01,georgia,5.8
+2015,Dec,2015-12-01,georgia,5.7
+2016,Jan,2016-01-01,georgia,5.7
+2016,Feb,2016-02-01,georgia,5.7
+2016,Mar,2016-03-01,georgia,5.6
+2016,Apr,2016-04-01,georgia,5.5
+2016,May,2016-05-01,georgia,5.4
+2016,Jun,2016-06-01,georgia,5.4
+2016,Jul,2016-07-01,georgia,5.4
+2016,Aug,2016-08-01,georgia,5.4
+2016,Sep,2016-09-01,georgia,5.4
+2016,Oct,2016-10-01,georgia,5.4
+2016,Nov,2016-11-01,georgia,5.4
+2016,Dec,2016-12-01,georgia,5.3
+2017,Jan,2017-01-01,georgia,5.2
+2017,Feb,2017-02-01,georgia,5.1
+2017,Mar,2017-03-01,georgia,5.0
+2017,Apr,2017-04-01,georgia,4.9
+2017,May,2017-05-01,georgia,4.8
+2017,Jun,2017-06-01,georgia,4.8
+2017,Jul,2017-07-01,georgia,4.7
+2017,Aug,2017-08-01,georgia,4.6
+2017,Sep,2017-09-01,georgia,4.6
+2017,Oct,2017-10-01,georgia,4.5
+2017,Nov,2017-11-01,georgia,4.5
+2017,Dec,2017-12-01,georgia,4.4
+2018,Jan,2018-01-01,georgia,4.3
+2018,Feb,2018-02-01,georgia,4.2
+2018,Mar,2018-03-01,georgia,4.1
+2018,Apr,2018-04-01,georgia,4.1
+2018,May,2018-05-01,georgia,4.0
+2018,Jun,2018-06-01,georgia,3.9
+2018,Jul,2018-07-01,georgia,3.9
+2018,Aug,2018-08-01,georgia,3.9
+2018,Sep,2018-09-01,georgia,3.9
+2018,Oct,2018-10-01,georgia,3.9
+2018,Nov,2018-11-01,georgia,3.9
+2018,Dec,2018-12-01,georgia,3.9
+2019,Jan,2019-01-01,georgia,3.8
+2019,Feb,2019-02-01,georgia,3.8
+2019,Mar,2019-03-01,georgia,3.7
+2019,Apr,2019-04-01,georgia,3.6
+2019,May,2019-05-01,georgia,3.6
+2019,Jun,2019-06-01,georgia,3.6
+2019,Jul,2019-07-01,georgia,3.5
+2019,Aug,2019-08-01,georgia,3.5
+2019,Sep,2019-09-01,georgia,3.5
+2019,Oct,2019-10-01,georgia,3.4
+2019,Nov,2019-11-01,georgia,3.4
+2019,Dec,2019-12-01,georgia,3.5
+2020,Jan,2020-01-01,georgia,3.5
+2020,Feb,2020-02-01,georgia,3.6
+2020,Mar,2020-03-01,georgia,3.7
+2020,Apr,2020-04-01,georgia,12.4
+2020,May,2020-05-01,georgia,9.8
+2020,Jun,2020-06-01,georgia,8.4
+2020,Jul,2020-07-01,georgia,7.6
+2020,Aug,2020-08-01,georgia,6.7
+2020,Sep,2020-09-01,georgia,6.4
+2020,Oct,2020-10-01,georgia,5.5
+2020,Nov,2020-11-01,georgia,5.3
+2020,Dec,2020-12-01,georgia,5.1
+2021,Jan,2021-01-01,georgia,4.8
+2021,Feb,2021-02-01,georgia,4.6
+2021,Mar,2021-03-01,georgia,4.4
+2021,Apr,2021-04-01,georgia,4.3
+2021,May,2021-05-01,georgia,4.1
+2021,Jun,2021-06-01,georgia,4.0
+2021,Jul,2021-07-01,georgia,3.9
+2021,Aug,2021-08-01,georgia,3.7
+2021,Sep,2021-09-01,georgia,3.5
+2021,Oct,2021-10-01,georgia,3.4
+2021,Nov,2021-11-01,georgia,3.3
+2021,Dec,2021-12-01,georgia,3.2
+2022,Jan,2022-01-01,georgia,3.1
+2022,Feb,2022-02-01,georgia,3.1
+2022,Mar,2022-03-01,georgia,3.0
+2022,Apr,2022-04-01,georgia,3.0
+2022,May,2022-05-01,georgia,3.0
+2022,Jun,2022-06-01,georgia,3.1
+2022,Jul,2022-07-01,georgia,3.1
+2022,Aug,2022-08-01,georgia,3.2
+2022,Sep,2022-09-01,georgia,3.2
+2022,Oct,2022-10-01,georgia,3.3
+2022,Nov,2022-11-01,georgia,3.3
+2022,Dec,2022-12-01,georgia,3.3
+2023,Jan,2023-01-01,georgia,3.2
+2023,Feb,2023-02-01,georgia,3.2
+2023,Mar,2023-03-01,georgia,3.2
+2023,Apr,2023-04-01,georgia,3.2
+2023,May,2023-05-01,georgia,3.2
+2023,Jun,2023-06-01,georgia,3.2
+2023,Jul,2023-07-01,georgia,3.2
+2023,Aug,2023-08-01,georgia,3.2
+2023,Sep,2023-09-01,georgia,3.2
+2023,Oct,2023-10-01,georgia,3.2
+2023,Nov,2023-11-01,georgia,3.2
+2023,Dec,2023-12-01,georgia,3.2
+2024,Jan,2024-01-01,georgia,3.1
+2024,Feb,2024-02-01,georgia,3.1
+2024,Mar,2024-03-01,georgia,3.1
+2024,Apr,2024-04-01,georgia,3.1
+2024,May,2024-05-01,georgia,3.2
+2024,Jun,2024-06-01,georgia,3.3
+2015,Jan,2015-01-01,hawaii,3.8
+2015,Feb,2015-02-01,hawaii,3.8
+2015,Mar,2015-03-01,hawaii,3.7
+2015,Apr,2015-04-01,hawaii,3.6
+2015,May,2015-05-01,hawaii,3.5
+2015,Jun,2015-06-01,hawaii,3.4
+2015,Jul,2015-07-01,hawaii,3.3
+2015,Aug,2015-08-01,hawaii,3.3
+2015,Sep,2015-09-01,hawaii,3.2
+2015,Oct,2015-10-01,hawaii,3.2
+2015,Nov,2015-11-01,hawaii,3.1
+2015,Dec,2015-12-01,hawaii,3.1
+2016,Jan,2016-01-01,hawaii,3.0
+2016,Feb,2016-02-01,hawaii,3.0
+2016,Mar,2016-03-01,hawaii,3.0
+2016,Apr,2016-04-01,hawaii,3.0
+2016,May,2016-05-01,hawaii,3.0
+2016,Jun,2016-06-01,hawaii,2.9
+2016,Jul,2016-07-01,hawaii,2.9
+2016,Aug,2016-08-01,hawaii,2.9
+2016,Sep,2016-09-01,hawaii,2.8
+2016,Oct,2016-10-01,hawaii,2.8
+2016,Nov,2016-11-01,hawaii,2.7
+2016,Dec,2016-12-01,hawaii,2.7
+2017,Jan,2017-01-01,hawaii,2.6
+2017,Feb,2017-02-01,hawaii,2.6
+2017,Mar,2017-03-01,hawaii,2.5
+2017,Apr,2017-04-01,hawaii,2.5
+2017,May,2017-05-01,hawaii,2.4
+2017,Jun,2017-06-01,hawaii,2.3
+2017,Jul,2017-07-01,hawaii,2.1
+2017,Aug,2017-08-01,hawaii,2.0
+2017,Sep,2017-09-01,hawaii,1.9
+2017,Oct,2017-10-01,hawaii,1.9
+2017,Nov,2017-11-01,hawaii,1.9
+2017,Dec,2017-12-01,hawaii,1.9
+2018,Jan,2018-01-01,hawaii,2.1
+2018,Feb,2018-02-01,hawaii,2.1
+2018,Mar,2018-03-01,hawaii,2.2
+2018,Apr,2018-04-01,hawaii,2.2
+2018,May,2018-05-01,hawaii,2.3
+2018,Jun,2018-06-01,hawaii,2.4
+2018,Jul,2018-07-01,hawaii,2.4
+2018,Aug,2018-08-01,hawaii,2.5
+2018,Sep,2018-09-01,hawaii,2.6
+2018,Oct,2018-10-01,hawaii,2.6
+2018,Nov,2018-11-01,hawaii,2.7
+2018,Dec,2018-12-01,hawaii,2.8
+2019,Jan,2019-01-01,hawaii,2.8
+2019,Feb,2019-02-01,hawaii,2.7
+2019,Mar,2019-03-01,hawaii,2.7
+2019,Apr,2019-04-01,hawaii,2.6
+2019,May,2019-05-01,hawaii,2.6
+2019,Jun,2019-06-01,hawaii,2.5
+2019,Jul,2019-07-01,hawaii,2.5
+2019,Aug,2019-08-01,hawaii,2.4
+2019,Sep,2019-09-01,hawaii,2.4
+2019,Oct,2019-10-01,hawaii,2.4
+2019,Nov,2019-11-01,hawaii,2.3
+2019,Dec,2019-12-01,hawaii,2.3
+2020,Jan,2020-01-01,hawaii,2.2
+2020,Feb,2020-02-01,hawaii,2.2
+2020,Mar,2020-03-01,hawaii,2.1
+2020,Apr,2020-04-01,hawaii,22.5
+2020,May,2020-05-01,hawaii,20.8
+2020,Jun,2020-06-01,hawaii,17.4
+2020,Jul,2020-07-01,hawaii,15.6
+2020,Aug,2020-08-01,hawaii,13.1
+2020,Sep,2020-09-01,hawaii,13.4
+2020,Oct,2020-10-01,hawaii,11.4
+2020,Nov,2020-11-01,hawaii,10.6
+2020,Dec,2020-12-01,hawaii,10.2
+2021,Jan,2021-01-01,hawaii,9.5
+2021,Feb,2021-02-01,hawaii,9.1
+2021,Mar,2021-03-01,hawaii,8.4
+2021,Apr,2021-04-01,hawaii,7.7
+2021,May,2021-05-01,hawaii,6.8
+2021,Jun,2021-06-01,hawaii,6.3
+2021,Jul,2021-07-01,hawaii,5.4
+2021,Aug,2021-08-01,hawaii,4.7
+2021,Sep,2021-09-01,hawaii,4.0
+2021,Oct,2021-10-01,hawaii,3.3
+2021,Nov,2021-11-01,hawaii,3.2
+2021,Dec,2021-12-01,hawaii,3.1
+2022,Jan,2022-01-01,hawaii,3.1
+2022,Feb,2022-02-01,hawaii,3.2
+2022,Mar,2022-03-01,hawaii,3.2
+2022,Apr,2022-04-01,hawaii,3.3
+2022,May,2022-05-01,hawaii,3.3
+2022,Jun,2022-06-01,hawaii,3.3
+2022,Jul,2022-07-01,hawaii,3.3
+2022,Aug,2022-08-01,hawaii,3.3
+2022,Sep,2022-09-01,hawaii,3.3
+2022,Oct,2022-10-01,hawaii,3.3
+2022,Nov,2022-11-01,hawaii,3.3
+2022,Dec,2022-12-01,hawaii,3.2
+2023,Jan,2023-01-01,hawaii,3.1
+2023,Feb,2023-02-01,hawaii,3.0
+2023,Mar,2023-03-01,hawaii,2.9
+2023,Apr,2023-04-01,hawaii,2.9
+2023,May,2023-05-01,hawaii,2.8
+2023,Jun,2023-06-01,hawaii,2.8
+2023,Jul,2023-07-01,hawaii,2.8
+2023,Aug,2023-08-01,hawaii,2.9
+2023,Sep,2023-09-01,hawaii,3.0
+2023,Oct,2023-10-01,hawaii,3.0
+2023,Nov,2023-11-01,hawaii,3.0
+2023,Dec,2023-12-01,hawaii,3.0
+2024,Jan,2024-01-01,hawaii,3.1
+2024,Feb,2024-02-01,hawaii,3.1
+2024,Mar,2024-03-01,hawaii,3.1
+2024,Apr,2024-04-01,hawaii,3.1
+2024,May,2024-05-01,hawaii,3.0
+2024,Jun,2024-06-01,hawaii,2.9
+2015,Jan,2015-01-01,idaho,3.8
+2015,Feb,2015-02-01,idaho,3.9
+2015,Mar,2015-03-01,idaho,3.9
+2015,Apr,2015-04-01,idaho,3.9
+2015,May,2015-05-01,idaho,3.9
+2015,Jun,2015-06-01,idaho,3.9
+2015,Jul,2015-07-01,idaho,3.9
+2015,Aug,2015-08-01,idaho,3.9
+2015,Sep,2015-09-01,idaho,3.9
+2015,Oct,2015-10-01,idaho,3.8
+2015,Nov,2015-11-01,idaho,3.8
+2015,Dec,2015-12-01,idaho,3.8
+2016,Jan,2016-01-01,idaho,3.8
+2016,Feb,2016-02-01,idaho,3.8
+2016,Mar,2016-03-01,idaho,3.7
+2016,Apr,2016-04-01,idaho,3.7
+2016,May,2016-05-01,idaho,3.7
+2016,Jun,2016-06-01,idaho,3.7
+2016,Jul,2016-07-01,idaho,3.7
+2016,Aug,2016-08-01,idaho,3.7
+2016,Sep,2016-09-01,idaho,3.6
+2016,Oct,2016-10-01,idaho,3.6
+2016,Nov,2016-11-01,idaho,3.6
+2016,Dec,2016-12-01,idaho,3.5
+2017,Jan,2017-01-01,idaho,3.5
+2017,Feb,2017-02-01,idaho,3.4
+2017,Mar,2017-03-01,idaho,3.3
+2017,Apr,2017-04-01,idaho,3.2
+2017,May,2017-05-01,idaho,3.2
+2017,Jun,2017-06-01,idaho,3.1
+2017,Jul,2017-07-01,idaho,3.1
+2017,Aug,2017-08-01,idaho,3.2
+2017,Sep,2017-09-01,idaho,3.2
+2017,Oct,2017-10-01,idaho,3.2
+2017,Nov,2017-11-01,idaho,3.1
+2017,Dec,2017-12-01,idaho,3.1
+2018,Jan,2018-01-01,idaho,3.0
+2018,Feb,2018-02-01,idaho,2.9
+2018,Mar,2018-03-01,idaho,2.9
+2018,Apr,2018-04-01,idaho,2.8
+2018,May,2018-05-01,idaho,2.8
+2018,Jun,2018-06-01,idaho,2.8
+2018,Jul,2018-07-01,idaho,2.8
+2018,Aug,2018-08-01,idaho,2.8
+2018,Sep,2018-09-01,idaho,2.8
+2018,Oct,2018-10-01,idaho,2.9
+2018,Nov,2018-11-01,idaho,3.0
+2018,Dec,2018-12-01,idaho,3.0
+2019,Jan,2019-01-01,idaho,3.0
+2019,Feb,2019-02-01,idaho,3.0
+2019,Mar,2019-03-01,idaho,2.9
+2019,Apr,2019-04-01,idaho,2.9
+2019,May,2019-05-01,idaho,2.8
+2019,Jun,2019-06-01,idaho,2.8
+2019,Jul,2019-07-01,idaho,2.9
+2019,Aug,2019-08-01,idaho,2.9
+2019,Sep,2019-09-01,idaho,2.9
+2019,Oct,2019-10-01,idaho,2.9
+2019,Nov,2019-11-01,idaho,2.8
+2019,Dec,2019-12-01,idaho,2.8
+2020,Jan,2020-01-01,idaho,2.8
+2020,Feb,2020-02-01,idaho,2.8
+2020,Mar,2020-03-01,idaho,2.7
+2020,Apr,2020-04-01,idaho,11.8
+2020,May,2020-05-01,idaho,9.1
+2020,Jun,2020-06-01,idaho,7.5
+2020,Jul,2020-07-01,idaho,6.6
+2020,Aug,2020-08-01,idaho,5.4
+2020,Sep,2020-09-01,idaho,5.0
+2020,Oct,2020-10-01,idaho,4.4
+2020,Nov,2020-11-01,idaho,4.2
+2020,Dec,2020-12-01,idaho,4.2
+2021,Jan,2021-01-01,idaho,4.1
+2021,Feb,2021-02-01,idaho,4.1
+2021,Mar,2021-03-01,idaho,4.0
+2021,Apr,2021-04-01,idaho,3.9
+2021,May,2021-05-01,idaho,3.7
+2021,Jun,2021-06-01,idaho,3.6
+2021,Jul,2021-07-01,idaho,3.5
+2021,Aug,2021-08-01,idaho,3.4
+2021,Sep,2021-09-01,idaho,3.3
+2021,Oct,2021-10-01,idaho,3.1
+2021,Nov,2021-11-01,idaho,3.0
+2021,Dec,2021-12-01,idaho,2.9
+2022,Jan,2022-01-01,idaho,2.8
+2022,Feb,2022-02-01,idaho,2.7
+2022,Mar,2022-03-01,idaho,2.7
+2022,Apr,2022-04-01,idaho,2.7
+2022,May,2022-05-01,idaho,2.7
+2022,Jun,2022-06-01,idaho,2.8
+2022,Jul,2022-07-01,idaho,2.9
+2022,Aug,2022-08-01,idaho,2.9
+2022,Sep,2022-09-01,idaho,3.0
+2022,Oct,2022-10-01,idaho,3.0
+2022,Nov,2022-11-01,idaho,3.0
+2022,Dec,2022-12-01,idaho,2.9
+2023,Jan,2023-01-01,idaho,2.9
+2023,Feb,2023-02-01,idaho,2.9
+2023,Mar,2023-03-01,idaho,2.9
+2023,Apr,2023-04-01,idaho,2.9
+2023,May,2023-05-01,idaho,2.9
+2023,Jun,2023-06-01,idaho,3.0
+2023,Jul,2023-07-01,idaho,3.1
+2023,Aug,2023-08-01,idaho,3.2
+2023,Sep,2023-09-01,idaho,3.3
+2023,Oct,2023-10-01,idaho,3.3
+2023,Nov,2023-11-01,idaho,3.3
+2023,Dec,2023-12-01,idaho,3.3
+2024,Jan,2024-01-01,idaho,3.3
+2024,Feb,2024-02-01,idaho,3.3
+2024,Mar,2024-03-01,idaho,3.3
+2024,Apr,2024-04-01,idaho,3.3
+2024,May,2024-05-01,idaho,3.3
+2024,Jun,2024-06-01,idaho,3.4
+2015,Jan,2015-01-01,illinois,6.1
+2015,Feb,2015-02-01,illinois,6.1
+2015,Mar,2015-03-01,illinois,6.0
+2015,Apr,2015-04-01,illinois,6.0
+2015,May,2015-05-01,illinois,6.0
+2015,Jun,2015-06-01,illinois,6.0
+2015,Jul,2015-07-01,illinois,5.9
+2015,Aug,2015-08-01,illinois,5.9
+2015,Sep,2015-09-01,illinois,5.9
+2015,Oct,2015-10-01,illinois,5.9
+2015,Nov,2015-11-01,illinois,6.0
+2015,Dec,2015-12-01,illinois,6.1
+2016,Jan,2016-01-01,illinois,6.2
+2016,Feb,2016-02-01,illinois,6.2
+2016,Mar,2016-03-01,illinois,6.2
+2016,Apr,2016-04-01,illinois,6.1
+2016,May,2016-05-01,illinois,6.0
+2016,Jun,2016-06-01,illinois,5.9
+2016,Jul,2016-07-01,illinois,5.8
+2016,Aug,2016-08-01,illinois,5.8
+2016,Sep,2016-09-01,illinois,5.7
+2016,Oct,2016-10-01,illinois,5.7
+2016,Nov,2016-11-01,illinois,5.6
+2016,Dec,2016-12-01,illinois,5.4
+2017,Jan,2017-01-01,illinois,5.3
+2017,Feb,2017-02-01,illinois,5.1
+2017,Mar,2017-03-01,illinois,5.0
+2017,Apr,2017-04-01,illinois,4.9
+2017,May,2017-05-01,illinois,4.9
+2017,Jun,2017-06-01,illinois,4.9
+2017,Jul,2017-07-01,illinois,5.0
+2017,Aug,2017-08-01,illinois,5.0
+2017,Sep,2017-09-01,illinois,4.9
+2017,Oct,2017-10-01,illinois,4.9
+2017,Nov,2017-11-01,illinois,4.8
+2017,Dec,2017-12-01,illinois,4.7
+2018,Jan,2018-01-01,illinois,4.6
+2018,Feb,2018-02-01,illinois,4.5
+2018,Mar,2018-03-01,illinois,4.4
+2018,Apr,2018-04-01,illinois,4.3
+2018,May,2018-05-01,illinois,4.3
+2018,Jun,2018-06-01,illinois,4.2
+2018,Jul,2018-07-01,illinois,4.3
+2018,Aug,2018-08-01,illinois,4.3
+2018,Sep,2018-09-01,illinois,4.4
+2018,Oct,2018-10-01,illinois,4.4
+2018,Nov,2018-11-01,illinois,4.5
+2018,Dec,2018-12-01,illinois,4.6
+2019,Jan,2019-01-01,illinois,4.6
+2019,Feb,2019-02-01,illinois,4.5
+2019,Mar,2019-03-01,illinois,4.4
+2019,Apr,2019-04-01,illinois,4.2
+2019,May,2019-05-01,illinois,4.0
+2019,Jun,2019-06-01,illinois,3.8
+2019,Jul,2019-07-01,illinois,3.8
+2019,Aug,2019-08-01,illinois,3.7
+2019,Sep,2019-09-01,illinois,3.7
+2019,Oct,2019-10-01,illinois,3.7
+2019,Nov,2019-11-01,illinois,3.6
+2019,Dec,2019-12-01,illinois,3.6
+2020,Jan,2020-01-01,illinois,3.7
+2020,Feb,2020-02-01,illinois,3.9
+2020,Mar,2020-03-01,illinois,5.1
+2020,Apr,2020-04-01,illinois,18.1
+2020,May,2020-05-01,illinois,14.7
+2020,Jun,2020-06-01,illinois,12.6
+2020,Jul,2020-07-01,illinois,11.4
+2020,Aug,2020-08-01,illinois,9.7
+2020,Sep,2020-09-01,illinois,9.0
+2020,Oct,2020-10-01,illinois,8.1
+2020,Nov,2020-11-01,illinois,7.8
+2020,Dec,2020-12-01,illinois,7.6
+2021,Jan,2021-01-01,illinois,7.2
+2021,Feb,2021-02-01,illinois,7.0
+2021,Mar,2021-03-01,illinois,6.8
+2021,Apr,2021-04-01,illinois,6.7
+2021,May,2021-05-01,illinois,6.5
+2021,Jun,2021-06-01,illinois,6.4
+2021,Jul,2021-07-01,illinois,6.2
+2021,Aug,2021-08-01,illinois,5.9
+2021,Sep,2021-09-01,illinois,5.5
+2021,Oct,2021-10-01,illinois,5.2
+2021,Nov,2021-11-01,illinois,5.0
+2021,Dec,2021-12-01,illinois,4.8
+2022,Jan,2022-01-01,illinois,4.7
+2022,Feb,2022-02-01,illinois,4.7
+2022,Mar,2022-03-01,illinois,4.6
+2022,Apr,2022-04-01,illinois,4.5
+2022,May,2022-05-01,illinois,4.5
+2022,Jun,2022-06-01,illinois,4.5
+2022,Jul,2022-07-01,illinois,4.5
+2022,Aug,2022-08-01,illinois,4.5
+2022,Sep,2022-09-01,illinois,4.6
+2022,Oct,2022-10-01,illinois,4.6
+2022,Nov,2022-11-01,illinois,4.6
+2022,Dec,2022-12-01,illinois,4.5
+2023,Jan,2023-01-01,illinois,4.4
+2023,Feb,2023-02-01,illinois,4.3
+2023,Mar,2023-03-01,illinois,4.2
+2023,Apr,2023-04-01,illinois,4.2
+2023,May,2023-05-01,illinois,4.2
+2023,Jun,2023-06-01,illinois,4.3
+2023,Jul,2023-07-01,illinois,4.4
+2023,Aug,2023-08-01,illinois,4.6
+2023,Sep,2023-09-01,illinois,4.7
+2023,Oct,2023-10-01,illinois,4.8
+2023,Nov,2023-11-01,illinois,4.7
+2023,Dec,2023-12-01,illinois,4.7
+2024,Jan,2024-01-01,illinois,4.7
+2024,Feb,2024-02-01,illinois,4.8
+2024,Mar,2024-03-01,illinois,4.8
+2024,Apr,2024-04-01,illinois,4.8
+2024,May,2024-05-01,illinois,4.9
+2024,Jun,2024-06-01,illinois,5.0
+2015,Jan,2015-01-01,indiana,5.4
+2015,Feb,2015-02-01,indiana,5.2
+2015,Mar,2015-03-01,indiana,5.1
+2015,Apr,2015-04-01,indiana,4.9
+2015,May,2015-05-01,indiana,4.8
+2015,Jun,2015-06-01,indiana,4.7
+2015,Jul,2015-07-01,indiana,4.6
+2015,Aug,2015-08-01,indiana,4.6
+2015,Sep,2015-09-01,indiana,4.5
+2015,Oct,2015-10-01,indiana,4.5
+2015,Nov,2015-11-01,indiana,4.5
+2015,Dec,2015-12-01,indiana,4.6
+2016,Jan,2016-01-01,indiana,4.6
+2016,Feb,2016-02-01,indiana,4.6
+2016,Mar,2016-03-01,indiana,4.6
+2016,Apr,2016-04-01,indiana,4.6
+2016,May,2016-05-01,indiana,4.5
+2016,Jun,2016-06-01,indiana,4.4
+2016,Jul,2016-07-01,indiana,4.4
+2016,Aug,2016-08-01,indiana,4.3
+2016,Sep,2016-09-01,indiana,4.2
+2016,Oct,2016-10-01,indiana,4.1
+2016,Nov,2016-11-01,indiana,4.1
+2016,Dec,2016-12-01,indiana,4.0
+2017,Jan,2017-01-01,indiana,3.8
+2017,Feb,2017-02-01,indiana,3.7
+2017,Mar,2017-03-01,indiana,3.5
+2017,Apr,2017-04-01,indiana,3.4
+2017,May,2017-05-01,indiana,3.4
+2017,Jun,2017-06-01,indiana,3.4
+2017,Jul,2017-07-01,indiana,3.5
+2017,Aug,2017-08-01,indiana,3.5
+2017,Sep,2017-09-01,indiana,3.5
+2017,Oct,2017-10-01,indiana,3.5
+2017,Nov,2017-11-01,indiana,3.4
+2017,Dec,2017-12-01,indiana,3.3
+2018,Jan,2018-01-01,indiana,3.3
+2018,Feb,2018-02-01,indiana,3.3
+2018,Mar,2018-03-01,indiana,3.3
+2018,Apr,2018-04-01,indiana,3.4
+2018,May,2018-05-01,indiana,3.4
+2018,Jun,2018-06-01,indiana,3.4
+2018,Jul,2018-07-01,indiana,3.4
+2018,Aug,2018-08-01,indiana,3.5
+2018,Sep,2018-09-01,indiana,3.5
+2018,Oct,2018-10-01,indiana,3.5
+2018,Nov,2018-11-01,indiana,3.6
+2018,Dec,2018-12-01,indiana,3.6
+2019,Jan,2019-01-01,indiana,3.5
+2019,Feb,2019-02-01,indiana,3.5
+2019,Mar,2019-03-01,indiana,3.4
+2019,Apr,2019-04-01,indiana,3.3
+2019,May,2019-05-01,indiana,3.2
+2019,Jun,2019-06-01,indiana,3.2
+2019,Jul,2019-07-01,indiana,3.2
+2019,Aug,2019-08-01,indiana,3.2
+2019,Sep,2019-09-01,indiana,3.3
+2019,Oct,2019-10-01,indiana,3.3
+2019,Nov,2019-11-01,indiana,3.3
+2019,Dec,2019-12-01,indiana,3.3
+2020,Jan,2020-01-01,indiana,3.3
+2020,Feb,2020-02-01,indiana,3.4
+2020,Mar,2020-03-01,indiana,3.5
+2020,Apr,2020-04-01,indiana,16.8
+2020,May,2020-05-01,indiana,12.5
+2020,Jun,2020-06-01,indiana,10.3
+2020,Jul,2020-07-01,indiana,8.9
+2020,Aug,2020-08-01,indiana,7.2
+2020,Sep,2020-09-01,indiana,6.5
+2020,Oct,2020-10-01,indiana,5.6
+2020,Nov,2020-11-01,indiana,5.2
+2020,Dec,2020-12-01,indiana,5.0
+2021,Jan,2021-01-01,indiana,4.7
+2021,Feb,2021-02-01,indiana,4.6
+2021,Mar,2021-03-01,indiana,4.5
+2021,Apr,2021-04-01,indiana,4.4
+2021,May,2021-05-01,indiana,4.2
+2021,Jun,2021-06-01,indiana,4.1
+2021,Jul,2021-07-01,indiana,3.9
+2021,Aug,2021-08-01,indiana,3.7
+2021,Sep,2021-09-01,indiana,3.5
+2021,Oct,2021-10-01,indiana,3.3
+2021,Nov,2021-11-01,indiana,3.1
+2021,Dec,2021-12-01,indiana,3.0
+2022,Jan,2022-01-01,indiana,2.9
+2022,Feb,2022-02-01,indiana,2.9
+2022,Mar,2022-03-01,indiana,2.8
+2022,Apr,2022-04-01,indiana,2.9
+2022,May,2022-05-01,indiana,2.9
+2022,Jun,2022-06-01,indiana,3.0
+2022,Jul,2022-07-01,indiana,3.1
+2022,Aug,2022-08-01,indiana,3.2
+2022,Sep,2022-09-01,indiana,3.2
+2022,Oct,2022-10-01,indiana,3.3
+2022,Nov,2022-11-01,indiana,3.3
+2022,Dec,2022-12-01,indiana,3.3
+2023,Jan,2023-01-01,indiana,3.2
+2023,Feb,2023-02-01,indiana,3.2
+2023,Mar,2023-03-01,indiana,3.2
+2023,Apr,2023-04-01,indiana,3.2
+2023,May,2023-05-01,indiana,3.2
+2023,Jun,2023-06-01,indiana,3.3
+2023,Jul,2023-07-01,indiana,3.4
+2023,Aug,2023-08-01,indiana,3.4
+2023,Sep,2023-09-01,indiana,3.5
+2023,Oct,2023-10-01,indiana,3.5
+2023,Nov,2023-11-01,indiana,3.5
+2023,Dec,2023-12-01,indiana,3.5
+2024,Jan,2024-01-01,indiana,3.5
+2024,Feb,2024-02-01,indiana,3.5
+2024,Mar,2024-03-01,indiana,3.5
+2024,Apr,2024-04-01,indiana,3.6
+2024,May,2024-05-01,indiana,3.7
+2024,Jun,2024-06-01,indiana,3.8
+2015,Jan,2015-01-01,iowa,3.9
+2015,Feb,2015-02-01,iowa,3.8
+2015,Mar,2015-03-01,iowa,3.8
+2015,Apr,2015-04-01,iowa,3.8
+2015,May,2015-05-01,iowa,3.7
+2015,Jun,2015-06-01,iowa,3.7
+2015,Jul,2015-07-01,iowa,3.6
+2015,Aug,2015-08-01,iowa,3.6
+2015,Sep,2015-09-01,iowa,3.6
+2015,Oct,2015-10-01,iowa,3.6
+2015,Nov,2015-11-01,iowa,3.6
+2015,Dec,2015-12-01,iowa,3.6
+2016,Jan,2016-01-01,iowa,3.6
+2016,Feb,2016-02-01,iowa,3.6
+2016,Mar,2016-03-01,iowa,3.6
+2016,Apr,2016-04-01,iowa,3.6
+2016,May,2016-05-01,iowa,3.6
+2016,Jun,2016-06-01,iowa,3.7
+2016,Jul,2016-07-01,iowa,3.6
+2016,Aug,2016-08-01,iowa,3.6
+2016,Sep,2016-09-01,iowa,3.6
+2016,Oct,2016-10-01,iowa,3.5
+2016,Nov,2016-11-01,iowa,3.5
+2016,Dec,2016-12-01,iowa,3.4
+2017,Jan,2017-01-01,iowa,3.3
+2017,Feb,2017-02-01,iowa,3.2
+2017,Mar,2017-03-01,iowa,3.2
+2017,Apr,2017-04-01,iowa,3.1
+2017,May,2017-05-01,iowa,3.1
+2017,Jun,2017-06-01,iowa,3.1
+2017,Jul,2017-07-01,iowa,3.1
+2017,Aug,2017-08-01,iowa,3.0
+2017,Sep,2017-09-01,iowa,3.0
+2017,Oct,2017-10-01,iowa,2.9
+2017,Nov,2017-11-01,iowa,2.9
+2017,Dec,2017-12-01,iowa,2.8
+2018,Jan,2018-01-01,iowa,2.8
+2018,Feb,2018-02-01,iowa,2.7
+2018,Mar,2018-03-01,iowa,2.6
+2018,Apr,2018-04-01,iowa,2.6
+2018,May,2018-05-01,iowa,2.5
+2018,Jun,2018-06-01,iowa,2.5
+2018,Jul,2018-07-01,iowa,2.5
+2018,Aug,2018-08-01,iowa,2.5
+2018,Sep,2018-09-01,iowa,2.5
+2018,Oct,2018-10-01,iowa,2.5
+2018,Nov,2018-11-01,iowa,2.6
+2018,Dec,2018-12-01,iowa,2.6
+2019,Jan,2019-01-01,iowa,2.6
+2019,Feb,2019-02-01,iowa,2.6
+2019,Mar,2019-03-01,iowa,2.6
+2019,Apr,2019-04-01,iowa,2.6
+2019,May,2019-05-01,iowa,2.6
+2019,Jun,2019-06-01,iowa,2.6
+2019,Jul,2019-07-01,iowa,2.7
+2019,Aug,2019-08-01,iowa,2.7
+2019,Sep,2019-09-01,iowa,2.8
+2019,Oct,2019-10-01,iowa,2.7
+2019,Nov,2019-11-01,iowa,2.7
+2019,Dec,2019-12-01,iowa,2.7
+2020,Jan,2020-01-01,iowa,2.7
+2020,Feb,2020-02-01,iowa,2.7
+2020,Mar,2020-03-01,iowa,2.6
+2020,Apr,2020-04-01,iowa,11.0
+2020,May,2020-05-01,iowa,8.4
+2020,Jun,2020-06-01,iowa,6.8
+2020,Jul,2020-07-01,iowa,5.9
+2020,Aug,2020-08-01,iowa,5.0
+2020,Sep,2020-09-01,iowa,4.6
+2020,Oct,2020-10-01,iowa,4.3
+2020,Nov,2020-11-01,iowa,4.2
+2020,Dec,2020-12-01,iowa,4.2
+2021,Jan,2021-01-01,iowa,4.2
+2021,Feb,2021-02-01,iowa,4.2
+2021,Mar,2021-03-01,iowa,4.3
+2021,Apr,2021-04-01,iowa,4.3
+2021,May,2021-05-01,iowa,4.3
+2021,Jun,2021-06-01,iowa,4.2
+2021,Jul,2021-07-01,iowa,4.0
+2021,Aug,2021-08-01,iowa,3.8
+2021,Sep,2021-09-01,iowa,3.6
+2021,Oct,2021-10-01,iowa,3.3
+2021,Nov,2021-11-01,iowa,3.1
+2021,Dec,2021-12-01,iowa,2.9
+2022,Jan,2022-01-01,iowa,2.7
+2022,Feb,2022-02-01,iowa,2.6
+2022,Mar,2022-03-01,iowa,2.5
+2022,Apr,2022-04-01,iowa,2.5
+2022,May,2022-05-01,iowa,2.6
+2022,Jun,2022-06-01,iowa,2.7
+2022,Jul,2022-07-01,iowa,2.8
+2022,Aug,2022-08-01,iowa,3.0
+2022,Sep,2022-09-01,iowa,3.1
+2022,Oct,2022-10-01,iowa,3.1
+2022,Nov,2022-11-01,iowa,3.1
+2022,Dec,2022-12-01,iowa,3.0
+2023,Jan,2023-01-01,iowa,2.9
+2023,Feb,2023-02-01,iowa,2.9
+2023,Mar,2023-03-01,iowa,2.8
+2023,Apr,2023-04-01,iowa,2.8
+2023,May,2023-05-01,iowa,2.8
+2023,Jun,2023-06-01,iowa,2.9
+2023,Jul,2023-07-01,iowa,3.0
+2023,Aug,2023-08-01,iowa,3.1
+2023,Sep,2023-09-01,iowa,3.1
+2023,Oct,2023-10-01,iowa,3.1
+2023,Nov,2023-11-01,iowa,3.1
+2023,Dec,2023-12-01,iowa,3.0
+2024,Jan,2024-01-01,iowa,3.0
+2024,Feb,2024-02-01,iowa,3.0
+2024,Mar,2024-03-01,iowa,2.9
+2024,Apr,2024-04-01,iowa,2.8
+2024,May,2024-05-01,iowa,2.8
+2024,Jun,2024-06-01,iowa,2.8
+2015,Jan,2015-01-01,kansas,4.3
+2015,Feb,2015-02-01,kansas,4.4
+2015,Mar,2015-03-01,kansas,4.4
+2015,Apr,2015-04-01,kansas,4.4
+2015,May,2015-05-01,kansas,4.3
+2015,Jun,2015-06-01,kansas,4.2
+2015,Jul,2015-07-01,kansas,4.1
+2015,Aug,2015-08-01,kansas,4.0
+2015,Sep,2015-09-01,kansas,4.0
+2015,Oct,2015-10-01,kansas,3.9
+2015,Nov,2015-11-01,kansas,3.9
+2015,Dec,2015-12-01,kansas,3.9
+2016,Jan,2016-01-01,kansas,3.9
+2016,Feb,2016-02-01,kansas,3.9
+2016,Mar,2016-03-01,kansas,3.9
+2016,Apr,2016-04-01,kansas,4.0
+2016,May,2016-05-01,kansas,4.0
+2016,Jun,2016-06-01,kansas,4.0
+2016,Jul,2016-07-01,kansas,4.1
+2016,Aug,2016-08-01,kansas,4.1
+2016,Sep,2016-09-01,kansas,4.1
+2016,Oct,2016-10-01,kansas,4.1
+2016,Nov,2016-11-01,kansas,4.1
+2016,Dec,2016-12-01,kansas,4.0
+2017,Jan,2017-01-01,kansas,3.9
+2017,Feb,2017-02-01,kansas,3.8
+2017,Mar,2017-03-01,kansas,3.7
+2017,Apr,2017-04-01,kansas,3.6
+2017,May,2017-05-01,kansas,3.6
+2017,Jun,2017-06-01,kansas,3.6
+2017,Jul,2017-07-01,kansas,3.6
+2017,Aug,2017-08-01,kansas,3.6
+2017,Sep,2017-09-01,kansas,3.6
+2017,Oct,2017-10-01,kansas,3.5
+2017,Nov,2017-11-01,kansas,3.5
+2017,Dec,2017-12-01,kansas,3.4
+2018,Jan,2018-01-01,kansas,3.5
+2018,Feb,2018-02-01,kansas,3.4
+2018,Mar,2018-03-01,kansas,3.4
+2018,Apr,2018-04-01,kansas,3.4
+2018,May,2018-05-01,kansas,3.3
+2018,Jun,2018-06-01,kansas,3.3
+2018,Jul,2018-07-01,kansas,3.3
+2018,Aug,2018-08-01,kansas,3.3
+2018,Sep,2018-09-01,kansas,3.3
+2018,Oct,2018-10-01,kansas,3.3
+2018,Nov,2018-11-01,kansas,3.4
+2018,Dec,2018-12-01,kansas,3.4
+2019,Jan,2019-01-01,kansas,3.3
+2019,Feb,2019-02-01,kansas,3.3
+2019,Mar,2019-03-01,kansas,3.2
+2019,Apr,2019-04-01,kansas,3.2
+2019,May,2019-05-01,kansas,3.2
+2019,Jun,2019-06-01,kansas,3.1
+2019,Jul,2019-07-01,kansas,3.1
+2019,Aug,2019-08-01,kansas,3.1
+2019,Sep,2019-09-01,kansas,3.1
+2019,Oct,2019-10-01,kansas,3.1
+2019,Nov,2019-11-01,kansas,3.1
+2019,Dec,2019-12-01,kansas,3.1
+2020,Jan,2020-01-01,kansas,3.1
+2020,Feb,2020-02-01,kansas,3.1
+2020,Mar,2020-03-01,kansas,3.1
+2020,Apr,2020-04-01,kansas,12.1
+2020,May,2020-05-01,kansas,9.1
+2020,Jun,2020-06-01,kansas,7.4
+2020,Jul,2020-07-01,kansas,6.7
+2020,Aug,2020-08-01,kansas,5.8
+2020,Sep,2020-09-01,kansas,5.4
+2020,Oct,2020-10-01,kansas,4.9
+2020,Nov,2020-11-01,kansas,4.7
+2020,Dec,2020-12-01,kansas,4.4
+2021,Jan,2021-01-01,kansas,4.0
+2021,Feb,2021-02-01,kansas,3.8
+2021,Mar,2021-03-01,kansas,3.7
+2021,Apr,2021-04-01,kansas,3.6
+2021,May,2021-05-01,kansas,3.6
+2021,Jun,2021-06-01,kansas,3.5
+2021,Jul,2021-07-01,kansas,3.4
+2021,Aug,2021-08-01,kansas,3.3
+2021,Sep,2021-09-01,kansas,3.1
+2021,Oct,2021-10-01,kansas,2.9
+2021,Nov,2021-11-01,kansas,2.7
+2021,Dec,2021-12-01,kansas,2.6
+2022,Jan,2022-01-01,kansas,2.5
+2022,Feb,2022-02-01,kansas,2.5
+2022,Mar,2022-03-01,kansas,2.5
+2022,Apr,2022-04-01,kansas,2.5
+2022,May,2022-05-01,kansas,2.5
+2022,Jun,2022-06-01,kansas,2.6
+2022,Jul,2022-07-01,kansas,2.6
+2022,Aug,2022-08-01,kansas,2.7
+2022,Sep,2022-09-01,kansas,2.7
+2022,Oct,2022-10-01,kansas,2.8
+2022,Nov,2022-11-01,kansas,2.8
+2022,Dec,2022-12-01,kansas,2.8
+2023,Jan,2023-01-01,kansas,2.8
+2023,Feb,2023-02-01,kansas,2.8
+2023,Mar,2023-03-01,kansas,2.7
+2023,Apr,2023-04-01,kansas,2.7
+2023,May,2023-05-01,kansas,2.6
+2023,Jun,2023-06-01,kansas,2.6
+2023,Jul,2023-07-01,kansas,2.6
+2023,Aug,2023-08-01,kansas,2.6
+2023,Sep,2023-09-01,kansas,2.6
+2023,Oct,2023-10-01,kansas,2.6
+2023,Nov,2023-11-01,kansas,2.6
+2023,Dec,2023-12-01,kansas,2.6
+2024,Jan,2024-01-01,kansas,2.6
+2024,Feb,2024-02-01,kansas,2.7
+2024,Mar,2024-03-01,kansas,2.7
+2024,Apr,2024-04-01,kansas,2.8
+2024,May,2024-05-01,kansas,2.9
+2024,Jun,2024-06-01,kansas,3.1
+2015,Jan,2015-01-01,kentucky,5.3
+2015,Feb,2015-02-01,kentucky,5.3
+2015,Mar,2015-03-01,kentucky,5.3
+2015,Apr,2015-04-01,kentucky,5.3
+2015,May,2015-05-01,kentucky,5.2
+2015,Jun,2015-06-01,kentucky,5.2
+2015,Jul,2015-07-01,kentucky,5.2
+2015,Aug,2015-08-01,kentucky,5.2
+2015,Sep,2015-09-01,kentucky,5.2
+2015,Oct,2015-10-01,kentucky,5.2
+2015,Nov,2015-11-01,kentucky,5.2
+2015,Dec,2015-12-01,kentucky,5.2
+2016,Jan,2016-01-01,kentucky,5.2
+2016,Feb,2016-02-01,kentucky,5.1
+2016,Mar,2016-03-01,kentucky,5.1
+2016,Apr,2016-04-01,kentucky,5.0
+2016,May,2016-05-01,kentucky,4.9
+2016,Jun,2016-06-01,kentucky,4.9
+2016,Jul,2016-07-01,kentucky,4.9
+2016,Aug,2016-08-01,kentucky,5.0
+2016,Sep,2016-09-01,kentucky,5.0
+2016,Oct,2016-10-01,kentucky,5.1
+2016,Nov,2016-11-01,kentucky,5.1
+2016,Dec,2016-12-01,kentucky,5.1
+2017,Jan,2017-01-01,kentucky,5.1
+2017,Feb,2017-02-01,kentucky,5.0
+2017,Mar,2017-03-01,kentucky,5.0
+2017,Apr,2017-04-01,kentucky,5.0
+2017,May,2017-05-01,kentucky,4.9
+2017,Jun,2017-06-01,kentucky,4.9
+2017,Jul,2017-07-01,kentucky,4.8
+2017,Aug,2017-08-01,kentucky,4.8
+2017,Sep,2017-09-01,kentucky,4.6
+2017,Oct,2017-10-01,kentucky,4.5
+2017,Nov,2017-11-01,kentucky,4.4
+2017,Dec,2017-12-01,kentucky,4.3
+2018,Jan,2018-01-01,kentucky,4.2
+2018,Feb,2018-02-01,kentucky,4.2
+2018,Mar,2018-03-01,kentucky,4.2
+2018,Apr,2018-04-01,kentucky,4.2
+2018,May,2018-05-01,kentucky,4.2
+2018,Jun,2018-06-01,kentucky,4.2
+2018,Jul,2018-07-01,kentucky,4.2
+2018,Aug,2018-08-01,kentucky,4.2
+2018,Sep,2018-09-01,kentucky,4.2
+2018,Oct,2018-10-01,kentucky,4.2
+2018,Nov,2018-11-01,kentucky,4.2
+2018,Dec,2018-12-01,kentucky,4.2
+2019,Jan,2019-01-01,kentucky,4.2
+2019,Feb,2019-02-01,kentucky,4.2
+2019,Mar,2019-03-01,kentucky,4.1
+2019,Apr,2019-04-01,kentucky,4.1
+2019,May,2019-05-01,kentucky,4.1
+2019,Jun,2019-06-01,kentucky,4.1
+2019,Jul,2019-07-01,kentucky,4.1
+2019,Aug,2019-08-01,kentucky,4.1
+2019,Sep,2019-09-01,kentucky,4.1
+2019,Oct,2019-10-01,kentucky,4.0
+2019,Nov,2019-11-01,kentucky,4.0
+2019,Dec,2019-12-01,kentucky,4.0
+2020,Jan,2020-01-01,kentucky,4.1
+2020,Feb,2020-02-01,kentucky,4.1
+2020,Mar,2020-03-01,kentucky,4.2
+2020,Apr,2020-04-01,kentucky,16.8
+2020,May,2020-05-01,kentucky,12.8
+2020,Jun,2020-06-01,kentucky,5.3
+2020,Jul,2020-07-01,kentucky,5.8
+2020,Aug,2020-08-01,kentucky,5.2
+2020,Sep,2020-09-01,kentucky,5.0
+2020,Oct,2020-10-01,kentucky,4.8
+2020,Nov,2020-11-01,kentucky,4.8
+2020,Dec,2020-12-01,kentucky,4.7
+2021,Jan,2021-01-01,kentucky,4.6
+2021,Feb,2021-02-01,kentucky,4.6
+2021,Mar,2021-03-01,kentucky,4.6
+2021,Apr,2021-04-01,kentucky,4.6
+2021,May,2021-05-01,kentucky,4.5
+2021,Jun,2021-06-01,kentucky,4.6
+2021,Jul,2021-07-01,kentucky,4.6
+2021,Aug,2021-08-01,kentucky,4.5
+2021,Sep,2021-09-01,kentucky,4.4
+2021,Oct,2021-10-01,kentucky,4.3
+2021,Nov,2021-11-01,kentucky,4.2
+2021,Dec,2021-12-01,kentucky,4.1
+2022,Jan,2022-01-01,kentucky,4.0
+2022,Feb,2022-02-01,kentucky,4.0
+2022,Mar,2022-03-01,kentucky,3.9
+2022,Apr,2022-04-01,kentucky,3.9
+2022,May,2022-05-01,kentucky,4.0
+2022,Jun,2022-06-01,kentucky,4.0
+2022,Jul,2022-07-01,kentucky,4.0
+2022,Aug,2022-08-01,kentucky,4.1
+2022,Sep,2022-09-01,kentucky,4.1
+2022,Oct,2022-10-01,kentucky,4.1
+2022,Nov,2022-11-01,kentucky,4.1
+2022,Dec,2022-12-01,kentucky,4.1
+2023,Jan,2023-01-01,kentucky,4.1
+2023,Feb,2023-02-01,kentucky,4.0
+2023,Mar,2023-03-01,kentucky,4.0
+2023,Apr,2023-04-01,kentucky,4.0
+2023,May,2023-05-01,kentucky,4.1
+2023,Jun,2023-06-01,kentucky,4.1
+2023,Jul,2023-07-01,kentucky,4.2
+2023,Aug,2023-08-01,kentucky,4.2
+2023,Sep,2023-09-01,kentucky,4.3
+2023,Oct,2023-10-01,kentucky,4.3
+2023,Nov,2023-11-01,kentucky,4.3
+2023,Dec,2023-12-01,kentucky,4.3
+2024,Jan,2024-01-01,kentucky,4.3
+2024,Feb,2024-02-01,kentucky,4.4
+2024,Mar,2024-03-01,kentucky,4.5
+2024,Apr,2024-04-01,kentucky,4.6
+2024,May,2024-05-01,kentucky,4.6
+2024,Jun,2024-06-01,kentucky,4.6
+2015,Jan,2015-01-01,louisiana,6.8
+2015,Feb,2015-02-01,louisiana,6.7
+2015,Mar,2015-03-01,louisiana,6.6
+2015,Apr,2015-04-01,louisiana,6.5
+2015,May,2015-05-01,louisiana,6.4
+2015,Jun,2015-06-01,louisiana,6.3
+2015,Jul,2015-07-01,louisiana,6.1
+2015,Aug,2015-08-01,louisiana,6.1
+2015,Sep,2015-09-01,louisiana,6.0
+2015,Oct,2015-10-01,louisiana,6.0
+2015,Nov,2015-11-01,louisiana,6.0
+2015,Dec,2015-12-01,louisiana,6.0
+2016,Jan,2016-01-01,louisiana,6.0
+2016,Feb,2016-02-01,louisiana,6.1
+2016,Mar,2016-03-01,louisiana,6.1
+2016,Apr,2016-04-01,louisiana,6.1
+2016,May,2016-05-01,louisiana,6.1
+2016,Jun,2016-06-01,louisiana,6.1
+2016,Jul,2016-07-01,louisiana,6.1
+2016,Aug,2016-08-01,louisiana,6.1
+2016,Sep,2016-09-01,louisiana,6.1
+2016,Oct,2016-10-01,louisiana,6.1
+2016,Nov,2016-11-01,louisiana,6.0
+2016,Dec,2016-12-01,louisiana,5.9
+2017,Jan,2017-01-01,louisiana,5.8
+2017,Feb,2017-02-01,louisiana,5.7
+2017,Mar,2017-03-01,louisiana,5.5
+2017,Apr,2017-04-01,louisiana,5.4
+2017,May,2017-05-01,louisiana,5.2
+2017,Jun,2017-06-01,louisiana,5.1
+2017,Jul,2017-07-01,louisiana,4.9
+2017,Aug,2017-08-01,louisiana,4.8
+2017,Sep,2017-09-01,louisiana,4.8
+2017,Oct,2017-10-01,louisiana,4.7
+2017,Nov,2017-11-01,louisiana,4.7
+2017,Dec,2017-12-01,louisiana,4.7
+2018,Jan,2018-01-01,louisiana,4.7
+2018,Feb,2018-02-01,louisiana,4.7
+2018,Mar,2018-03-01,louisiana,4.8
+2018,Apr,2018-04-01,louisiana,4.9
+2018,May,2018-05-01,louisiana,4.9
+2018,Jun,2018-06-01,louisiana,4.9
+2018,Jul,2018-07-01,louisiana,4.9
+2018,Aug,2018-08-01,louisiana,4.9
+2018,Sep,2018-09-01,louisiana,4.8
+2018,Oct,2018-10-01,louisiana,4.8
+2018,Nov,2018-11-01,louisiana,4.8
+2018,Dec,2018-12-01,louisiana,4.8
+2019,Jan,2019-01-01,louisiana,4.7
+2019,Feb,2019-02-01,louisiana,4.6
+2019,Mar,2019-03-01,louisiana,4.5
+2019,Apr,2019-04-01,louisiana,4.4
+2019,May,2019-05-01,louisiana,4.4
+2019,Jun,2019-06-01,louisiana,4.4
+2019,Jul,2019-07-01,louisiana,4.6
+2019,Aug,2019-08-01,louisiana,4.7
+2019,Sep,2019-09-01,louisiana,4.8
+2019,Oct,2019-10-01,louisiana,4.8
+2019,Nov,2019-11-01,louisiana,4.8
+2019,Dec,2019-12-01,louisiana,4.8
+2020,Jan,2020-01-01,louisiana,4.8
+2020,Feb,2020-02-01,louisiana,4.7
+2020,Mar,2020-03-01,louisiana,6.7
+2020,Apr,2020-04-01,louisiana,13.5
+2020,May,2020-05-01,louisiana,12.3
+2020,Jun,2020-06-01,louisiana,11.0
+2020,Jul,2020-07-01,louisiana,10.4
+2020,Aug,2020-08-01,louisiana,9.2
+2020,Sep,2020-09-01,louisiana,8.7
+2020,Oct,2020-10-01,louisiana,8.0
+2020,Nov,2020-11-01,louisiana,7.6
+2020,Dec,2020-12-01,louisiana,7.4
+2021,Jan,2021-01-01,louisiana,7.0
+2021,Feb,2021-02-01,louisiana,6.8
+2021,Mar,2021-03-01,louisiana,6.6
+2021,Apr,2021-04-01,louisiana,6.4
+2021,May,2021-05-01,louisiana,6.1
+2021,Jun,2021-06-01,louisiana,5.9
+2021,Jul,2021-07-01,louisiana,5.5
+2021,Aug,2021-08-01,louisiana,5.2
+2021,Sep,2021-09-01,louisiana,4.8
+2021,Oct,2021-10-01,louisiana,4.5
+2021,Nov,2021-11-01,louisiana,4.3
+2021,Dec,2021-12-01,louisiana,4.1
+2022,Jan,2022-01-01,louisiana,4.0
+2022,Feb,2022-02-01,louisiana,3.8
+2022,Mar,2022-03-01,louisiana,3.7
+2022,Apr,2022-04-01,louisiana,3.6
+2022,May,2022-05-01,louisiana,3.6
+2022,Jun,2022-06-01,louisiana,3.5
+2022,Jul,2022-07-01,louisiana,3.5
+2022,Aug,2022-08-01,louisiana,3.5
+2022,Sep,2022-09-01,louisiana,3.6
+2022,Oct,2022-10-01,louisiana,3.6
+2022,Nov,2022-11-01,louisiana,3.6
+2022,Dec,2022-12-01,louisiana,3.6
+2023,Jan,2023-01-01,louisiana,3.7
+2023,Feb,2023-02-01,louisiana,3.6
+2023,Mar,2023-03-01,louisiana,3.5
+2023,Apr,2023-04-01,louisiana,3.4
+2023,May,2023-05-01,louisiana,3.4
+2023,Jun,2023-06-01,louisiana,3.3
+2023,Jul,2023-07-01,louisiana,3.4
+2023,Aug,2023-08-01,louisiana,3.6
+2023,Sep,2023-09-01,louisiana,3.8
+2023,Oct,2023-10-01,louisiana,4.0
+2023,Nov,2023-11-01,louisiana,4.0
+2023,Dec,2023-12-01,louisiana,4.0
+2024,Jan,2024-01-01,louisiana,4.1
+2024,Feb,2024-02-01,louisiana,4.2
+2024,Mar,2024-03-01,louisiana,4.4
+2024,Apr,2024-04-01,louisiana,4.3
+2024,May,2024-05-01,louisiana,4.1
+2024,Jun,2024-06-01,louisiana,4.0
+2015,Jan,2015-01-01,maine,4.9
+2015,Feb,2015-02-01,maine,4.8
+2015,Mar,2015-03-01,maine,4.7
+2015,Apr,2015-04-01,maine,4.6
+2015,May,2015-05-01,maine,4.5
+2015,Jun,2015-06-01,maine,4.4
+2015,Jul,2015-07-01,maine,4.3
+2015,Aug,2015-08-01,maine,4.2
+2015,Sep,2015-09-01,maine,4.1
+2015,Oct,2015-10-01,maine,4.1
+2015,Nov,2015-11-01,maine,4.0
+2015,Dec,2015-12-01,maine,4.0
+2016,Jan,2016-01-01,maine,4.0
+2016,Feb,2016-02-01,maine,3.9
+2016,Mar,2016-03-01,maine,3.9
+2016,Apr,2016-04-01,maine,3.9
+2016,May,2016-05-01,maine,3.8
+2016,Jun,2016-06-01,maine,3.8
+2016,Jul,2016-07-01,maine,3.8
+2016,Aug,2016-08-01,maine,3.7
+2016,Sep,2016-09-01,maine,3.7
+2016,Oct,2016-10-01,maine,3.7
+2016,Nov,2016-11-01,maine,3.6
+2016,Dec,2016-12-01,maine,3.5
+2017,Jan,2017-01-01,maine,3.5
+2017,Feb,2017-02-01,maine,3.4
+2017,Mar,2017-03-01,maine,3.4
+2017,Apr,2017-04-01,maine,3.4
+2017,May,2017-05-01,maine,3.4
+2017,Jun,2017-06-01,maine,3.4
+2017,Jul,2017-07-01,maine,3.4
+2017,Aug,2017-08-01,maine,3.4
+2017,Sep,2017-09-01,maine,3.4
+2017,Oct,2017-10-01,maine,3.3
+2017,Nov,2017-11-01,maine,3.2
+2017,Dec,2017-12-01,maine,3.1
+2018,Jan,2018-01-01,maine,3.1
+2018,Feb,2018-02-01,maine,3.0
+2018,Mar,2018-03-01,maine,3.0
+2018,Apr,2018-04-01,maine,3.0
+2018,May,2018-05-01,maine,3.1
+2018,Jun,2018-06-01,maine,3.2
+2018,Jul,2018-07-01,maine,3.3
+2018,Aug,2018-08-01,maine,3.3
+2018,Sep,2018-09-01,maine,3.3
+2018,Oct,2018-10-01,maine,3.3
+2018,Nov,2018-11-01,maine,3.3
+2018,Dec,2018-12-01,maine,3.2
+2019,Jan,2019-01-01,maine,3.1
+2019,Feb,2019-02-01,maine,3.0
+2019,Mar,2019-03-01,maine,2.9
+2019,Apr,2019-04-01,maine,2.8
+2019,May,2019-05-01,maine,2.7
+2019,Jun,2019-06-01,maine,2.7
+2019,Jul,2019-07-01,maine,2.8
+2019,Aug,2019-08-01,maine,2.8
+2019,Sep,2019-09-01,maine,2.9
+2019,Oct,2019-10-01,maine,3.0
+2019,Nov,2019-11-01,maine,3.1
+2019,Dec,2019-12-01,maine,3.1
+2020,Jan,2020-01-01,maine,3.2
+2020,Feb,2020-02-01,maine,3.2
+2020,Mar,2020-03-01,maine,3.2
+2020,Apr,2020-04-01,maine,9.3
+2020,May,2020-05-01,maine,9.5
+2020,Jun,2020-06-01,maine,6.6
+2020,Jul,2020-07-01,maine,6.3
+2020,Aug,2020-08-01,maine,4.2
+2020,Sep,2020-09-01,maine,4.0
+2020,Oct,2020-10-01,maine,3.8
+2020,Nov,2020-11-01,maine,3.9
+2020,Dec,2020-12-01,maine,4.2
+2021,Jan,2021-01-01,maine,4.4
+2021,Feb,2021-02-01,maine,4.7
+2021,Mar,2021-03-01,maine,4.9
+2021,Apr,2021-04-01,maine,5.1
+2021,May,2021-05-01,maine,5.0
+2021,Jun,2021-06-01,maine,5.1
+2021,Jul,2021-07-01,maine,4.9
+2021,Aug,2021-08-01,maine,4.8
+2021,Sep,2021-09-01,maine,4.6
+2021,Oct,2021-10-01,maine,4.4
+2021,Nov,2021-11-01,maine,4.2
+2021,Dec,2021-12-01,maine,3.9
+2022,Jan,2022-01-01,maine,3.7
+2022,Feb,2022-02-01,maine,3.3
+2022,Mar,2022-03-01,maine,3.0
+2022,Apr,2022-04-01,maine,2.8
+2022,May,2022-05-01,maine,2.7
+2022,Jun,2022-06-01,maine,2.6
+2022,Jul,2022-07-01,maine,2.6
+2022,Aug,2022-08-01,maine,2.5
+2022,Sep,2022-09-01,maine,2.7
+2022,Oct,2022-10-01,maine,2.8
+2022,Nov,2022-11-01,maine,2.8
+2022,Dec,2022-12-01,maine,2.7
+2023,Jan,2023-01-01,maine,2.5
+2023,Feb,2023-02-01,maine,2.4
+2023,Mar,2023-03-01,maine,2.4
+2023,Apr,2023-04-01,maine,2.4
+2023,May,2023-05-01,maine,2.5
+2023,Jun,2023-06-01,maine,2.6
+2023,Jul,2023-07-01,maine,2.8
+2023,Aug,2023-08-01,maine,3.0
+2023,Sep,2023-09-01,maine,3.2
+2023,Oct,2023-10-01,maine,3.4
+2023,Nov,2023-11-01,maine,3.4
+2023,Dec,2023-12-01,maine,3.4
+2024,Jan,2024-01-01,maine,3.4
+2024,Feb,2024-02-01,maine,3.4
+2024,Mar,2024-03-01,maine,3.3
+2024,Apr,2024-04-01,maine,3.1
+2024,May,2024-05-01,maine,3.0
+2024,Jun,2024-06-01,maine,2.8
+2015,Jan,2015-01-01,maryland,5.4
+2015,Feb,2015-02-01,maryland,5.3
+2015,Mar,2015-03-01,maryland,5.3
+2015,Apr,2015-04-01,maryland,5.2
+2015,May,2015-05-01,maryland,5.1
+2015,Jun,2015-06-01,maryland,5.0
+2015,Jul,2015-07-01,maryland,4.9
+2015,Aug,2015-08-01,maryland,4.9
+2015,Sep,2015-09-01,maryland,4.8
+2015,Oct,2015-10-01,maryland,4.7
+2015,Nov,2015-11-01,maryland,4.7
+2015,Dec,2015-12-01,maryland,4.6
+2016,Jan,2016-01-01,maryland,4.5
+2016,Feb,2016-02-01,maryland,4.4
+2016,Mar,2016-03-01,maryland,4.3
+2016,Apr,2016-04-01,maryland,4.3
+2016,May,2016-05-01,maryland,4.3
+2016,Jun,2016-06-01,maryland,4.3
+2016,Jul,2016-07-01,maryland,4.2
+2016,Aug,2016-08-01,maryland,4.2
+2016,Sep,2016-09-01,maryland,4.3
+2016,Oct,2016-10-01,maryland,4.3
+2016,Nov,2016-11-01,maryland,4.2
+2016,Dec,2016-12-01,maryland,4.2
+2017,Jan,2017-01-01,maryland,4.1
+2017,Feb,2017-02-01,maryland,4.0
+2017,Mar,2017-03-01,maryland,4.0
+2017,Apr,2017-04-01,maryland,3.9
+2017,May,2017-05-01,maryland,3.9
+2017,Jun,2017-06-01,maryland,3.9
+2017,Jul,2017-07-01,maryland,4.0
+2017,Aug,2017-08-01,maryland,4.0
+2017,Sep,2017-09-01,maryland,4.0
+2017,Oct,2017-10-01,maryland,4.1
+2017,Nov,2017-11-01,maryland,4.1
+2017,Dec,2017-12-01,maryland,4.0
+2018,Jan,2018-01-01,maryland,4.1
+2018,Feb,2018-02-01,maryland,4.0
+2018,Mar,2018-03-01,maryland,4.0
+2018,Apr,2018-04-01,maryland,3.9
+2018,May,2018-05-01,maryland,3.8
+2018,Jun,2018-06-01,maryland,3.8
+2018,Jul,2018-07-01,maryland,3.7
+2018,Aug,2018-08-01,maryland,3.7
+2018,Sep,2018-09-01,maryland,3.7
+2018,Oct,2018-10-01,maryland,3.7
+2018,Nov,2018-11-01,maryland,3.7
+2018,Dec,2018-12-01,maryland,3.7
+2019,Jan,2019-01-01,maryland,3.6
+2019,Feb,2019-02-01,maryland,3.5
+2019,Mar,2019-03-01,maryland,3.5
+2019,Apr,2019-04-01,maryland,3.4
+2019,May,2019-05-01,maryland,3.4
+2019,Jun,2019-06-01,maryland,3.3
+2019,Jul,2019-07-01,maryland,3.4
+2019,Aug,2019-08-01,maryland,3.4
+2019,Sep,2019-09-01,maryland,3.3
+2019,Oct,2019-10-01,maryland,3.3
+2019,Nov,2019-11-01,maryland,3.2
+2019,Dec,2019-12-01,maryland,3.2
+2020,Jan,2020-01-01,maryland,3.3
+2020,Feb,2020-02-01,maryland,3.4
+2020,Mar,2020-03-01,maryland,3.4
+2020,Apr,2020-04-01,maryland,9.0
+2020,May,2020-05-01,maryland,8.8
+2020,Jun,2020-06-01,maryland,8.1
+2020,Jul,2020-07-01,maryland,7.8
+2020,Aug,2020-08-01,maryland,7.1
+2020,Sep,2020-09-01,maryland,7.0
+2020,Oct,2020-10-01,maryland,6.6
+2020,Nov,2020-11-01,maryland,6.5
+2020,Dec,2020-12-01,maryland,6.6
+2021,Jan,2021-01-01,maryland,6.3
+2021,Feb,2021-02-01,maryland,6.2
+2021,Mar,2021-03-01,maryland,6.1
+2021,Apr,2021-04-01,maryland,5.9
+2021,May,2021-05-01,maryland,5.7
+2021,Jun,2021-06-01,maryland,5.7
+2021,Jul,2021-07-01,maryland,5.3
+2021,Aug,2021-08-01,maryland,5.1
+2021,Sep,2021-09-01,maryland,4.6
+2021,Oct,2021-10-01,maryland,4.3
+2021,Nov,2021-11-01,maryland,3.9
+2021,Dec,2021-12-01,maryland,3.6
+2022,Jan,2022-01-01,maryland,3.5
+2022,Feb,2022-02-01,maryland,3.3
+2022,Mar,2022-03-01,maryland,3.1
+2022,Apr,2022-04-01,maryland,3.0
+2022,May,2022-05-01,maryland,3.0
+2022,Jun,2022-06-01,maryland,3.0
+2022,Jul,2022-07-01,maryland,3.0
+2022,Aug,2022-08-01,maryland,3.0
+2022,Sep,2022-09-01,maryland,2.9
+2022,Oct,2022-10-01,maryland,2.8
+2022,Nov,2022-11-01,maryland,2.7
+2022,Dec,2022-12-01,maryland,2.5
+2023,Jan,2023-01-01,maryland,2.4
+2023,Feb,2023-02-01,maryland,2.2
+2023,Mar,2023-03-01,maryland,2.0
+2023,Apr,2023-04-01,maryland,1.9
+2023,May,2023-05-01,maryland,1.9
+2023,Jun,2023-06-01,maryland,1.9
+2023,Jul,2023-07-01,maryland,1.9
+2023,Aug,2023-08-01,maryland,2.1
+2023,Sep,2023-09-01,maryland,2.2
+2023,Oct,2023-10-01,maryland,2.3
+2023,Nov,2023-11-01,maryland,2.2
+2023,Dec,2023-12-01,maryland,2.2
+2024,Jan,2024-01-01,maryland,2.3
+2024,Feb,2024-02-01,maryland,2.4
+2024,Mar,2024-03-01,maryland,2.5
+2024,Apr,2024-04-01,maryland,2.6
+2024,May,2024-05-01,maryland,2.7
+2024,Jun,2024-06-01,maryland,2.8
+2015,Jan,2015-01-01,massachusetts,5.2
+2015,Feb,2015-02-01,massachusetts,5.1
+2015,Mar,2015-03-01,massachusetts,5.0
+2015,Apr,2015-04-01,massachusetts,5.0
+2015,May,2015-05-01,massachusetts,4.9
+2015,Jun,2015-06-01,massachusetts,4.8
+2015,Jul,2015-07-01,massachusetts,4.7
+2015,Aug,2015-08-01,massachusetts,4.7
+2015,Sep,2015-09-01,massachusetts,4.6
+2015,Oct,2015-10-01,massachusetts,4.6
+2015,Nov,2015-11-01,massachusetts,4.5
+2015,Dec,2015-12-01,massachusetts,4.4
+2016,Jan,2016-01-01,massachusetts,4.4
+2016,Feb,2016-02-01,massachusetts,4.3
+2016,Mar,2016-03-01,massachusetts,4.2
+2016,Apr,2016-04-01,massachusetts,4.1
+2016,May,2016-05-01,massachusetts,4.1
+2016,Jun,2016-06-01,massachusetts,4.0
+2016,Jul,2016-07-01,massachusetts,3.9
+2016,Aug,2016-08-01,massachusetts,3.9
+2016,Sep,2016-09-01,massachusetts,3.9
+2016,Oct,2016-10-01,massachusetts,3.9
+2016,Nov,2016-11-01,massachusetts,3.9
+2016,Dec,2016-12-01,massachusetts,3.9
+2017,Jan,2017-01-01,massachusetts,3.8
+2017,Feb,2017-02-01,massachusetts,3.8
+2017,Mar,2017-03-01,massachusetts,3.8
+2017,Apr,2017-04-01,massachusetts,3.8
+2017,May,2017-05-01,massachusetts,3.8
+2017,Jun,2017-06-01,massachusetts,3.8
+2017,Jul,2017-07-01,massachusetts,3.8
+2017,Aug,2017-08-01,massachusetts,3.8
+2017,Sep,2017-09-01,massachusetts,3.8
+2017,Oct,2017-10-01,massachusetts,3.8
+2017,Nov,2017-11-01,massachusetts,3.8
+2017,Dec,2017-12-01,massachusetts,3.7
+2018,Jan,2018-01-01,massachusetts,3.7
+2018,Feb,2018-02-01,massachusetts,3.7
+2018,Mar,2018-03-01,massachusetts,3.6
+2018,Apr,2018-04-01,massachusetts,3.6
+2018,May,2018-05-01,massachusetts,3.5
+2018,Jun,2018-06-01,massachusetts,3.5
+2018,Jul,2018-07-01,massachusetts,3.4
+2018,Aug,2018-08-01,massachusetts,3.4
+2018,Sep,2018-09-01,massachusetts,3.4
+2018,Oct,2018-10-01,massachusetts,3.3
+2018,Nov,2018-11-01,massachusetts,3.3
+2018,Dec,2018-12-01,massachusetts,3.3
+2019,Jan,2019-01-01,massachusetts,3.2
+2019,Feb,2019-02-01,massachusetts,3.2
+2019,Mar,2019-03-01,massachusetts,3.1
+2019,Apr,2019-04-01,massachusetts,3.1
+2019,May,2019-05-01,massachusetts,3.0
+2019,Jun,2019-06-01,massachusetts,3.0
+2019,Jul,2019-07-01,massachusetts,3.0
+2019,Aug,2019-08-01,massachusetts,3.0
+2019,Sep,2019-09-01,massachusetts,3.0
+2019,Oct,2019-10-01,massachusetts,2.9
+2019,Nov,2019-11-01,massachusetts,2.9
+2019,Dec,2019-12-01,massachusetts,2.9
+2020,Jan,2020-01-01,massachusetts,3.0
+2020,Feb,2020-02-01,massachusetts,3.0
+2020,Mar,2020-03-01,massachusetts,3.0
+2020,Apr,2020-04-01,massachusetts,17.4
+2020,May,2020-05-01,massachusetts,14.9
+2020,Jun,2020-06-01,massachusetts,14.5
+2020,Jul,2020-07-01,massachusetts,12.6
+2020,Aug,2020-08-01,massachusetts,10.4
+2020,Sep,2020-09-01,massachusetts,9.7
+2020,Oct,2020-10-01,massachusetts,8.5
+2020,Nov,2020-11-01,massachusetts,7.9
+2020,Dec,2020-12-01,massachusetts,7.6
+2021,Jan,2021-01-01,massachusetts,6.9
+2021,Feb,2021-02-01,massachusetts,6.5
+2021,Mar,2021-03-01,massachusetts,6.2
+2021,Apr,2021-04-01,massachusetts,6.1
+2021,May,2021-05-01,massachusetts,5.7
+2021,Jun,2021-06-01,massachusetts,5.7
+2021,Jul,2021-07-01,massachusetts,5.3
+2021,Aug,2021-08-01,massachusetts,5.1
+2021,Sep,2021-09-01,massachusetts,4.7
+2021,Oct,2021-10-01,massachusetts,4.5
+2021,Nov,2021-11-01,massachusetts,4.2
+2021,Dec,2021-12-01,massachusetts,3.9
+2022,Jan,2022-01-01,massachusetts,3.9
+2022,Feb,2022-02-01,massachusetts,3.8
+2022,Mar,2022-03-01,massachusetts,3.6
+2022,Apr,2022-04-01,massachusetts,3.6
+2022,May,2022-05-01,massachusetts,3.7
+2022,Jun,2022-06-01,massachusetts,3.6
+2022,Jul,2022-07-01,massachusetts,3.6
+2022,Aug,2022-08-01,massachusetts,3.7
+2022,Sep,2022-09-01,massachusetts,3.6
+2022,Oct,2022-10-01,massachusetts,3.7
+2022,Nov,2022-11-01,massachusetts,3.6
+2022,Dec,2022-12-01,massachusetts,3.5
+2023,Jan,2023-01-01,massachusetts,3.5
+2023,Feb,2023-02-01,massachusetts,3.6
+2023,Mar,2023-03-01,massachusetts,3.5
+2023,Apr,2023-04-01,massachusetts,3.2
+2023,May,2023-05-01,massachusetts,3.3
+2023,Jun,2023-06-01,massachusetts,3.3
+2023,Jul,2023-07-01,massachusetts,3.2
+2023,Aug,2023-08-01,massachusetts,3.3
+2023,Sep,2023-09-01,massachusetts,3.3
+2023,Oct,2023-10-01,massachusetts,3.4
+2023,Nov,2023-11-01,massachusetts,3.3
+2023,Dec,2023-12-01,massachusetts,3.2
+2024,Jan,2024-01-01,massachusetts,3.0
+2024,Feb,2024-02-01,massachusetts,2.9
+2024,Mar,2024-03-01,massachusetts,2.9
+2024,Apr,2024-04-01,massachusetts,2.9
+2024,May,2024-05-01,massachusetts,3.0
+2024,Jun,2024-06-01,massachusetts,3.2
+2015,Jan,2015-01-01,michigan,6.0
+2015,Feb,2015-02-01,michigan,5.9
+2015,Mar,2015-03-01,michigan,5.8
+2015,Apr,2015-04-01,michigan,5.7
+2015,May,2015-05-01,michigan,5.6
+2015,Jun,2015-06-01,michigan,5.5
+2015,Jul,2015-07-01,michigan,5.4
+2015,Aug,2015-08-01,michigan,5.2
+2015,Sep,2015-09-01,michigan,5.1
+2015,Oct,2015-10-01,michigan,5.0
+2015,Nov,2015-11-01,michigan,5.0
+2015,Dec,2015-12-01,michigan,4.9
+2016,Jan,2016-01-01,michigan,4.9
+2016,Feb,2016-02-01,michigan,4.9
+2016,Mar,2016-03-01,michigan,5.0
+2016,Apr,2016-04-01,michigan,5.0
+2016,May,2016-05-01,michigan,5.0
+2016,Jun,2016-06-01,michigan,5.0
+2016,Jul,2016-07-01,michigan,5.0
+2016,Aug,2016-08-01,michigan,5.0
+2016,Sep,2016-09-01,michigan,5.1
+2016,Oct,2016-10-01,michigan,5.1
+2016,Nov,2016-11-01,michigan,5.1
+2016,Dec,2016-12-01,michigan,5.0
+2017,Jan,2017-01-01,michigan,4.8
+2017,Feb,2017-02-01,michigan,4.7
+2017,Mar,2017-03-01,michigan,4.5
+2017,Apr,2017-04-01,michigan,4.3
+2017,May,2017-05-01,michigan,4.3
+2017,Jun,2017-06-01,michigan,4.4
+2017,Jul,2017-07-01,michigan,4.5
+2017,Aug,2017-08-01,michigan,4.6
+2017,Sep,2017-09-01,michigan,4.7
+2017,Oct,2017-10-01,michigan,4.8
+2017,Nov,2017-11-01,michigan,4.7
+2017,Dec,2017-12-01,michigan,4.6
+2018,Jan,2018-01-01,michigan,4.5
+2018,Feb,2018-02-01,michigan,4.4
+2018,Mar,2018-03-01,michigan,4.3
+2018,Apr,2018-04-01,michigan,4.1
+2018,May,2018-05-01,michigan,4.0
+2018,Jun,2018-06-01,michigan,4.0
+2018,Jul,2018-07-01,michigan,4.0
+2018,Aug,2018-08-01,michigan,4.0
+2018,Sep,2018-09-01,michigan,4.1
+2018,Oct,2018-10-01,michigan,4.1
+2018,Nov,2018-11-01,michigan,4.2
+2018,Dec,2018-12-01,michigan,4.2
+2019,Jan,2019-01-01,michigan,4.2
+2019,Feb,2019-02-01,michigan,4.2
+2019,Mar,2019-03-01,michigan,4.2
+2019,Apr,2019-04-01,michigan,4.2
+2019,May,2019-05-01,michigan,4.1
+2019,Jun,2019-06-01,michigan,4.1
+2019,Jul,2019-07-01,michigan,4.1
+2019,Aug,2019-08-01,michigan,4.1
+2019,Sep,2019-09-01,michigan,4.0
+2019,Oct,2019-10-01,michigan,3.9
+2019,Nov,2019-11-01,michigan,3.8
+2019,Dec,2019-12-01,michigan,3.7
+2020,Jan,2020-01-01,michigan,3.7
+2020,Feb,2020-02-01,michigan,3.7
+2020,Mar,2020-03-01,michigan,3.7
+2020,Apr,2020-04-01,michigan,22.6
+2020,May,2020-05-01,michigan,19.2
+2020,Jun,2020-06-01,michigan,14.5
+2020,Jul,2020-07-01,michigan,12.5
+2020,Aug,2020-08-01,michigan,10.0
+2020,Sep,2020-09-01,michigan,8.9
+2020,Oct,2020-10-01,michigan,7.7
+2020,Nov,2020-11-01,michigan,7.1
+2020,Dec,2020-12-01,michigan,7.0
+2021,Jan,2021-01-01,michigan,6.5
+2021,Feb,2021-02-01,michigan,6.3
+2021,Mar,2021-03-01,michigan,6.2
+2021,Apr,2021-04-01,michigan,6.2
+2021,May,2021-05-01,michigan,6.2
+2021,Jun,2021-06-01,michigan,6.2
+2021,Jul,2021-07-01,michigan,6.0
+2021,Aug,2021-08-01,michigan,5.8
+2021,Sep,2021-09-01,michigan,5.4
+2021,Oct,2021-10-01,michigan,5.1
+2021,Nov,2021-11-01,michigan,4.8
+2021,Dec,2021-12-01,michigan,4.5
+2022,Jan,2022-01-01,michigan,4.4
+2022,Feb,2022-02-01,michigan,4.3
+2022,Mar,2022-03-01,michigan,4.2
+2022,Apr,2022-04-01,michigan,4.1
+2022,May,2022-05-01,michigan,4.0
+2022,Jun,2022-06-01,michigan,4.0
+2022,Jul,2022-07-01,michigan,4.0
+2022,Aug,2022-08-01,michigan,4.0
+2022,Sep,2022-09-01,michigan,4.1
+2022,Oct,2022-10-01,michigan,4.2
+2022,Nov,2022-11-01,michigan,4.2
+2022,Dec,2022-12-01,michigan,4.1
+2023,Jan,2023-01-01,michigan,4.0
+2023,Feb,2023-02-01,michigan,3.8
+2023,Mar,2023-03-01,michigan,3.7
+2023,Apr,2023-04-01,michigan,3.6
+2023,May,2023-05-01,michigan,3.6
+2023,Jun,2023-06-01,michigan,3.7
+2023,Jul,2023-07-01,michigan,3.8
+2023,Aug,2023-08-01,michigan,4.0
+2023,Sep,2023-09-01,michigan,4.1
+2023,Oct,2023-10-01,michigan,4.2
+2023,Nov,2023-11-01,michigan,4.1
+2023,Dec,2023-12-01,michigan,4.1
+2024,Jan,2024-01-01,michigan,4.0
+2024,Feb,2024-02-01,michigan,3.9
+2024,Mar,2024-03-01,michigan,3.9
+2024,Apr,2024-04-01,michigan,3.9
+2024,May,2024-05-01,michigan,3.9
+2024,Jun,2024-06-01,michigan,4.1
+2015,Jan,2015-01-01,minnesota,3.8
+2015,Feb,2015-02-01,minnesota,3.8
+2015,Mar,2015-03-01,minnesota,3.8
+2015,Apr,2015-04-01,minnesota,3.8
+2015,May,2015-05-01,minnesota,3.8
+2015,Jun,2015-06-01,minnesota,3.8
+2015,Jul,2015-07-01,minnesota,3.8
+2015,Aug,2015-08-01,minnesota,3.8
+2015,Sep,2015-09-01,minnesota,3.8
+2015,Oct,2015-10-01,minnesota,3.7
+2015,Nov,2015-11-01,minnesota,3.8
+2015,Dec,2015-12-01,minnesota,3.8
+2016,Jan,2016-01-01,minnesota,3.8
+2016,Feb,2016-02-01,minnesota,3.8
+2016,Mar,2016-03-01,minnesota,3.8
+2016,Apr,2016-04-01,minnesota,3.8
+2016,May,2016-05-01,minnesota,3.8
+2016,Jun,2016-06-01,minnesota,3.8
+2016,Jul,2016-07-01,minnesota,3.9
+2016,Aug,2016-08-01,minnesota,3.9
+2016,Sep,2016-09-01,minnesota,4.0
+2016,Oct,2016-10-01,minnesota,4.0
+2016,Nov,2016-11-01,minnesota,4.0
+2016,Dec,2016-12-01,minnesota,3.9
+2017,Jan,2017-01-01,minnesota,3.8
+2017,Feb,2017-02-01,minnesota,3.7
+2017,Mar,2017-03-01,minnesota,3.6
+2017,Apr,2017-04-01,minnesota,3.5
+2017,May,2017-05-01,minnesota,3.5
+2017,Jun,2017-06-01,minnesota,3.5
+2017,Jul,2017-07-01,minnesota,3.4
+2017,Aug,2017-08-01,minnesota,3.4
+2017,Sep,2017-09-01,minnesota,3.4
+2017,Oct,2017-10-01,minnesota,3.4
+2017,Nov,2017-11-01,minnesota,3.3
+2017,Dec,2017-12-01,minnesota,3.3
+2018,Jan,2018-01-01,minnesota,3.1
+2018,Feb,2018-02-01,minnesota,3.1
+2018,Mar,2018-03-01,minnesota,3.0
+2018,Apr,2018-04-01,minnesota,3.0
+2018,May,2018-05-01,minnesota,2.9
+2018,Jun,2018-06-01,minnesota,2.9
+2018,Jul,2018-07-01,minnesota,2.9
+2018,Aug,2018-08-01,minnesota,2.9
+2018,Sep,2018-09-01,minnesota,3.0
+2018,Oct,2018-10-01,minnesota,3.1
+2018,Nov,2018-11-01,minnesota,3.2
+2018,Dec,2018-12-01,minnesota,3.2
+2019,Jan,2019-01-01,minnesota,3.3
+2019,Feb,2019-02-01,minnesota,3.3
+2019,Mar,2019-03-01,minnesota,3.3
+2019,Apr,2019-04-01,minnesota,3.2
+2019,May,2019-05-01,minnesota,3.2
+2019,Jun,2019-06-01,minnesota,3.2
+2019,Jul,2019-07-01,minnesota,3.2
+2019,Aug,2019-08-01,minnesota,3.3
+2019,Sep,2019-09-01,minnesota,3.3
+2019,Oct,2019-10-01,minnesota,3.3
+2019,Nov,2019-11-01,minnesota,3.3
+2019,Dec,2019-12-01,minnesota,3.4
+2020,Jan,2020-01-01,minnesota,3.4
+2020,Feb,2020-02-01,minnesota,3.5
+2020,Mar,2020-03-01,minnesota,3.6
+2020,Apr,2020-04-01,minnesota,8.9
+2020,May,2020-05-01,minnesota,11.2
+2020,Jun,2020-06-01,minnesota,8.9
+2020,Jul,2020-07-01,minnesota,7.9
+2020,Aug,2020-08-01,minnesota,6.7
+2020,Sep,2020-09-01,minnesota,6.1
+2020,Oct,2020-10-01,minnesota,5.4
+2020,Nov,2020-11-01,minnesota,5.0
+2020,Dec,2020-12-01,minnesota,4.8
+2021,Jan,2021-01-01,minnesota,4.4
+2021,Feb,2021-02-01,minnesota,4.2
+2021,Mar,2021-03-01,minnesota,4.1
+2021,Apr,2021-04-01,minnesota,4.0
+2021,May,2021-05-01,minnesota,3.9
+2021,Jun,2021-06-01,minnesota,3.8
+2021,Jul,2021-07-01,minnesota,3.7
+2021,Aug,2021-08-01,minnesota,3.6
+2021,Sep,2021-09-01,minnesota,3.4
+2021,Oct,2021-10-01,minnesota,3.3
+2021,Nov,2021-11-01,minnesota,3.1
+2021,Dec,2021-12-01,minnesota,2.9
+2022,Jan,2022-01-01,minnesota,2.7
+2022,Feb,2022-02-01,minnesota,2.5
+2022,Mar,2022-03-01,minnesota,2.4
+2022,Apr,2022-04-01,minnesota,2.3
+2022,May,2022-05-01,minnesota,2.3
+2022,Jun,2022-06-01,minnesota,2.3
+2022,Jul,2022-07-01,minnesota,2.4
+2022,Aug,2022-08-01,minnesota,2.5
+2022,Sep,2022-09-01,minnesota,2.7
+2022,Oct,2022-10-01,minnesota,2.7
+2022,Nov,2022-11-01,minnesota,2.8
+2022,Dec,2022-12-01,minnesota,2.8
+2023,Jan,2023-01-01,minnesota,2.8
+2023,Feb,2023-02-01,minnesota,2.8
+2023,Mar,2023-03-01,minnesota,2.8
+2023,Apr,2023-04-01,minnesota,2.8
+2023,May,2023-05-01,minnesota,2.9
+2023,Jun,2023-06-01,minnesota,2.9
+2023,Jul,2023-07-01,minnesota,3.0
+2023,Aug,2023-08-01,minnesota,2.9
+2023,Sep,2023-09-01,minnesota,2.8
+2023,Oct,2023-10-01,minnesota,2.8
+2023,Nov,2023-11-01,minnesota,2.7
+2023,Dec,2023-12-01,minnesota,2.7
+2024,Jan,2024-01-01,minnesota,2.7
+2024,Feb,2024-02-01,minnesota,2.7
+2024,Mar,2024-03-01,minnesota,2.7
+2024,Apr,2024-04-01,minnesota,2.7
+2024,May,2024-05-01,minnesota,2.8
+2024,Jun,2024-06-01,minnesota,2.9
+2015,Jan,2015-01-01,mississippi,6.8
+2015,Feb,2015-02-01,mississippi,6.7
+2015,Mar,2015-03-01,mississippi,6.7
+2015,Apr,2015-04-01,mississippi,6.6
+2015,May,2015-05-01,mississippi,6.5
+2015,Jun,2015-06-01,mississippi,6.4
+2015,Jul,2015-07-01,mississippi,6.3
+2015,Aug,2015-08-01,mississippi,6.3
+2015,Sep,2015-09-01,mississippi,6.3
+2015,Oct,2015-10-01,mississippi,6.4
+2015,Nov,2015-11-01,mississippi,6.4
+2015,Dec,2015-12-01,mississippi,6.4
+2016,Jan,2016-01-01,mississippi,6.3
+2016,Feb,2016-02-01,mississippi,6.2
+2016,Mar,2016-03-01,mississippi,6.1
+2016,Apr,2016-04-01,mississippi,6.0
+2016,May,2016-05-01,mississippi,6.0
+2016,Jun,2016-06-01,mississippi,5.9
+2016,Jul,2016-07-01,mississippi,5.9
+2016,Aug,2016-08-01,mississippi,5.9
+2016,Sep,2016-09-01,mississippi,5.9
+2016,Oct,2016-10-01,mississippi,5.9
+2016,Nov,2016-11-01,mississippi,5.8
+2016,Dec,2016-12-01,mississippi,5.7
+2017,Jan,2017-01-01,mississippi,5.6
+2017,Feb,2017-02-01,mississippi,5.5
+2017,Mar,2017-03-01,mississippi,5.4
+2017,Apr,2017-04-01,mississippi,5.4
+2017,May,2017-05-01,mississippi,5.3
+2017,Jun,2017-06-01,mississippi,5.3
+2017,Jul,2017-07-01,mississippi,5.2
+2017,Aug,2017-08-01,mississippi,5.2
+2017,Sep,2017-09-01,mississippi,5.1
+2017,Oct,2017-10-01,mississippi,5.0
+2017,Nov,2017-11-01,mississippi,4.9
+2017,Dec,2017-12-01,mississippi,4.9
+2018,Jan,2018-01-01,mississippi,4.9
+2018,Feb,2018-02-01,mississippi,4.9
+2018,Mar,2018-03-01,mississippi,4.9
+2018,Apr,2018-04-01,mississippi,4.9
+2018,May,2018-05-01,mississippi,4.9
+2018,Jun,2018-06-01,mississippi,4.8
+2018,Jul,2018-07-01,mississippi,4.8
+2018,Aug,2018-08-01,mississippi,4.9
+2018,Sep,2018-09-01,mississippi,4.9
+2018,Oct,2018-10-01,mississippi,5.1
+2018,Nov,2018-11-01,mississippi,5.2
+2018,Dec,2018-12-01,mississippi,5.3
+2019,Jan,2019-01-01,mississippi,5.4
+2019,Feb,2019-02-01,mississippi,5.4
+2019,Mar,2019-03-01,mississippi,5.4
+2019,Apr,2019-04-01,mississippi,5.4
+2019,May,2019-05-01,mississippi,5.4
+2019,Jun,2019-06-01,mississippi,5.5
+2019,Jul,2019-07-01,mississippi,5.6
+2019,Aug,2019-08-01,mississippi,5.7
+2019,Sep,2019-09-01,mississippi,5.6
+2019,Oct,2019-10-01,mississippi,5.6
+2019,Nov,2019-11-01,mississippi,5.5
+2019,Dec,2019-12-01,mississippi,5.5
+2020,Jan,2020-01-01,mississippi,5.6
+2020,Feb,2020-02-01,mississippi,5.8
+2020,Mar,2020-03-01,mississippi,5.9
+2020,Apr,2020-04-01,mississippi,15.6
+2020,May,2020-05-01,mississippi,11.2
+2020,Jun,2020-06-01,mississippi,9.4
+2020,Jul,2020-07-01,mississippi,8.3
+2020,Aug,2020-08-01,mississippi,7.4
+2020,Sep,2020-09-01,mississippi,7.1
+2020,Oct,2020-10-01,mississippi,6.8
+2020,Nov,2020-11-01,mississippi,6.7
+2020,Dec,2020-12-01,mississippi,6.6
+2021,Jan,2021-01-01,mississippi,6.5
+2021,Feb,2021-02-01,mississippi,6.3
+2021,Mar,2021-03-01,mississippi,6.2
+2021,Apr,2021-04-01,mississippi,6.1
+2021,May,2021-05-01,mississippi,5.9
+2021,Jun,2021-06-01,mississippi,5.7
+2021,Jul,2021-07-01,mississippi,5.5
+2021,Aug,2021-08-01,mississippi,5.2
+2021,Sep,2021-09-01,mississippi,4.9
+2021,Oct,2021-10-01,mississippi,4.6
+2021,Nov,2021-11-01,mississippi,4.4
+2021,Dec,2021-12-01,mississippi,4.2
+2022,Jan,2022-01-01,mississippi,4.1
+2022,Feb,2022-02-01,mississippi,3.9
+2022,Mar,2022-03-01,mississippi,3.8
+2022,Apr,2022-04-01,mississippi,3.7
+2022,May,2022-05-01,mississippi,3.7
+2022,Jun,2022-06-01,mississippi,3.7
+2022,Jul,2022-07-01,mississippi,3.7
+2022,Aug,2022-08-01,mississippi,3.8
+2022,Sep,2022-09-01,mississippi,3.8
+2022,Oct,2022-10-01,mississippi,3.8
+2022,Nov,2022-11-01,mississippi,3.8
+2022,Dec,2022-12-01,mississippi,3.6
+2023,Jan,2023-01-01,mississippi,3.5
+2023,Feb,2023-02-01,mississippi,3.3
+2023,Mar,2023-03-01,mississippi,3.2
+2023,Apr,2023-04-01,mississippi,3.1
+2023,May,2023-05-01,mississippi,3.1
+2023,Jun,2023-06-01,mississippi,3.1
+2023,Jul,2023-07-01,mississippi,3.1
+2023,Aug,2023-08-01,mississippi,3.2
+2023,Sep,2023-09-01,mississippi,3.2
+2023,Oct,2023-10-01,mississippi,3.2
+2023,Nov,2023-11-01,mississippi,3.2
+2023,Dec,2023-12-01,mississippi,3.2
+2024,Jan,2024-01-01,mississippi,3.2
+2024,Feb,2024-02-01,mississippi,3.1
+2024,Mar,2024-03-01,mississippi,3.0
+2024,Apr,2024-04-01,mississippi,2.8
+2024,May,2024-05-01,mississippi,2.8
+2024,Jun,2024-06-01,mississippi,2.8
+2015,Jan,2015-01-01,missouri,5.6
+2015,Feb,2015-02-01,missouri,5.6
+2015,Mar,2015-03-01,missouri,5.6
+2015,Apr,2015-04-01,missouri,5.5
+2015,May,2015-05-01,missouri,5.3
+2015,Jun,2015-06-01,missouri,5.2
+2015,Jul,2015-07-01,missouri,5.0
+2015,Aug,2015-08-01,missouri,4.9
+2015,Sep,2015-09-01,missouri,4.8
+2015,Oct,2015-10-01,missouri,4.7
+2015,Nov,2015-11-01,missouri,4.6
+2015,Dec,2015-12-01,missouri,4.5
+2016,Jan,2016-01-01,missouri,4.5
+2016,Feb,2016-02-01,missouri,4.4
+2016,Mar,2016-03-01,missouri,4.4
+2016,Apr,2016-04-01,missouri,4.5
+2016,May,2016-05-01,missouri,4.6
+2016,Jun,2016-06-01,missouri,4.7
+2016,Jul,2016-07-01,missouri,4.7
+2016,Aug,2016-08-01,missouri,4.7
+2016,Sep,2016-09-01,missouri,4.7
+2016,Oct,2016-10-01,missouri,4.6
+2016,Nov,2016-11-01,missouri,4.5
+2016,Dec,2016-12-01,missouri,4.3
+2017,Jan,2017-01-01,missouri,4.2
+2017,Feb,2017-02-01,missouri,4.1
+2017,Mar,2017-03-01,missouri,3.9
+2017,Apr,2017-04-01,missouri,3.8
+2017,May,2017-05-01,missouri,3.7
+2017,Jun,2017-06-01,missouri,3.7
+2017,Jul,2017-07-01,missouri,3.6
+2017,Aug,2017-08-01,missouri,3.6
+2017,Sep,2017-09-01,missouri,3.6
+2017,Oct,2017-10-01,missouri,3.6
+2017,Nov,2017-11-01,missouri,3.6
+2017,Dec,2017-12-01,missouri,3.5
+2018,Jan,2018-01-01,missouri,3.6
+2018,Feb,2018-02-01,missouri,3.5
+2018,Mar,2018-03-01,missouri,3.4
+2018,Apr,2018-04-01,missouri,3.3
+2018,May,2018-05-01,missouri,3.2
+2018,Jun,2018-06-01,missouri,3.1
+2018,Jul,2018-07-01,missouri,3.1
+2018,Aug,2018-08-01,missouri,3.0
+2018,Sep,2018-09-01,missouri,3.1
+2018,Oct,2018-10-01,missouri,3.1
+2018,Nov,2018-11-01,missouri,3.2
+2018,Dec,2018-12-01,missouri,3.3
+2019,Jan,2019-01-01,missouri,3.3
+2019,Feb,2019-02-01,missouri,3.3
+2019,Mar,2019-03-01,missouri,3.2
+2019,Apr,2019-04-01,missouri,3.2
+2019,May,2019-05-01,missouri,3.1
+2019,Jun,2019-06-01,missouri,3.1
+2019,Jul,2019-07-01,missouri,3.1
+2019,Aug,2019-08-01,missouri,3.2
+2019,Sep,2019-09-01,missouri,3.3
+2019,Oct,2019-10-01,missouri,3.4
+2019,Nov,2019-11-01,missouri,3.4
+2019,Dec,2019-12-01,missouri,3.4
+2020,Jan,2020-01-01,missouri,3.4
+2020,Feb,2020-02-01,missouri,3.4
+2020,Mar,2020-03-01,missouri,3.5
+2020,Apr,2020-04-01,missouri,11.6
+2020,May,2020-05-01,missouri,9.6
+2020,Jun,2020-06-01,missouri,8.0
+2020,Jul,2020-07-01,missouri,7.2
+2020,Aug,2020-08-01,missouri,6.4
+2020,Sep,2020-09-01,missouri,5.9
+2020,Oct,2020-10-01,missouri,5.4
+2020,Nov,2020-11-01,missouri,5.2
+2020,Dec,2020-12-01,missouri,5.0
+2021,Jan,2021-01-01,missouri,4.9
+2021,Feb,2021-02-01,missouri,4.8
+2021,Mar,2021-03-01,missouri,4.8
+2021,Apr,2021-04-01,missouri,4.7
+2021,May,2021-05-01,missouri,4.5
+2021,Jun,2021-06-01,missouri,4.3
+2021,Jul,2021-07-01,missouri,4.1
+2021,Aug,2021-08-01,missouri,3.9
+2021,Sep,2021-09-01,missouri,3.7
+2021,Oct,2021-10-01,missouri,3.5
+2021,Nov,2021-11-01,missouri,3.3
+2021,Dec,2021-12-01,missouri,3.2
+2022,Jan,2022-01-01,missouri,3.0
+2022,Feb,2022-02-01,missouri,2.7
+2022,Mar,2022-03-01,missouri,2.5
+2022,Apr,2022-04-01,missouri,2.4
+2022,May,2022-05-01,missouri,2.3
+2022,Jun,2022-06-01,missouri,2.3
+2022,Jul,2022-07-01,missouri,2.4
+2022,Aug,2022-08-01,missouri,2.5
+2022,Sep,2022-09-01,missouri,2.7
+2022,Oct,2022-10-01,missouri,2.8
+2022,Nov,2022-11-01,missouri,2.8
+2022,Dec,2022-12-01,missouri,2.8
+2023,Jan,2023-01-01,missouri,2.8
+2023,Feb,2023-02-01,missouri,2.8
+2023,Mar,2023-03-01,missouri,2.8
+2023,Apr,2023-04-01,missouri,2.9
+2023,May,2023-05-01,missouri,2.9
+2023,Jun,2023-06-01,missouri,3.0
+2023,Jul,2023-07-01,missouri,3.1
+2023,Aug,2023-08-01,missouri,3.2
+2023,Sep,2023-09-01,missouri,3.3
+2023,Oct,2023-10-01,missouri,3.3
+2023,Nov,2023-11-01,missouri,3.3
+2023,Dec,2023-12-01,missouri,3.3
+2024,Jan,2024-01-01,missouri,3.3
+2024,Feb,2024-02-01,missouri,3.3
+2024,Mar,2024-03-01,missouri,3.3
+2024,Apr,2024-04-01,missouri,3.4
+2024,May,2024-05-01,missouri,3.5
+2024,Jun,2024-06-01,missouri,3.7
+2015,Jan,2015-01-01,montana,4.3
+2015,Feb,2015-02-01,montana,4.3
+2015,Mar,2015-03-01,montana,4.3
+2015,Apr,2015-04-01,montana,4.2
+2015,May,2015-05-01,montana,4.3
+2015,Jun,2015-06-01,montana,4.3
+2015,Jul,2015-07-01,montana,4.3
+2015,Aug,2015-08-01,montana,4.3
+2015,Sep,2015-09-01,montana,4.3
+2015,Oct,2015-10-01,montana,4.3
+2015,Nov,2015-11-01,montana,4.3
+2015,Dec,2015-12-01,montana,4.3
+2016,Jan,2016-01-01,montana,4.4
+2016,Feb,2016-02-01,montana,4.4
+2016,Mar,2016-03-01,montana,4.4
+2016,Apr,2016-04-01,montana,4.4
+2016,May,2016-05-01,montana,4.4
+2016,Jun,2016-06-01,montana,4.3
+2016,Jul,2016-07-01,montana,4.3
+2016,Aug,2016-08-01,montana,4.3
+2016,Sep,2016-09-01,montana,4.3
+2016,Oct,2016-10-01,montana,4.3
+2016,Nov,2016-11-01,montana,4.2
+2016,Dec,2016-12-01,montana,4.2
+2017,Jan,2017-01-01,montana,4.2
+2017,Feb,2017-02-01,montana,4.1
+2017,Mar,2017-03-01,montana,4.1
+2017,Apr,2017-04-01,montana,4.1
+2017,May,2017-05-01,montana,4.1
+2017,Jun,2017-06-01,montana,4.1
+2017,Jul,2017-07-01,montana,4.1
+2017,Aug,2017-08-01,montana,4.1
+2017,Sep,2017-09-01,montana,4.1
+2017,Oct,2017-10-01,montana,4.1
+2017,Nov,2017-11-01,montana,4.0
+2017,Dec,2017-12-01,montana,4.0
+2018,Jan,2018-01-01,montana,4.0
+2018,Feb,2018-02-01,montana,3.9
+2018,Mar,2018-03-01,montana,3.8
+2018,Apr,2018-04-01,montana,3.8
+2018,May,2018-05-01,montana,3.7
+2018,Jun,2018-06-01,montana,3.7
+2018,Jul,2018-07-01,montana,3.7
+2018,Aug,2018-08-01,montana,3.7
+2018,Sep,2018-09-01,montana,3.7
+2018,Oct,2018-10-01,montana,3.7
+2018,Nov,2018-11-01,montana,3.7
+2018,Dec,2018-12-01,montana,3.6
+2019,Jan,2019-01-01,montana,3.6
+2019,Feb,2019-02-01,montana,3.6
+2019,Mar,2019-03-01,montana,3.5
+2019,Apr,2019-04-01,montana,3.5
+2019,May,2019-05-01,montana,3.4
+2019,Jun,2019-06-01,montana,3.4
+2019,Jul,2019-07-01,montana,3.5
+2019,Aug,2019-08-01,montana,3.5
+2019,Sep,2019-09-01,montana,3.5
+2019,Oct,2019-10-01,montana,3.5
+2019,Nov,2019-11-01,montana,3.5
+2019,Dec,2019-12-01,montana,3.5
+2020,Jan,2020-01-01,montana,3.6
+2020,Feb,2020-02-01,montana,3.5
+2020,Mar,2020-03-01,montana,3.5
+2020,Apr,2020-04-01,montana,12.0
+2020,May,2020-05-01,montana,9.2
+2020,Jun,2020-06-01,montana,7.6
+2020,Jul,2020-07-01,montana,6.7
+2020,Aug,2020-08-01,montana,5.6
+2020,Sep,2020-09-01,montana,5.2
+2020,Oct,2020-10-01,montana,4.6
+2020,Nov,2020-11-01,montana,4.4
+2020,Dec,2020-12-01,montana,4.2
+2021,Jan,2021-01-01,montana,4.0
+2021,Feb,2021-02-01,montana,3.9
+2021,Mar,2021-03-01,montana,3.8
+2021,Apr,2021-04-01,montana,3.7
+2021,May,2021-05-01,montana,3.6
+2021,Jun,2021-06-01,montana,3.5
+2021,Jul,2021-07-01,montana,3.4
+2021,Aug,2021-08-01,montana,3.3
+2021,Sep,2021-09-01,montana,3.1
+2021,Oct,2021-10-01,montana,3.0
+2021,Nov,2021-11-01,montana,2.8
+2021,Dec,2021-12-01,montana,2.7
+2022,Jan,2022-01-01,montana,2.7
+2022,Feb,2022-02-01,montana,2.6
+2022,Mar,2022-03-01,montana,2.6
+2022,Apr,2022-04-01,montana,2.7
+2022,May,2022-05-01,montana,2.7
+2022,Jun,2022-06-01,montana,2.7
+2022,Jul,2022-07-01,montana,2.8
+2022,Aug,2022-08-01,montana,2.8
+2022,Sep,2022-09-01,montana,2.7
+2022,Oct,2022-10-01,montana,2.7
+2022,Nov,2022-11-01,montana,2.6
+2022,Dec,2022-12-01,montana,2.6
+2023,Jan,2023-01-01,montana,2.5
+2023,Feb,2023-02-01,montana,2.5
+2023,Mar,2023-03-01,montana,2.5
+2023,Apr,2023-04-01,montana,2.6
+2023,May,2023-05-01,montana,2.6
+2023,Jun,2023-06-01,montana,2.7
+2023,Jul,2023-07-01,montana,2.8
+2023,Aug,2023-08-01,montana,3.0
+2023,Sep,2023-09-01,montana,3.2
+2023,Oct,2023-10-01,montana,3.3
+2023,Nov,2023-11-01,montana,3.3
+2023,Dec,2023-12-01,montana,3.3
+2024,Jan,2024-01-01,montana,3.3
+2024,Feb,2024-02-01,montana,3.4
+2024,Mar,2024-03-01,montana,3.3
+2024,Apr,2024-04-01,montana,3.1
+2024,May,2024-05-01,montana,3.1
+2024,Jun,2024-06-01,montana,3.1
+2015,Jan,2015-01-01,nebraska,2.9
+2015,Feb,2015-02-01,nebraska,2.9
+2015,Mar,2015-03-01,nebraska,3.0
+2015,Apr,2015-04-01,nebraska,3.0
+2015,May,2015-05-01,nebraska,3.0
+2015,Jun,2015-06-01,nebraska,3.0
+2015,Jul,2015-07-01,nebraska,3.0
+2015,Aug,2015-08-01,nebraska,3.0
+2015,Sep,2015-09-01,nebraska,3.0
+2015,Oct,2015-10-01,nebraska,3.0
+2015,Nov,2015-11-01,nebraska,3.0
+2015,Dec,2015-12-01,nebraska,3.0
+2016,Jan,2016-01-01,nebraska,3.0
+2016,Feb,2016-02-01,nebraska,3.0
+2016,Mar,2016-03-01,nebraska,3.0
+2016,Apr,2016-04-01,nebraska,3.0
+2016,May,2016-05-01,nebraska,3.0
+2016,Jun,2016-06-01,nebraska,3.1
+2016,Jul,2016-07-01,nebraska,3.1
+2016,Aug,2016-08-01,nebraska,3.1
+2016,Sep,2016-09-01,nebraska,3.1
+2016,Oct,2016-10-01,nebraska,3.2
+2016,Nov,2016-11-01,nebraska,3.1
+2016,Dec,2016-12-01,nebraska,3.1
+2017,Jan,2017-01-01,nebraska,3.1
+2017,Feb,2017-02-01,nebraska,3.0
+2017,Mar,2017-03-01,nebraska,3.0
+2017,Apr,2017-04-01,nebraska,2.9
+2017,May,2017-05-01,nebraska,2.9
+2017,Jun,2017-06-01,nebraska,2.9
+2017,Jul,2017-07-01,nebraska,2.9
+2017,Aug,2017-08-01,nebraska,3.0
+2017,Sep,2017-09-01,nebraska,3.0
+2017,Oct,2017-10-01,nebraska,3.0
+2017,Nov,2017-11-01,nebraska,3.0
+2017,Dec,2017-12-01,nebraska,3.0
+2018,Jan,2018-01-01,nebraska,2.9
+2018,Feb,2018-02-01,nebraska,2.9
+2018,Mar,2018-03-01,nebraska,2.9
+2018,Apr,2018-04-01,nebraska,2.9
+2018,May,2018-05-01,nebraska,2.8
+2018,Jun,2018-06-01,nebraska,2.9
+2018,Jul,2018-07-01,nebraska,2.9
+2018,Aug,2018-08-01,nebraska,2.9
+2018,Sep,2018-09-01,nebraska,2.9
+2018,Oct,2018-10-01,nebraska,3.0
+2018,Nov,2018-11-01,nebraska,3.0
+2018,Dec,2018-12-01,nebraska,3.1
+2019,Jan,2019-01-01,nebraska,3.1
+2019,Feb,2019-02-01,nebraska,3.1
+2019,Mar,2019-03-01,nebraska,3.1
+2019,Apr,2019-04-01,nebraska,3.1
+2019,May,2019-05-01,nebraska,3.1
+2019,Jun,2019-06-01,nebraska,3.1
+2019,Jul,2019-07-01,nebraska,3.1
+2019,Aug,2019-08-01,nebraska,3.2
+2019,Sep,2019-09-01,nebraska,3.2
+2019,Oct,2019-10-01,nebraska,3.2
+2019,Nov,2019-11-01,nebraska,3.1
+2019,Dec,2019-12-01,nebraska,3.1
+2020,Jan,2020-01-01,nebraska,3.0
+2020,Feb,2020-02-01,nebraska,3.0
+2020,Mar,2020-03-01,nebraska,4.4
+2020,Apr,2020-04-01,nebraska,8.2
+2020,May,2020-05-01,nebraska,6.4
+2020,Jun,2020-06-01,nebraska,5.2
+2020,Jul,2020-07-01,nebraska,4.6
+2020,Aug,2020-08-01,nebraska,3.9
+2020,Sep,2020-09-01,nebraska,3.5
+2020,Oct,2020-10-01,nebraska,3.1
+2020,Nov,2020-11-01,nebraska,3.0
+2020,Dec,2020-12-01,nebraska,3.0
+2021,Jan,2021-01-01,nebraska,2.9
+2021,Feb,2021-02-01,nebraska,2.9
+2021,Mar,2021-03-01,nebraska,2.9
+2021,Apr,2021-04-01,nebraska,2.8
+2021,May,2021-05-01,nebraska,2.7
+2021,Jun,2021-06-01,nebraska,2.7
+2021,Jul,2021-07-01,nebraska,2.6
+2021,Aug,2021-08-01,nebraska,2.5
+2021,Sep,2021-09-01,nebraska,2.4
+2021,Oct,2021-10-01,nebraska,2.3
+2021,Nov,2021-11-01,nebraska,2.2
+2021,Dec,2021-12-01,nebraska,2.1
+2022,Jan,2022-01-01,nebraska,2.0
+2022,Feb,2022-02-01,nebraska,2.0
+2022,Mar,2022-03-01,nebraska,1.9
+2022,Apr,2022-04-01,nebraska,1.9
+2022,May,2022-05-01,nebraska,2.0
+2022,Jun,2022-06-01,nebraska,2.1
+2022,Jul,2022-07-01,nebraska,2.2
+2022,Aug,2022-08-01,nebraska,2.3
+2022,Sep,2022-09-01,nebraska,2.4
+2022,Oct,2022-10-01,nebraska,2.4
+2022,Nov,2022-11-01,nebraska,2.3
+2022,Dec,2022-12-01,nebraska,2.2
+2023,Jan,2023-01-01,nebraska,2.1
+2023,Feb,2023-02-01,nebraska,2.1
+2023,Mar,2023-03-01,nebraska,2.0
+2023,Apr,2023-04-01,nebraska,2.0
+2023,May,2023-05-01,nebraska,2.1
+2023,Jun,2023-06-01,nebraska,2.2
+2023,Jul,2023-07-01,nebraska,2.3
+2023,Aug,2023-08-01,nebraska,2.4
+2023,Sep,2023-09-01,nebraska,2.5
+2023,Oct,2023-10-01,nebraska,2.5
+2023,Nov,2023-11-01,nebraska,2.5
+2023,Dec,2023-12-01,nebraska,2.5
+2024,Jan,2024-01-01,nebraska,2.5
+2024,Feb,2024-02-01,nebraska,2.5
+2024,Mar,2024-03-01,nebraska,2.5
+2024,Apr,2024-04-01,nebraska,2.5
+2024,May,2024-05-01,nebraska,2.5
+2024,Jun,2024-06-01,nebraska,2.6
+2015,Jan,2015-01-01,nevada,7.4
+2015,Feb,2015-02-01,nevada,7.3
+2015,Mar,2015-03-01,nevada,7.2
+2015,Apr,2015-04-01,nevada,7.1
+2015,May,2015-05-01,nevada,7.0
+2015,Jun,2015-06-01,nevada,6.9
+2015,Jul,2015-07-01,nevada,6.8
+2015,Aug,2015-08-01,nevada,6.7
+2015,Sep,2015-09-01,nevada,6.6
+2015,Oct,2015-10-01,nevada,6.5
+2015,Nov,2015-11-01,nevada,6.4
+2015,Dec,2015-12-01,nevada,6.3
+2016,Jan,2016-01-01,nevada,6.2
+2016,Feb,2016-02-01,nevada,6.2
+2016,Mar,2016-03-01,nevada,6.1
+2016,Apr,2016-04-01,nevada,6.0
+2016,May,2016-05-01,nevada,5.9
+2016,Jun,2016-06-01,nevada,5.8
+2016,Jul,2016-07-01,nevada,5.7
+2016,Aug,2016-08-01,nevada,5.7
+2016,Sep,2016-09-01,nevada,5.6
+2016,Oct,2016-10-01,nevada,5.6
+2016,Nov,2016-11-01,nevada,5.5
+2016,Dec,2016-12-01,nevada,5.4
+2017,Jan,2017-01-01,nevada,5.4
+2017,Feb,2017-02-01,nevada,5.3
+2017,Mar,2017-03-01,nevada,5.2
+2017,Apr,2017-04-01,nevada,5.1
+2017,May,2017-05-01,nevada,5.0
+2017,Jun,2017-06-01,nevada,4.9
+2017,Jul,2017-07-01,nevada,4.8
+2017,Aug,2017-08-01,nevada,4.8
+2017,Sep,2017-09-01,nevada,4.8
+2017,Oct,2017-10-01,nevada,4.8
+2017,Nov,2017-11-01,nevada,4.8
+2017,Dec,2017-12-01,nevada,4.9
+2018,Jan,2018-01-01,nevada,4.7
+2018,Feb,2018-02-01,nevada,4.6
+2018,Mar,2018-03-01,nevada,4.6
+2018,Apr,2018-04-01,nevada,4.5
+2018,May,2018-05-01,nevada,4.4
+2018,Jun,2018-06-01,nevada,4.3
+2018,Jul,2018-07-01,nevada,4.2
+2018,Aug,2018-08-01,nevada,4.2
+2018,Sep,2018-09-01,nevada,4.2
+2018,Oct,2018-10-01,nevada,4.3
+2018,Nov,2018-11-01,nevada,4.3
+2018,Dec,2018-12-01,nevada,4.3
+2019,Jan,2019-01-01,nevada,4.3
+2019,Feb,2019-02-01,nevada,4.3
+2019,Mar,2019-03-01,nevada,4.2
+2019,Apr,2019-04-01,nevada,4.2
+2019,May,2019-05-01,nevada,4.1
+2019,Jun,2019-06-01,nevada,4.1
+2019,Jul,2019-07-01,nevada,4.0
+2019,Aug,2019-08-01,nevada,4.1
+2019,Sep,2019-09-01,nevada,4.1
+2019,Oct,2019-10-01,nevada,4.1
+2019,Nov,2019-11-01,nevada,4.1
+2019,Dec,2019-12-01,nevada,4.2
+2020,Jan,2020-01-01,nevada,4.2
+2020,Feb,2020-02-01,nevada,4.4
+2020,Mar,2020-03-01,nevada,7.3
+2020,Apr,2020-04-01,nevada,30.6
+2020,May,2020-05-01,nevada,24.7
+2020,Jun,2020-06-01,nevada,18.9
+2020,Jul,2020-07-01,nevada,16.7
+2020,Aug,2020-08-01,nevada,13.9
+2020,Sep,2020-09-01,nevada,12.7
+2020,Oct,2020-10-01,nevada,11.2
+2020,Nov,2020-11-01,nevada,10.3
+2020,Dec,2020-12-01,nevada,9.7
+2021,Jan,2021-01-01,nevada,8.9
+2021,Feb,2021-02-01,nevada,8.5
+2021,Mar,2021-03-01,nevada,8.0
+2021,Apr,2021-04-01,nevada,7.6
+2021,May,2021-05-01,nevada,7.2
+2021,Jun,2021-06-01,nevada,6.9
+2021,Jul,2021-07-01,nevada,6.5
+2021,Aug,2021-08-01,nevada,6.2
+2021,Sep,2021-09-01,nevada,5.9
+2021,Oct,2021-10-01,nevada,5.6
+2021,Nov,2021-11-01,nevada,5.4
+2021,Dec,2021-12-01,nevada,5.3
+2022,Jan,2022-01-01,nevada,5.2
+2022,Feb,2022-02-01,nevada,5.2
+2022,Mar,2022-03-01,nevada,5.1
+2022,Apr,2022-04-01,nevada,5.1
+2022,May,2022-05-01,nevada,5.1
+2022,Jun,2022-06-01,nevada,5.1
+2022,Jul,2022-07-01,nevada,5.2
+2022,Aug,2022-08-01,nevada,5.2
+2022,Sep,2022-09-01,nevada,5.3
+2022,Oct,2022-10-01,nevada,5.3
+2022,Nov,2022-11-01,nevada,5.3
+2022,Dec,2022-12-01,nevada,5.3
+2023,Jan,2023-01-01,nevada,5.2
+2023,Feb,2023-02-01,nevada,5.2
+2023,Mar,2023-03-01,nevada,5.1
+2023,Apr,2023-04-01,nevada,5.0
+2023,May,2023-05-01,nevada,5.0
+2023,Jun,2023-06-01,nevada,5.0
+2023,Jul,2023-07-01,nevada,5.0
+2023,Aug,2023-08-01,nevada,5.1
+2023,Sep,2023-09-01,nevada,5.2
+2023,Oct,2023-10-01,nevada,5.3
+2023,Nov,2023-11-01,nevada,5.3
+2023,Dec,2023-12-01,nevada,5.3
+2024,Jan,2024-01-01,nevada,5.3
+2024,Feb,2024-02-01,nevada,5.2
+2024,Mar,2024-03-01,nevada,5.1
+2024,Apr,2024-04-01,nevada,5.1
+2024,May,2024-05-01,nevada,5.1
+2024,Jun,2024-06-01,nevada,5.2
+2015,Jan,2015-01-01,new hampshire,3.8
+2015,Feb,2015-02-01,new hampshire,3.8
+2015,Mar,2015-03-01,new hampshire,3.7
+2015,Apr,2015-04-01,new hampshire,3.6
+2015,May,2015-05-01,new hampshire,3.5
+2015,Jun,2015-06-01,new hampshire,3.4
+2015,Jul,2015-07-01,new hampshire,3.3
+2015,Aug,2015-08-01,new hampshire,3.3
+2015,Sep,2015-09-01,new hampshire,3.2
+2015,Oct,2015-10-01,new hampshire,3.1
+2015,Nov,2015-11-01,new hampshire,3.0
+2015,Dec,2015-12-01,new hampshire,3.0
+2016,Jan,2016-01-01,new hampshire,2.9
+2016,Feb,2016-02-01,new hampshire,2.9
+2016,Mar,2016-03-01,new hampshire,2.8
+2016,Apr,2016-04-01,new hampshire,2.8
+2016,May,2016-05-01,new hampshire,2.9
+2016,Jun,2016-06-01,new hampshire,2.9
+2016,Jul,2016-07-01,new hampshire,2.9
+2016,Aug,2016-08-01,new hampshire,2.9
+2016,Sep,2016-09-01,new hampshire,2.9
+2016,Oct,2016-10-01,new hampshire,2.9
+2016,Nov,2016-11-01,new hampshire,2.9
+2016,Dec,2016-12-01,new hampshire,2.9
+2017,Jan,2017-01-01,new hampshire,2.9
+2017,Feb,2017-02-01,new hampshire,2.9
+2017,Mar,2017-03-01,new hampshire,2.8
+2017,Apr,2017-04-01,new hampshire,2.8
+2017,May,2017-05-01,new hampshire,2.8
+2017,Jun,2017-06-01,new hampshire,2.7
+2017,Jul,2017-07-01,new hampshire,2.8
+2017,Aug,2017-08-01,new hampshire,2.8
+2017,Sep,2017-09-01,new hampshire,2.8
+2017,Oct,2017-10-01,new hampshire,2.8
+2017,Nov,2017-11-01,new hampshire,2.8
+2017,Dec,2017-12-01,new hampshire,2.8
+2018,Jan,2018-01-01,new hampshire,2.7
+2018,Feb,2018-02-01,new hampshire,2.7
+2018,Mar,2018-03-01,new hampshire,2.7
+2018,Apr,2018-04-01,new hampshire,2.7
+2018,May,2018-05-01,new hampshire,2.7
+2018,Jun,2018-06-01,new hampshire,2.6
+2018,Jul,2018-07-01,new hampshire,2.6
+2018,Aug,2018-08-01,new hampshire,2.6
+2018,Sep,2018-09-01,new hampshire,2.5
+2018,Oct,2018-10-01,new hampshire,2.5
+2018,Nov,2018-11-01,new hampshire,2.6
+2018,Dec,2018-12-01,new hampshire,2.6
+2019,Jan,2019-01-01,new hampshire,2.6
+2019,Feb,2019-02-01,new hampshire,2.6
+2019,Mar,2019-03-01,new hampshire,2.6
+2019,Apr,2019-04-01,new hampshire,2.6
+2019,May,2019-05-01,new hampshire,2.5
+2019,Jun,2019-06-01,new hampshire,2.5
+2019,Jul,2019-07-01,new hampshire,2.5
+2019,Aug,2019-08-01,new hampshire,2.6
+2019,Sep,2019-09-01,new hampshire,2.6
+2019,Oct,2019-10-01,new hampshire,2.6
+2019,Nov,2019-11-01,new hampshire,2.6
+2019,Dec,2019-12-01,new hampshire,2.6
+2020,Jan,2020-01-01,new hampshire,2.6
+2020,Feb,2020-02-01,new hampshire,2.6
+2020,Mar,2020-03-01,new hampshire,2.6
+2020,Apr,2020-04-01,new hampshire,16.0
+2020,May,2020-05-01,new hampshire,11.8
+2020,Jun,2020-06-01,new hampshire,9.6
+2020,Jul,2020-07-01,new hampshire,8.3
+2020,Aug,2020-08-01,new hampshire,6.7
+2020,Sep,2020-09-01,new hampshire,6.1
+2020,Oct,2020-10-01,new hampshire,5.2
+2020,Nov,2020-11-01,new hampshire,4.8
+2020,Dec,2020-12-01,new hampshire,4.6
+2021,Jan,2021-01-01,new hampshire,4.2
+2021,Feb,2021-02-01,new hampshire,4.1
+2021,Mar,2021-03-01,new hampshire,4.0
+2021,Apr,2021-04-01,new hampshire,3.9
+2021,May,2021-05-01,new hampshire,3.7
+2021,Jun,2021-06-01,new hampshire,3.6
+2021,Jul,2021-07-01,new hampshire,3.4
+2021,Aug,2021-08-01,new hampshire,3.2
+2021,Sep,2021-09-01,new hampshire,3.0
+2021,Oct,2021-10-01,new hampshire,2.8
+2021,Nov,2021-11-01,new hampshire,2.6
+2021,Dec,2021-12-01,new hampshire,2.4
+2022,Jan,2022-01-01,new hampshire,2.3
+2022,Feb,2022-02-01,new hampshire,2.3
+2022,Mar,2022-03-01,new hampshire,2.2
+2022,Apr,2022-04-01,new hampshire,2.2
+2022,May,2022-05-01,new hampshire,2.2
+2022,Jun,2022-06-01,new hampshire,2.2
+2022,Jul,2022-07-01,new hampshire,2.3
+2022,Aug,2022-08-01,new hampshire,2.3
+2022,Sep,2022-09-01,new hampshire,2.4
+2022,Oct,2022-10-01,new hampshire,2.4
+2022,Nov,2022-11-01,new hampshire,2.3
+2022,Dec,2022-12-01,new hampshire,2.2
+2023,Jan,2023-01-01,new hampshire,2.0
+2023,Feb,2023-02-01,new hampshire,1.9
+2023,Mar,2023-03-01,new hampshire,1.8
+2023,Apr,2023-04-01,new hampshire,1.8
+2023,May,2023-05-01,new hampshire,1.8
+2023,Jun,2023-06-01,new hampshire,2.0
+2023,Jul,2023-07-01,new hampshire,2.1
+2023,Aug,2023-08-01,new hampshire,2.3
+2023,Sep,2023-09-01,new hampshire,2.5
+2023,Oct,2023-10-01,new hampshire,2.6
+2023,Nov,2023-11-01,new hampshire,2.6
+2023,Dec,2023-12-01,new hampshire,2.6
+2024,Jan,2024-01-01,new hampshire,2.6
+2024,Feb,2024-02-01,new hampshire,2.6
+2024,Mar,2024-03-01,new hampshire,2.6
+2024,Apr,2024-04-01,new hampshire,2.6
+2024,May,2024-05-01,new hampshire,2.5
+2024,Jun,2024-06-01,new hampshire,2.5
+2015,Jan,2015-01-01,new jersey,6.3
+2015,Feb,2015-02-01,new jersey,6.3
+2015,Mar,2015-03-01,new jersey,6.2
+2015,Apr,2015-04-01,new jersey,6.1
+2015,May,2015-05-01,new jersey,6.0
+2015,Jun,2015-06-01,new jersey,5.8
+2015,Jul,2015-07-01,new jersey,5.6
+2015,Aug,2015-08-01,new jersey,5.5
+2015,Sep,2015-09-01,new jersey,5.3
+2015,Oct,2015-10-01,new jersey,5.2
+2015,Nov,2015-11-01,new jersey,5.1
+2015,Dec,2015-12-01,new jersey,5.0
+2016,Jan,2016-01-01,new jersey,5.0
+2016,Feb,2016-02-01,new jersey,5.0
+2016,Mar,2016-03-01,new jersey,5.0
+2016,Apr,2016-04-01,new jersey,5.0
+2016,May,2016-05-01,new jersey,5.0
+2016,Jun,2016-06-01,new jersey,5.0
+2016,Jul,2016-07-01,new jersey,5.0
+2016,Aug,2016-08-01,new jersey,5.0
+2016,Sep,2016-09-01,new jersey,4.9
+2016,Oct,2016-10-01,new jersey,4.9
+2016,Nov,2016-11-01,new jersey,4.8
+2016,Dec,2016-12-01,new jersey,4.7
+2017,Jan,2017-01-01,new jersey,4.6
+2017,Feb,2017-02-01,new jersey,4.5
+2017,Mar,2017-03-01,new jersey,4.5
+2017,Apr,2017-04-01,new jersey,4.4
+2017,May,2017-05-01,new jersey,4.5
+2017,Jun,2017-06-01,new jersey,4.5
+2017,Jul,2017-07-01,new jersey,4.5
+2017,Aug,2017-08-01,new jersey,4.6
+2017,Sep,2017-09-01,new jersey,4.6
+2017,Oct,2017-10-01,new jersey,4.6
+2017,Nov,2017-11-01,new jersey,4.6
+2017,Dec,2017-12-01,new jersey,4.5
+2018,Jan,2018-01-01,new jersey,4.4
+2018,Feb,2018-02-01,new jersey,4.4
+2018,Mar,2018-03-01,new jersey,4.3
+2018,Apr,2018-04-01,new jersey,4.2
+2018,May,2018-05-01,new jersey,4.1
+2018,Jun,2018-06-01,new jersey,4.0
+2018,Jul,2018-07-01,new jersey,4.0
+2018,Aug,2018-08-01,new jersey,3.9
+2018,Sep,2018-09-01,new jersey,3.8
+2018,Oct,2018-10-01,new jersey,3.7
+2018,Nov,2018-11-01,new jersey,3.7
+2018,Dec,2018-12-01,new jersey,3.6
+2019,Jan,2019-01-01,new jersey,3.5
+2019,Feb,2019-02-01,new jersey,3.4
+2019,Mar,2019-03-01,new jersey,3.3
+2019,Apr,2019-04-01,new jersey,3.2
+2019,May,2019-05-01,new jersey,3.2
+2019,Jun,2019-06-01,new jersey,3.2
+2019,Jul,2019-07-01,new jersey,3.3
+2019,Aug,2019-08-01,new jersey,3.4
+2019,Sep,2019-09-01,new jersey,3.6
+2019,Oct,2019-10-01,new jersey,3.7
+2019,Nov,2019-11-01,new jersey,3.8
+2019,Dec,2019-12-01,new jersey,3.9
+2020,Jan,2020-01-01,new jersey,4.0
+2020,Feb,2020-02-01,new jersey,4.1
+2020,Mar,2020-03-01,new jersey,4.1
+2020,Apr,2020-04-01,new jersey,15.0
+2020,May,2020-05-01,new jersey,15.4
+2020,Jun,2020-06-01,new jersey,14.5
+2020,Jul,2020-07-01,new jersey,14.4
+2020,Aug,2020-08-01,new jersey,13.3
+2020,Sep,2020-09-01,new jersey,7.4
+2020,Oct,2020-10-01,new jersey,7.1
+2020,Nov,2020-11-01,new jersey,7.2
+2020,Dec,2020-12-01,new jersey,7.2
+2021,Jan,2021-01-01,new jersey,7.3
+2021,Feb,2021-02-01,new jersey,7.3
+2021,Mar,2021-03-01,new jersey,7.2
+2021,Apr,2021-04-01,new jersey,7.2
+2021,May,2021-05-01,new jersey,7.0
+2021,Jun,2021-06-01,new jersey,7.2
+2021,Jul,2021-07-01,new jersey,6.9
+2021,Aug,2021-08-01,new jersey,6.8
+2021,Sep,2021-09-01,new jersey,6.3
+2021,Oct,2021-10-01,new jersey,6.0
+2021,Nov,2021-11-01,new jersey,5.7
+2021,Dec,2021-12-01,new jersey,5.6
+2022,Jan,2022-01-01,new jersey,5.2
+2022,Feb,2022-02-01,new jersey,4.7
+2022,Mar,2022-03-01,new jersey,4.3
+2022,Apr,2022-04-01,new jersey,4.1
+2022,May,2022-05-01,new jersey,3.8
+2022,Jun,2022-06-01,new jersey,3.6
+2022,Jul,2022-07-01,new jersey,3.3
+2022,Aug,2022-08-01,new jersey,3.1
+2022,Sep,2022-09-01,new jersey,3.3
+2022,Oct,2022-10-01,new jersey,3.5
+2022,Nov,2022-11-01,new jersey,3.7
+2022,Dec,2022-12-01,new jersey,3.8
+2023,Jan,2023-01-01,new jersey,3.9
+2023,Feb,2023-02-01,new jersey,4.0
+2023,Mar,2023-03-01,new jersey,4.0
+2023,Apr,2023-04-01,new jersey,4.1
+2023,May,2023-05-01,new jersey,4.2
+2023,Jun,2023-06-01,new jersey,4.4
+2023,Jul,2023-07-01,new jersey,4.5
+2023,Aug,2023-08-01,new jersey,4.7
+2023,Sep,2023-09-01,new jersey,4.8
+2023,Oct,2023-10-01,new jersey,4.8
+2023,Nov,2023-11-01,new jersey,4.8
+2023,Dec,2023-12-01,new jersey,4.8
+2024,Jan,2024-01-01,new jersey,4.8
+2024,Feb,2024-02-01,new jersey,4.8
+2024,Mar,2024-03-01,new jersey,4.8
+2024,Apr,2024-04-01,new jersey,4.7
+2024,May,2024-05-01,new jersey,4.6
+2024,Jun,2024-06-01,new jersey,4.6
+2015,Jan,2015-01-01,new mexico,6.5
+2015,Feb,2015-02-01,new mexico,6.6
+2015,Mar,2015-03-01,new mexico,6.7
+2015,Apr,2015-04-01,new mexico,6.7
+2015,May,2015-05-01,new mexico,6.7
+2015,Jun,2015-06-01,new mexico,6.7
+2015,Jul,2015-07-01,new mexico,6.6
+2015,Aug,2015-08-01,new mexico,6.6
+2015,Sep,2015-09-01,new mexico,6.6
+2015,Oct,2015-10-01,new mexico,6.5
+2015,Nov,2015-11-01,new mexico,6.5
+2015,Dec,2015-12-01,new mexico,6.5
+2016,Jan,2016-01-01,new mexico,6.5
+2016,Feb,2016-02-01,new mexico,6.5
+2016,Mar,2016-03-01,new mexico,6.6
+2016,Apr,2016-04-01,new mexico,6.6
+2016,May,2016-05-01,new mexico,6.7
+2016,Jun,2016-06-01,new mexico,6.8
+2016,Jul,2016-07-01,new mexico,6.9
+2016,Aug,2016-08-01,new mexico,6.9
+2016,Sep,2016-09-01,new mexico,6.9
+2016,Oct,2016-10-01,new mexico,6.9
+2016,Nov,2016-11-01,new mexico,6.9
+2016,Dec,2016-12-01,new mexico,6.8
+2017,Jan,2017-01-01,new mexico,6.7
+2017,Feb,2017-02-01,new mexico,6.6
+2017,Mar,2017-03-01,new mexico,6.5
+2017,Apr,2017-04-01,new mexico,6.4
+2017,May,2017-05-01,new mexico,6.2
+2017,Jun,2017-06-01,new mexico,6.1
+2017,Jul,2017-07-01,new mexico,6.0
+2017,Aug,2017-08-01,new mexico,5.8
+2017,Sep,2017-09-01,new mexico,5.7
+2017,Oct,2017-10-01,new mexico,5.6
+2017,Nov,2017-11-01,new mexico,5.5
+2017,Dec,2017-12-01,new mexico,5.4
+2018,Jan,2018-01-01,new mexico,5.2
+2018,Feb,2018-02-01,new mexico,5.1
+2018,Mar,2018-03-01,new mexico,4.9
+2018,Apr,2018-04-01,new mexico,4.8
+2018,May,2018-05-01,new mexico,4.7
+2018,Jun,2018-06-01,new mexico,4.7
+2018,Jul,2018-07-01,new mexico,4.7
+2018,Aug,2018-08-01,new mexico,4.8
+2018,Sep,2018-09-01,new mexico,4.9
+2018,Oct,2018-10-01,new mexico,5.0
+2018,Nov,2018-11-01,new mexico,5.1
+2018,Dec,2018-12-01,new mexico,5.2
+2019,Jan,2019-01-01,new mexico,5.1
+2019,Feb,2019-02-01,new mexico,5.1
+2019,Mar,2019-03-01,new mexico,5.0
+2019,Apr,2019-04-01,new mexico,5.0
+2019,May,2019-05-01,new mexico,4.9
+2019,Jun,2019-06-01,new mexico,4.9
+2019,Jul,2019-07-01,new mexico,4.9
+2019,Aug,2019-08-01,new mexico,4.9
+2019,Sep,2019-09-01,new mexico,4.9
+2019,Oct,2019-10-01,new mexico,4.9
+2019,Nov,2019-11-01,new mexico,4.9
+2019,Dec,2019-12-01,new mexico,5.0
+2020,Jan,2020-01-01,new mexico,5.1
+2020,Feb,2020-02-01,new mexico,5.3
+2020,Mar,2020-03-01,new mexico,5.9
+2020,Apr,2020-04-01,new mexico,9.0
+2020,May,2020-05-01,new mexico,9.3
+2020,Jun,2020-06-01,new mexico,9.0
+2020,Jul,2020-07-01,new mexico,9.0
+2020,Aug,2020-08-01,new mexico,8.6
+2020,Sep,2020-09-01,new mexico,8.7
+2020,Oct,2020-10-01,new mexico,8.4
+2020,Nov,2020-11-01,new mexico,8.4
+2020,Dec,2020-12-01,new mexico,8.4
+2021,Jan,2021-01-01,new mexico,8.2
+2021,Feb,2021-02-01,new mexico,8.2
+2021,Mar,2021-03-01,new mexico,8.0
+2021,Apr,2021-04-01,new mexico,7.9
+2021,May,2021-05-01,new mexico,7.5
+2021,Jun,2021-06-01,new mexico,7.4
+2021,Jul,2021-07-01,new mexico,7.1
+2021,Aug,2021-08-01,new mexico,6.8
+2021,Sep,2021-09-01,new mexico,6.3
+2021,Oct,2021-10-01,new mexico,6.0
+2021,Nov,2021-11-01,new mexico,5.8
+2021,Dec,2021-12-01,new mexico,5.6
+2022,Jan,2022-01-01,new mexico,5.4
+2022,Feb,2022-02-01,new mexico,5.0
+2022,Mar,2022-03-01,new mexico,4.6
+2022,Apr,2022-04-01,new mexico,4.4
+2022,May,2022-05-01,new mexico,4.1
+2022,Jun,2022-06-01,new mexico,3.9
+2022,Jul,2022-07-01,new mexico,3.6
+2022,Aug,2022-08-01,new mexico,3.4
+2022,Sep,2022-09-01,new mexico,3.5
+2022,Oct,2022-10-01,new mexico,3.6
+2022,Nov,2022-11-01,new mexico,3.6
+2022,Dec,2022-12-01,new mexico,3.6
+2023,Jan,2023-01-01,new mexico,3.6
+2023,Feb,2023-02-01,new mexico,3.6
+2023,Mar,2023-03-01,new mexico,3.6
+2023,Apr,2023-04-01,new mexico,3.6
+2023,May,2023-05-01,new mexico,3.6
+2023,Jun,2023-06-01,new mexico,3.6
+2023,Jul,2023-07-01,new mexico,3.7
+2023,Aug,2023-08-01,new mexico,3.8
+2023,Sep,2023-09-01,new mexico,3.9
+2023,Oct,2023-10-01,new mexico,4.0
+2023,Nov,2023-11-01,new mexico,4.0
+2023,Dec,2023-12-01,new mexico,4.0
+2024,Jan,2024-01-01,new mexico,4.0
+2024,Feb,2024-02-01,new mexico,3.9
+2024,Mar,2024-03-01,new mexico,3.8
+2024,Apr,2024-04-01,new mexico,3.8
+2024,May,2024-05-01,new mexico,3.8
+2024,Jun,2024-06-01,new mexico,3.9
+2015,Jan,2015-01-01,new york,5.7
+2015,Feb,2015-02-01,new york,5.6
+2015,Mar,2015-03-01,new york,5.6
+2015,Apr,2015-04-01,new york,5.5
+2015,May,2015-05-01,new york,5.4
+2015,Jun,2015-06-01,new york,5.3
+2015,Jul,2015-07-01,new york,5.2
+2015,Aug,2015-08-01,new york,5.0
+2015,Sep,2015-09-01,new york,4.9
+2015,Oct,2015-10-01,new york,4.9
+2015,Nov,2015-11-01,new york,4.9
+2015,Dec,2015-12-01,new york,4.8
+2016,Jan,2016-01-01,new york,4.8
+2016,Feb,2016-02-01,new york,4.8
+2016,Mar,2016-03-01,new york,4.8
+2016,Apr,2016-04-01,new york,4.8
+2016,May,2016-05-01,new york,4.8
+2016,Jun,2016-06-01,new york,4.9
+2016,Jul,2016-07-01,new york,4.9
+2016,Aug,2016-08-01,new york,5.0
+2016,Sep,2016-09-01,new york,5.0
+2016,Oct,2016-10-01,new york,5.0
+2016,Nov,2016-11-01,new york,4.9
+2016,Dec,2016-12-01,new york,4.8
+2017,Jan,2017-01-01,new york,4.7
+2017,Feb,2017-02-01,new york,4.6
+2017,Mar,2017-03-01,new york,4.6
+2017,Apr,2017-04-01,new york,4.6
+2017,May,2017-05-01,new york,4.6
+2017,Jun,2017-06-01,new york,4.6
+2017,Jul,2017-07-01,new york,4.7
+2017,Aug,2017-08-01,new york,4.7
+2017,Sep,2017-09-01,new york,4.7
+2017,Oct,2017-10-01,new york,4.7
+2017,Nov,2017-11-01,new york,4.6
+2017,Dec,2017-12-01,new york,4.5
+2018,Jan,2018-01-01,new york,4.5
+2018,Feb,2018-02-01,new york,4.4
+2018,Mar,2018-03-01,new york,4.3
+2018,Apr,2018-04-01,new york,4.2
+2018,May,2018-05-01,new york,4.1
+2018,Jun,2018-06-01,new york,4.0
+2018,Jul,2018-07-01,new york,3.9
+2018,Aug,2018-08-01,new york,3.9
+2018,Sep,2018-09-01,new york,3.9
+2018,Oct,2018-10-01,new york,4.0
+2018,Nov,2018-11-01,new york,4.0
+2018,Dec,2018-12-01,new york,4.0
+2019,Jan,2019-01-01,new york,4.0
+2019,Feb,2019-02-01,new york,3.9
+2019,Mar,2019-03-01,new york,3.9
+2019,Apr,2019-04-01,new york,3.8
+2019,May,2019-05-01,new york,3.7
+2019,Jun,2019-06-01,new york,3.7
+2019,Jul,2019-07-01,new york,3.8
+2019,Aug,2019-08-01,new york,3.8
+2019,Sep,2019-09-01,new york,3.9
+2019,Oct,2019-10-01,new york,3.9
+2019,Nov,2019-11-01,new york,3.9
+2019,Dec,2019-12-01,new york,4.0
+2020,Jan,2020-01-01,new york,4.1
+2020,Feb,2020-02-01,new york,4.1
+2020,Mar,2020-03-01,new york,4.2
+2020,Apr,2020-04-01,new york,15.6
+2020,May,2020-05-01,new york,16.7
+2020,Jun,2020-06-01,new york,13.6
+2020,Jul,2020-07-01,new york,12.5
+2020,Aug,2020-08-01,new york,10.8
+2020,Sep,2020-09-01,new york,10.2
+2020,Oct,2020-10-01,new york,9.2
+2020,Nov,2020-11-01,new york,9.0
+2020,Dec,2020-12-01,new york,8.7
+2021,Jan,2021-01-01,new york,8.6
+2021,Feb,2021-02-01,new york,8.4
+2021,Mar,2021-03-01,new york,8.1
+2021,Apr,2021-04-01,new york,7.9
+2021,May,2021-05-01,new york,7.5
+2021,Jun,2021-06-01,new york,7.5
+2021,Jul,2021-07-01,new york,7.0
+2021,Aug,2021-08-01,new york,6.8
+2021,Sep,2021-09-01,new york,6.3
+2021,Oct,2021-10-01,new york,5.9
+2021,Nov,2021-11-01,new york,5.6
+2021,Dec,2021-12-01,new york,5.5
+2022,Jan,2022-01-01,new york,5.2
+2022,Feb,2022-02-01,new york,4.8
+2022,Mar,2022-03-01,new york,4.6
+2022,Apr,2022-04-01,new york,4.4
+2022,May,2022-05-01,new york,4.3
+2022,Jun,2022-06-01,new york,4.2
+2022,Jul,2022-07-01,new york,4.0
+2022,Aug,2022-08-01,new york,3.9
+2022,Sep,2022-09-01,new york,4.0
+2022,Oct,2022-10-01,new york,4.1
+2022,Nov,2022-11-01,new york,4.2
+2022,Dec,2022-12-01,new york,4.2
+2023,Jan,2023-01-01,new york,4.1
+2023,Feb,2023-02-01,new york,4.0
+2023,Mar,2023-03-01,new york,4.0
+2023,Apr,2023-04-01,new york,3.9
+2023,May,2023-05-01,new york,3.9
+2023,Jun,2023-06-01,new york,4.0
+2023,Jul,2023-07-01,new york,4.1
+2023,Aug,2023-08-01,new york,4.3
+2023,Sep,2023-09-01,new york,4.4
+2023,Oct,2023-10-01,new york,4.6
+2023,Nov,2023-11-01,new york,4.6
+2023,Dec,2023-12-01,new york,4.6
+2024,Jan,2024-01-01,new york,4.5
+2024,Feb,2024-02-01,new york,4.4
+2024,Mar,2024-03-01,new york,4.3
+2024,Apr,2024-04-01,new york,4.2
+2024,May,2024-05-01,new york,4.2
+2024,Jun,2024-06-01,new york,4.2
+2015,Jan,2015-01-01,north carolina,5.7
+2015,Feb,2015-02-01,north carolina,5.7
+2015,Mar,2015-03-01,north carolina,5.8
+2015,Apr,2015-04-01,north carolina,5.8
+2015,May,2015-05-01,north carolina,5.8
+2015,Jun,2015-06-01,north carolina,5.8
+2015,Jul,2015-07-01,north carolina,5.7
+2015,Aug,2015-08-01,north carolina,5.7
+2015,Sep,2015-09-01,north carolina,5.6
+2015,Oct,2015-10-01,north carolina,5.5
+2015,Nov,2015-11-01,north carolina,5.4
+2015,Dec,2015-12-01,north carolina,5.4
+2016,Jan,2016-01-01,north carolina,5.3
+2016,Feb,2016-02-01,north carolina,5.2
+2016,Mar,2016-03-01,north carolina,5.2
+2016,Apr,2016-04-01,north carolina,5.1
+2016,May,2016-05-01,north carolina,5.1
+2016,Jun,2016-06-01,north carolina,5.0
+2016,Jul,2016-07-01,north carolina,5.0
+2016,Aug,2016-08-01,north carolina,5.1
+2016,Sep,2016-09-01,north carolina,5.1
+2016,Oct,2016-10-01,north carolina,5.1
+2016,Nov,2016-11-01,north carolina,5.0
+2016,Dec,2016-12-01,north carolina,5.0
+2017,Jan,2017-01-01,north carolina,4.9
+2017,Feb,2017-02-01,north carolina,4.7
+2017,Mar,2017-03-01,north carolina,4.6
+2017,Apr,2017-04-01,north carolina,4.5
+2017,May,2017-05-01,north carolina,4.5
+2017,Jun,2017-06-01,north carolina,4.5
+2017,Jul,2017-07-01,north carolina,4.5
+2017,Aug,2017-08-01,north carolina,4.5
+2017,Sep,2017-09-01,north carolina,4.5
+2017,Oct,2017-10-01,north carolina,4.4
+2017,Nov,2017-11-01,north carolina,4.4
+2017,Dec,2017-12-01,north carolina,4.3
+2018,Jan,2018-01-01,north carolina,4.2
+2018,Feb,2018-02-01,north carolina,4.1
+2018,Mar,2018-03-01,north carolina,4.0
+2018,Apr,2018-04-01,north carolina,4.0
+2018,May,2018-05-01,north carolina,3.9
+2018,Jun,2018-06-01,north carolina,3.9
+2018,Jul,2018-07-01,north carolina,3.9
+2018,Aug,2018-08-01,north carolina,3.9
+2018,Sep,2018-09-01,north carolina,4.0
+2018,Oct,2018-10-01,north carolina,4.0
+2018,Nov,2018-11-01,north carolina,4.0
+2018,Dec,2018-12-01,north carolina,4.0
+2019,Jan,2019-01-01,north carolina,4.0
+2019,Feb,2019-02-01,north carolina,4.0
+2019,Mar,2019-03-01,north carolina,3.9
+2019,Apr,2019-04-01,north carolina,3.9
+2019,May,2019-05-01,north carolina,3.8
+2019,Jun,2019-06-01,north carolina,3.9
+2019,Jul,2019-07-01,north carolina,3.9
+2019,Aug,2019-08-01,north carolina,3.9
+2019,Sep,2019-09-01,north carolina,3.9
+2019,Oct,2019-10-01,north carolina,3.8
+2019,Nov,2019-11-01,north carolina,3.8
+2019,Dec,2019-12-01,north carolina,3.8
+2020,Jan,2020-01-01,north carolina,3.8
+2020,Feb,2020-02-01,north carolina,3.8
+2020,Mar,2020-03-01,north carolina,4.0
+2020,Apr,2020-04-01,north carolina,14.2
+2020,May,2020-05-01,north carolina,11.6
+2020,Jun,2020-06-01,north carolina,9.7
+2020,Jul,2020-07-01,north carolina,8.7
+2020,Aug,2020-08-01,north carolina,7.3
+2020,Sep,2020-09-01,north carolina,6.7
+2020,Oct,2020-10-01,north carolina,6.0
+2020,Nov,2020-11-01,north carolina,5.8
+2020,Dec,2020-12-01,north carolina,5.8
+2021,Jan,2021-01-01,north carolina,5.6
+2021,Feb,2021-02-01,north carolina,5.5
+2021,Mar,2021-03-01,north carolina,5.4
+2021,Apr,2021-04-01,north carolina,5.3
+2021,May,2021-05-01,north carolina,5.2
+2021,Jun,2021-06-01,north carolina,5.1
+2021,Jul,2021-07-01,north carolina,4.9
+2021,Aug,2021-08-01,north carolina,4.8
+2021,Sep,2021-09-01,north carolina,4.5
+2021,Oct,2021-10-01,north carolina,4.3
+2021,Nov,2021-11-01,north carolina,4.1
+2021,Dec,2021-12-01,north carolina,3.9
+2022,Jan,2022-01-01,north carolina,3.7
+2022,Feb,2022-02-01,north carolina,3.6
+2022,Mar,2022-03-01,north carolina,3.5
+2022,Apr,2022-04-01,north carolina,3.5
+2022,May,2022-05-01,north carolina,3.6
+2022,Jun,2022-06-01,north carolina,3.6
+2022,Jul,2022-07-01,north carolina,3.7
+2022,Aug,2022-08-01,north carolina,3.8
+2022,Sep,2022-09-01,north carolina,3.9
+2022,Oct,2022-10-01,north carolina,3.8
+2022,Nov,2022-11-01,north carolina,3.8
+2022,Dec,2022-12-01,north carolina,3.7
+2023,Jan,2023-01-01,north carolina,3.5
+2023,Feb,2023-02-01,north carolina,3.4
+2023,Mar,2023-03-01,north carolina,3.3
+2023,Apr,2023-04-01,north carolina,3.3
+2023,May,2023-05-01,north carolina,3.3
+2023,Jun,2023-06-01,north carolina,3.4
+2023,Jul,2023-07-01,north carolina,3.4
+2023,Aug,2023-08-01,north carolina,3.5
+2023,Sep,2023-09-01,north carolina,3.6
+2023,Oct,2023-10-01,north carolina,3.6
+2023,Nov,2023-11-01,north carolina,3.6
+2023,Dec,2023-12-01,north carolina,3.6
+2024,Jan,2024-01-01,north carolina,3.5
+2024,Feb,2024-02-01,north carolina,3.5
+2024,Mar,2024-03-01,north carolina,3.5
+2024,Apr,2024-04-01,north carolina,3.5
+2024,May,2024-05-01,north carolina,3.6
+2024,Jun,2024-06-01,north carolina,3.6
+2015,Jan,2015-01-01,north dakota,2.6
+2015,Feb,2015-02-01,north dakota,2.6
+2015,Mar,2015-03-01,north dakota,2.7
+2015,Apr,2015-04-01,north dakota,2.8
+2015,May,2015-05-01,north dakota,2.8
+2015,Jun,2015-06-01,north dakota,2.8
+2015,Jul,2015-07-01,north dakota,2.8
+2015,Aug,2015-08-01,north dakota,2.8
+2015,Sep,2015-09-01,north dakota,2.8
+2015,Oct,2015-10-01,north dakota,2.8
+2015,Nov,2015-11-01,north dakota,2.9
+2015,Dec,2015-12-01,north dakota,3.0
+2016,Jan,2016-01-01,north dakota,3.1
+2016,Feb,2016-02-01,north dakota,3.2
+2016,Mar,2016-03-01,north dakota,3.2
+2016,Apr,2016-04-01,north dakota,3.2
+2016,May,2016-05-01,north dakota,3.2
+2016,Jun,2016-06-01,north dakota,3.2
+2016,Jul,2016-07-01,north dakota,3.1
+2016,Aug,2016-08-01,north dakota,3.1
+2016,Sep,2016-09-01,north dakota,3.0
+2016,Oct,2016-10-01,north dakota,3.0
+2016,Nov,2016-11-01,north dakota,3.0
+2016,Dec,2016-12-01,north dakota,2.9
+2017,Jan,2017-01-01,north dakota,2.9
+2017,Feb,2017-02-01,north dakota,2.8
+2017,Mar,2017-03-01,north dakota,2.7
+2017,Apr,2017-04-01,north dakota,2.6
+2017,May,2017-05-01,north dakota,2.5
+2017,Jun,2017-06-01,north dakota,2.5
+2017,Jul,2017-07-01,north dakota,2.5
+2017,Aug,2017-08-01,north dakota,2.5
+2017,Sep,2017-09-01,north dakota,2.5
+2017,Oct,2017-10-01,north dakota,2.6
+2017,Nov,2017-11-01,north dakota,2.6
+2017,Dec,2017-12-01,north dakota,2.6
+2018,Jan,2018-01-01,north dakota,2.6
+2018,Feb,2018-02-01,north dakota,2.6
+2018,Mar,2018-03-01,north dakota,2.6
+2018,Apr,2018-04-01,north dakota,2.5
+2018,May,2018-05-01,north dakota,2.4
+2018,Jun,2018-06-01,north dakota,2.3
+2018,Jul,2018-07-01,north dakota,2.3
+2018,Aug,2018-08-01,north dakota,2.3
+2018,Sep,2018-09-01,north dakota,2.3
+2018,Oct,2018-10-01,north dakota,2.3
+2018,Nov,2018-11-01,north dakota,2.3
+2018,Dec,2018-12-01,north dakota,2.4
+2019,Jan,2019-01-01,north dakota,2.3
+2019,Feb,2019-02-01,north dakota,2.3
+2019,Mar,2019-03-01,north dakota,2.3
+2019,Apr,2019-04-01,north dakota,2.2
+2019,May,2019-05-01,north dakota,2.1
+2019,Jun,2019-06-01,north dakota,2.1
+2019,Jul,2019-07-01,north dakota,2.1
+2019,Aug,2019-08-01,north dakota,2.1
+2019,Sep,2019-09-01,north dakota,2.1
+2019,Oct,2019-10-01,north dakota,2.1
+2019,Nov,2019-11-01,north dakota,2.0
+2019,Dec,2019-12-01,north dakota,2.0
+2020,Jan,2020-01-01,north dakota,2.0
+2020,Feb,2020-02-01,north dakota,2.2
+2020,Mar,2020-03-01,north dakota,2.4
+2020,Apr,2020-04-01,north dakota,8.7
+2020,May,2020-05-01,north dakota,7.3
+2020,Jun,2020-06-01,north dakota,6.4
+2020,Jul,2020-07-01,north dakota,6.1
+2020,Aug,2020-08-01,north dakota,5.5
+2020,Sep,2020-09-01,north dakota,5.2
+2020,Oct,2020-10-01,north dakota,4.8
+2020,Nov,2020-11-01,north dakota,4.5
+2020,Dec,2020-12-01,north dakota,4.3
+2021,Jan,2021-01-01,north dakota,4.0
+2021,Feb,2021-02-01,north dakota,3.8
+2021,Mar,2021-03-01,north dakota,3.6
+2021,Apr,2021-04-01,north dakota,3.4
+2021,May,2021-05-01,north dakota,3.2
+2021,Jun,2021-06-01,north dakota,3.0
+2021,Jul,2021-07-01,north dakota,2.8
+2021,Aug,2021-08-01,north dakota,2.7
+2021,Sep,2021-09-01,north dakota,2.5
+2021,Oct,2021-10-01,north dakota,2.4
+2021,Nov,2021-11-01,north dakota,2.3
+2021,Dec,2021-12-01,north dakota,2.3
+2022,Jan,2022-01-01,north dakota,2.2
+2022,Feb,2022-02-01,north dakota,2.1
+2022,Mar,2022-03-01,north dakota,2.0
+2022,Apr,2022-04-01,north dakota,2.0
+2022,May,2022-05-01,north dakota,1.9
+2022,Jun,2022-06-01,north dakota,1.9
+2022,Jul,2022-07-01,north dakota,1.9
+2022,Aug,2022-08-01,north dakota,2.0
+2022,Sep,2022-09-01,north dakota,2.0
+2022,Oct,2022-10-01,north dakota,2.0
+2022,Nov,2022-11-01,north dakota,2.0
+2022,Dec,2022-12-01,north dakota,2.0
+2023,Jan,2023-01-01,north dakota,2.0
+2023,Feb,2023-02-01,north dakota,2.0
+2023,Mar,2023-03-01,north dakota,1.9
+2023,Apr,2023-04-01,north dakota,1.9
+2023,May,2023-05-01,north dakota,1.8
+2023,Jun,2023-06-01,north dakota,1.8
+2023,Jul,2023-07-01,north dakota,1.8
+2023,Aug,2023-08-01,north dakota,1.8
+2023,Sep,2023-09-01,north dakota,1.9
+2023,Oct,2023-10-01,north dakota,1.9
+2023,Nov,2023-11-01,north dakota,1.9
+2023,Dec,2023-12-01,north dakota,1.9
+2024,Jan,2024-01-01,north dakota,1.9
+2024,Feb,2024-02-01,north dakota,2.0
+2024,Mar,2024-03-01,north dakota,2.0
+2024,Apr,2024-04-01,north dakota,2.0
+2024,May,2024-05-01,north dakota,2.0
+2024,Jun,2024-06-01,north dakota,2.1
+2015,Jan,2015-01-01,ohio,5.2
+2015,Feb,2015-02-01,ohio,5.2
+2015,Mar,2015-03-01,ohio,5.2
+2015,Apr,2015-04-01,ohio,5.1
+2015,May,2015-05-01,ohio,5.0
+2015,Jun,2015-06-01,ohio,4.9
+2015,Jul,2015-07-01,ohio,4.8
+2015,Aug,2015-08-01,ohio,4.8
+2015,Sep,2015-09-01,ohio,4.7
+2015,Oct,2015-10-01,ohio,4.8
+2015,Nov,2015-11-01,ohio,4.8
+2015,Dec,2015-12-01,ohio,4.9
+2016,Jan,2016-01-01,ohio,5.0
+2016,Feb,2016-02-01,ohio,5.0
+2016,Mar,2016-03-01,ohio,5.0
+2016,Apr,2016-04-01,ohio,5.0
+2016,May,2016-05-01,ohio,5.0
+2016,Jun,2016-06-01,ohio,5.0
+2016,Jul,2016-07-01,ohio,5.0
+2016,Aug,2016-08-01,ohio,5.0
+2016,Sep,2016-09-01,ohio,5.1
+2016,Oct,2016-10-01,ohio,5.2
+2016,Nov,2016-11-01,ohio,5.3
+2016,Dec,2016-12-01,ohio,5.3
+2017,Jan,2017-01-01,ohio,5.3
+2017,Feb,2017-02-01,ohio,5.2
+2017,Mar,2017-03-01,ohio,5.1
+2017,Apr,2017-04-01,ohio,5.1
+2017,May,2017-05-01,ohio,5.0
+2017,Jun,2017-06-01,ohio,5.0
+2017,Jul,2017-07-01,ohio,5.0
+2017,Aug,2017-08-01,ohio,4.9
+2017,Sep,2017-09-01,ohio,4.9
+2017,Oct,2017-10-01,ohio,4.8
+2017,Nov,2017-11-01,ohio,4.7
+2017,Dec,2017-12-01,ohio,4.6
+2018,Jan,2018-01-01,ohio,4.6
+2018,Feb,2018-02-01,ohio,4.6
+2018,Mar,2018-03-01,ohio,4.6
+2018,Apr,2018-04-01,ohio,4.5
+2018,May,2018-05-01,ohio,4.5
+2018,Jun,2018-06-01,ohio,4.5
+2018,Jul,2018-07-01,ohio,4.4
+2018,Aug,2018-08-01,ohio,4.4
+2018,Sep,2018-09-01,ohio,4.4
+2018,Oct,2018-10-01,ohio,4.5
+2018,Nov,2018-11-01,ohio,4.5
+2018,Dec,2018-12-01,ohio,4.5
+2019,Jan,2019-01-01,ohio,4.4
+2019,Feb,2019-02-01,ohio,4.2
+2019,Mar,2019-03-01,ohio,4.1
+2019,Apr,2019-04-01,ohio,4.0
+2019,May,2019-05-01,ohio,4.0
+2019,Jun,2019-06-01,ohio,4.0
+2019,Jul,2019-07-01,ohio,4.1
+2019,Aug,2019-08-01,ohio,4.2
+2019,Sep,2019-09-01,ohio,4.2
+2019,Oct,2019-10-01,ohio,4.3
+2019,Nov,2019-11-01,ohio,4.3
+2019,Dec,2019-12-01,ohio,4.3
+2020,Jan,2020-01-01,ohio,4.4
+2020,Feb,2020-02-01,ohio,4.6
+2020,Mar,2020-03-01,ohio,4.8
+2020,Apr,2020-04-01,ohio,16.5
+2020,May,2020-05-01,ohio,12.8
+2020,Jun,2020-06-01,ohio,10.9
+2020,Jul,2020-07-01,ohio,9.8
+2020,Aug,2020-08-01,ohio,8.3
+2020,Sep,2020-09-01,ohio,7.6
+2020,Oct,2020-10-01,ohio,6.8
+2020,Nov,2020-11-01,ohio,6.4
+2020,Dec,2020-12-01,ohio,6.3
+2021,Jan,2021-01-01,ohio,6.0
+2021,Feb,2021-02-01,ohio,5.9
+2021,Mar,2021-03-01,ohio,5.8
+2021,Apr,2021-04-01,ohio,5.7
+2021,May,2021-05-01,ohio,5.5
+2021,Jun,2021-06-01,ohio,5.3
+2021,Jul,2021-07-01,ohio,5.1
+2021,Aug,2021-08-01,ohio,4.9
+2021,Sep,2021-09-01,ohio,4.7
+2021,Oct,2021-10-01,ohio,4.5
+2021,Nov,2021-11-01,ohio,4.3
+2021,Dec,2021-12-01,ohio,4.2
+2022,Jan,2022-01-01,ohio,4.1
+2022,Feb,2022-02-01,ohio,4.0
+2022,Mar,2022-03-01,ohio,3.9
+2022,Apr,2022-04-01,ohio,3.9
+2022,May,2022-05-01,ohio,3.9
+2022,Jun,2022-06-01,ohio,3.9
+2022,Jul,2022-07-01,ohio,4.0
+2022,Aug,2022-08-01,ohio,4.1
+2022,Sep,2022-09-01,ohio,4.1
+2022,Oct,2022-10-01,ohio,4.1
+2022,Nov,2022-11-01,ohio,4.0
+2022,Dec,2022-12-01,ohio,3.9
+2023,Jan,2023-01-01,ohio,3.8
+2023,Feb,2023-02-01,ohio,3.7
+2023,Mar,2023-03-01,ohio,3.5
+2023,Apr,2023-04-01,ohio,3.4
+2023,May,2023-05-01,ohio,3.3
+2023,Jun,2023-06-01,ohio,3.3
+2023,Jul,2023-07-01,ohio,3.4
+2023,Aug,2023-08-01,ohio,3.5
+2023,Sep,2023-09-01,ohio,3.6
+2023,Oct,2023-10-01,ohio,3.6
+2023,Nov,2023-11-01,ohio,3.6
+2023,Dec,2023-12-01,ohio,3.6
+2024,Jan,2024-01-01,ohio,3.7
+2024,Feb,2024-02-01,ohio,3.7
+2024,Mar,2024-03-01,ohio,3.8
+2024,Apr,2024-04-01,ohio,4.0
+2024,May,2024-05-01,ohio,4.2
+2024,Jun,2024-06-01,ohio,4.4
+2015,Jan,2015-01-01,oklahoma,4.0
+2015,Feb,2015-02-01,oklahoma,4.1
+2015,Mar,2015-03-01,oklahoma,4.2
+2015,Apr,2015-04-01,oklahoma,4.3
+2015,May,2015-05-01,oklahoma,4.4
+2015,Jun,2015-06-01,oklahoma,4.4
+2015,Jul,2015-07-01,oklahoma,4.4
+2015,Aug,2015-08-01,oklahoma,4.3
+2015,Sep,2015-09-01,oklahoma,4.3
+2015,Oct,2015-10-01,oklahoma,4.3
+2015,Nov,2015-11-01,oklahoma,4.4
+2015,Dec,2015-12-01,oklahoma,4.4
+2016,Jan,2016-01-01,oklahoma,4.5
+2016,Feb,2016-02-01,oklahoma,4.5
+2016,Mar,2016-03-01,oklahoma,4.6
+2016,Apr,2016-04-01,oklahoma,4.7
+2016,May,2016-05-01,oklahoma,4.7
+2016,Jun,2016-06-01,oklahoma,4.8
+2016,Jul,2016-07-01,oklahoma,4.8
+2016,Aug,2016-08-01,oklahoma,4.8
+2016,Sep,2016-09-01,oklahoma,4.7
+2016,Oct,2016-10-01,oklahoma,4.7
+2016,Nov,2016-11-01,oklahoma,4.6
+2016,Dec,2016-12-01,oklahoma,4.5
+2017,Jan,2017-01-01,oklahoma,4.4
+2017,Feb,2017-02-01,oklahoma,4.3
+2017,Mar,2017-03-01,oklahoma,4.2
+2017,Apr,2017-04-01,oklahoma,4.1
+2017,May,2017-05-01,oklahoma,4.0
+2017,Jun,2017-06-01,oklahoma,4.0
+2017,Jul,2017-07-01,oklahoma,4.0
+2017,Aug,2017-08-01,oklahoma,4.0
+2017,Sep,2017-09-01,oklahoma,3.9
+2017,Oct,2017-10-01,oklahoma,3.9
+2017,Nov,2017-11-01,oklahoma,3.8
+2017,Dec,2017-12-01,oklahoma,3.8
+2018,Jan,2018-01-01,oklahoma,3.7
+2018,Feb,2018-02-01,oklahoma,3.6
+2018,Mar,2018-03-01,oklahoma,3.5
+2018,Apr,2018-04-01,oklahoma,3.4
+2018,May,2018-05-01,oklahoma,3.3
+2018,Jun,2018-06-01,oklahoma,3.2
+2018,Jul,2018-07-01,oklahoma,3.1
+2018,Aug,2018-08-01,oklahoma,3.1
+2018,Sep,2018-09-01,oklahoma,3.1
+2018,Oct,2018-10-01,oklahoma,3.1
+2018,Nov,2018-11-01,oklahoma,3.2
+2018,Dec,2018-12-01,oklahoma,3.2
+2019,Jan,2019-01-01,oklahoma,3.2
+2019,Feb,2019-02-01,oklahoma,3.2
+2019,Mar,2019-03-01,oklahoma,3.1
+2019,Apr,2019-04-01,oklahoma,3.1
+2019,May,2019-05-01,oklahoma,3.0
+2019,Jun,2019-06-01,oklahoma,3.0
+2019,Jul,2019-07-01,oklahoma,3.1
+2019,Aug,2019-08-01,oklahoma,3.2
+2019,Sep,2019-09-01,oklahoma,3.2
+2019,Oct,2019-10-01,oklahoma,3.2
+2019,Nov,2019-11-01,oklahoma,3.1
+2019,Dec,2019-12-01,oklahoma,3.1
+2020,Jan,2020-01-01,oklahoma,3.1
+2020,Feb,2020-02-01,oklahoma,3.2
+2020,Mar,2020-03-01,oklahoma,3.2
+2020,Apr,2020-04-01,oklahoma,12.5
+2020,May,2020-05-01,oklahoma,9.8
+2020,Jun,2020-06-01,oklahoma,8.2
+2020,Jul,2020-07-01,oklahoma,7.4
+2020,Aug,2020-08-01,oklahoma,6.3
+2020,Sep,2020-09-01,oklahoma,6.0
+2020,Oct,2020-10-01,oklahoma,5.5
+2020,Nov,2020-11-01,oklahoma,5.3
+2020,Dec,2020-12-01,oklahoma,5.2
+2021,Jan,2021-01-01,oklahoma,5.0
+2021,Feb,2021-02-01,oklahoma,4.9
+2021,Mar,2021-03-01,oklahoma,4.8
+2021,Apr,2021-04-01,oklahoma,4.7
+2021,May,2021-05-01,oklahoma,4.5
+2021,Jun,2021-06-01,oklahoma,4.3
+2021,Jul,2021-07-01,oklahoma,4.0
+2021,Aug,2021-08-01,oklahoma,3.7
+2021,Sep,2021-09-01,oklahoma,3.4
+2021,Oct,2021-10-01,oklahoma,3.2
+2021,Nov,2021-11-01,oklahoma,3.0
+2021,Dec,2021-12-01,oklahoma,2.9
+2022,Jan,2022-01-01,oklahoma,2.9
+2022,Feb,2022-02-01,oklahoma,2.9
+2022,Mar,2022-03-01,oklahoma,2.9
+2022,Apr,2022-04-01,oklahoma,2.9
+2022,May,2022-05-01,oklahoma,2.9
+2022,Jun,2022-06-01,oklahoma,3.0
+2022,Jul,2022-07-01,oklahoma,3.1
+2022,Aug,2022-08-01,oklahoma,3.2
+2022,Sep,2022-09-01,oklahoma,3.2
+2022,Oct,2022-10-01,oklahoma,3.2
+2022,Nov,2022-11-01,oklahoma,3.2
+2022,Dec,2022-12-01,oklahoma,3.1
+2023,Jan,2023-01-01,oklahoma,3.1
+2023,Feb,2023-02-01,oklahoma,3.0
+2023,Mar,2023-03-01,oklahoma,3.0
+2023,Apr,2023-04-01,oklahoma,2.9
+2023,May,2023-05-01,oklahoma,3.0
+2023,Jun,2023-06-01,oklahoma,3.1
+2023,Jul,2023-07-01,oklahoma,3.2
+2023,Aug,2023-08-01,oklahoma,3.3
+2023,Sep,2023-09-01,oklahoma,3.5
+2023,Oct,2023-10-01,oklahoma,3.5
+2023,Nov,2023-11-01,oklahoma,3.5
+2023,Dec,2023-12-01,oklahoma,3.5
+2024,Jan,2024-01-01,oklahoma,3.5
+2024,Feb,2024-02-01,oklahoma,3.6
+2024,Mar,2024-03-01,oklahoma,3.5
+2024,Apr,2024-04-01,oklahoma,3.5
+2024,May,2024-05-01,oklahoma,3.5
+2024,Jun,2024-06-01,oklahoma,3.4
+2015,Jan,2015-01-01,oregon,5.8
+2015,Feb,2015-02-01,oregon,5.8
+2015,Mar,2015-03-01,oregon,5.7
+2015,Apr,2015-04-01,oregon,5.7
+2015,May,2015-05-01,oregon,5.6
+2015,Jun,2015-06-01,oregon,5.5
+2015,Jul,2015-07-01,oregon,5.5
+2015,Aug,2015-08-01,oregon,5.4
+2015,Sep,2015-09-01,oregon,5.3
+2015,Oct,2015-10-01,oregon,5.2
+2015,Nov,2015-11-01,oregon,5.1
+2015,Dec,2015-12-01,oregon,5.0
+2016,Jan,2016-01-01,oregon,4.9
+2016,Feb,2016-02-01,oregon,4.9
+2016,Mar,2016-03-01,oregon,4.9
+2016,Apr,2016-04-01,oregon,4.9
+2016,May,2016-05-01,oregon,4.9
+2016,Jun,2016-06-01,oregon,4.9
+2016,Jul,2016-07-01,oregon,4.9
+2016,Aug,2016-08-01,oregon,4.8
+2016,Sep,2016-09-01,oregon,4.7
+2016,Oct,2016-10-01,oregon,4.5
+2016,Nov,2016-11-01,oregon,4.4
+2016,Dec,2016-12-01,oregon,4.3
+2017,Jan,2017-01-01,oregon,4.1
+2017,Feb,2017-02-01,oregon,4.0
+2017,Mar,2017-03-01,oregon,3.9
+2017,Apr,2017-04-01,oregon,3.9
+2017,May,2017-05-01,oregon,4.0
+2017,Jun,2017-06-01,oregon,4.0
+2017,Jul,2017-07-01,oregon,4.1
+2017,Aug,2017-08-01,oregon,4.1
+2017,Sep,2017-09-01,oregon,4.2
+2017,Oct,2017-10-01,oregon,4.2
+2017,Nov,2017-11-01,oregon,4.1
+2017,Dec,2017-12-01,oregon,4.1
+2018,Jan,2018-01-01,oregon,4.1
+2018,Feb,2018-02-01,oregon,4.0
+2018,Mar,2018-03-01,oregon,4.0
+2018,Apr,2018-04-01,oregon,3.9
+2018,May,2018-05-01,oregon,3.9
+2018,Jun,2018-06-01,oregon,3.8
+2018,Jul,2018-07-01,oregon,3.9
+2018,Aug,2018-08-01,oregon,4.0
+2018,Sep,2018-09-01,oregon,4.1
+2018,Oct,2018-10-01,oregon,4.2
+2018,Nov,2018-11-01,oregon,4.3
+2018,Dec,2018-12-01,oregon,4.3
+2019,Jan,2019-01-01,oregon,4.2
+2019,Feb,2019-02-01,oregon,4.1
+2019,Mar,2019-03-01,oregon,4.0
+2019,Apr,2019-04-01,oregon,3.9
+2019,May,2019-05-01,oregon,3.8
+2019,Jun,2019-06-01,oregon,3.7
+2019,Jul,2019-07-01,oregon,3.7
+2019,Aug,2019-08-01,oregon,3.6
+2019,Sep,2019-09-01,oregon,3.5
+2019,Oct,2019-10-01,oregon,3.4
+2019,Nov,2019-11-01,oregon,3.4
+2019,Dec,2019-12-01,oregon,3.4
+2020,Jan,2020-01-01,oregon,3.5
+2020,Feb,2020-02-01,oregon,3.6
+2020,Mar,2020-03-01,oregon,3.7
+2020,Apr,2020-04-01,oregon,13.7
+2020,May,2020-05-01,oregon,11.8
+2020,Jun,2020-06-01,oregon,10.2
+2020,Jul,2020-07-01,oregon,9.2
+2020,Aug,2020-08-01,oregon,8.0
+2020,Sep,2020-09-01,oregon,7.5
+2020,Oct,2020-10-01,oregon,6.8
+2020,Nov,2020-11-01,oregon,6.6
+2020,Dec,2020-12-01,oregon,6.6
+2021,Jan,2021-01-01,oregon,6.4
+2021,Feb,2021-02-01,oregon,6.2
+2021,Mar,2021-03-01,oregon,6.1
+2021,Apr,2021-04-01,oregon,5.9
+2021,May,2021-05-01,oregon,5.6
+2021,Jun,2021-06-01,oregon,5.4
+2021,Jul,2021-07-01,oregon,5.0
+2021,Aug,2021-08-01,oregon,4.7
+2021,Sep,2021-09-01,oregon,4.4
+2021,Oct,2021-10-01,oregon,4.2
+2021,Nov,2021-11-01,oregon,4.0
+2021,Dec,2021-12-01,oregon,3.9
+2022,Jan,2022-01-01,oregon,3.9
+2022,Feb,2022-02-01,oregon,3.7
+2022,Mar,2022-03-01,oregon,3.7
+2022,Apr,2022-04-01,oregon,3.7
+2022,May,2022-05-01,oregon,3.7
+2022,Jun,2022-06-01,oregon,3.8
+2022,Jul,2022-07-01,oregon,3.9
+2022,Aug,2022-08-01,oregon,4.0
+2022,Sep,2022-09-01,oregon,4.2
+2022,Oct,2022-10-01,oregon,4.2
+2022,Nov,2022-11-01,oregon,4.2
+2022,Dec,2022-12-01,oregon,4.0
+2023,Jan,2023-01-01,oregon,3.8
+2023,Feb,2023-02-01,oregon,3.6
+2023,Mar,2023-03-01,oregon,3.5
+2023,Apr,2023-04-01,oregon,3.4
+2023,May,2023-05-01,oregon,3.4
+2023,Jun,2023-06-01,oregon,3.5
+2023,Jul,2023-07-01,oregon,3.6
+2023,Aug,2023-08-01,oregon,3.8
+2023,Sep,2023-09-01,oregon,3.9
+2023,Oct,2023-10-01,oregon,4.0
+2023,Nov,2023-11-01,oregon,4.0
+2023,Dec,2023-12-01,oregon,4.0
+2024,Jan,2024-01-01,oregon,4.1
+2024,Feb,2024-02-01,oregon,4.2
+2024,Mar,2024-03-01,oregon,4.2
+2024,Apr,2024-04-01,oregon,4.2
+2024,May,2024-05-01,oregon,4.2
+2024,Jun,2024-06-01,oregon,4.1
+2015,Jan,2015-01-01,pennsylvania,5.5
+2015,Feb,2015-02-01,pennsylvania,5.5
+2015,Mar,2015-03-01,pennsylvania,5.5
+2015,Apr,2015-04-01,pennsylvania,5.5
+2015,May,2015-05-01,pennsylvania,5.5
+2015,Jun,2015-06-01,pennsylvania,5.4
+2015,Jul,2015-07-01,pennsylvania,5.4
+2015,Aug,2015-08-01,pennsylvania,5.3
+2015,Sep,2015-09-01,pennsylvania,5.3
+2015,Oct,2015-10-01,pennsylvania,5.3
+2015,Nov,2015-11-01,pennsylvania,5.2
+2015,Dec,2015-12-01,pennsylvania,5.3
+2016,Jan,2016-01-01,pennsylvania,5.3
+2016,Feb,2016-02-01,pennsylvania,5.3
+2016,Mar,2016-03-01,pennsylvania,5.3
+2016,Apr,2016-04-01,pennsylvania,5.4
+2016,May,2016-05-01,pennsylvania,5.4
+2016,Jun,2016-06-01,pennsylvania,5.4
+2016,Jul,2016-07-01,pennsylvania,5.4
+2016,Aug,2016-08-01,pennsylvania,5.4
+2016,Sep,2016-09-01,pennsylvania,5.4
+2016,Oct,2016-10-01,pennsylvania,5.3
+2016,Nov,2016-11-01,pennsylvania,5.3
+2016,Dec,2016-12-01,pennsylvania,5.2
+2017,Jan,2017-01-01,pennsylvania,5.2
+2017,Feb,2017-02-01,pennsylvania,5.1
+2017,Mar,2017-03-01,pennsylvania,5.1
+2017,Apr,2017-04-01,pennsylvania,5.0
+2017,May,2017-05-01,pennsylvania,5.0
+2017,Jun,2017-06-01,pennsylvania,4.9
+2017,Jul,2017-07-01,pennsylvania,4.9
+2017,Aug,2017-08-01,pennsylvania,4.9
+2017,Sep,2017-09-01,pennsylvania,4.9
+2017,Oct,2017-10-01,pennsylvania,4.9
+2017,Nov,2017-11-01,pennsylvania,4.9
+2017,Dec,2017-12-01,pennsylvania,4.9
+2018,Jan,2018-01-01,pennsylvania,4.8
+2018,Feb,2018-02-01,pennsylvania,4.7
+2018,Mar,2018-03-01,pennsylvania,4.6
+2018,Apr,2018-04-01,pennsylvania,4.5
+2018,May,2018-05-01,pennsylvania,4.4
+2018,Jun,2018-06-01,pennsylvania,4.3
+2018,Jul,2018-07-01,pennsylvania,4.3
+2018,Aug,2018-08-01,pennsylvania,4.3
+2018,Sep,2018-09-01,pennsylvania,4.2
+2018,Oct,2018-10-01,pennsylvania,4.3
+2018,Nov,2018-11-01,pennsylvania,4.3
+2018,Dec,2018-12-01,pennsylvania,4.3
+2019,Jan,2019-01-01,pennsylvania,4.3
+2019,Feb,2019-02-01,pennsylvania,4.3
+2019,Mar,2019-03-01,pennsylvania,4.3
+2019,Apr,2019-04-01,pennsylvania,4.3
+2019,May,2019-05-01,pennsylvania,4.2
+2019,Jun,2019-06-01,pennsylvania,4.2
+2019,Jul,2019-07-01,pennsylvania,4.2
+2019,Aug,2019-08-01,pennsylvania,4.3
+2019,Sep,2019-09-01,pennsylvania,4.3
+2019,Oct,2019-10-01,pennsylvania,4.4
+2019,Nov,2019-11-01,pennsylvania,4.4
+2019,Dec,2019-12-01,pennsylvania,4.4
+2020,Jan,2020-01-01,pennsylvania,4.5
+2020,Feb,2020-02-01,pennsylvania,4.7
+2020,Mar,2020-03-01,pennsylvania,4.9
+2020,Apr,2020-04-01,pennsylvania,16.1
+2020,May,2020-05-01,pennsylvania,12.9
+2020,Jun,2020-06-01,pennsylvania,11.3
+2020,Jul,2020-07-01,pennsylvania,10.4
+2020,Aug,2020-08-01,pennsylvania,9.3
+2020,Sep,2020-09-01,pennsylvania,8.8
+2020,Oct,2020-10-01,pennsylvania,8.1
+2020,Nov,2020-11-01,pennsylvania,7.9
+2020,Dec,2020-12-01,pennsylvania,7.6
+2021,Jan,2021-01-01,pennsylvania,7.4
+2021,Feb,2021-02-01,pennsylvania,7.1
+2021,Mar,2021-03-01,pennsylvania,6.8
+2021,Apr,2021-04-01,pennsylvania,6.6
+2021,May,2021-05-01,pennsylvania,6.3
+2021,Jun,2021-06-01,pennsylvania,6.1
+2021,Jul,2021-07-01,pennsylvania,5.9
+2021,Aug,2021-08-01,pennsylvania,5.6
+2021,Sep,2021-09-01,pennsylvania,5.2
+2021,Oct,2021-10-01,pennsylvania,4.9
+2021,Nov,2021-11-01,pennsylvania,4.7
+2021,Dec,2021-12-01,pennsylvania,4.5
+2022,Jan,2022-01-01,pennsylvania,4.3
+2022,Feb,2022-02-01,pennsylvania,4.2
+2022,Mar,2022-03-01,pennsylvania,4.2
+2022,Apr,2022-04-01,pennsylvania,4.1
+2022,May,2022-05-01,pennsylvania,4.1
+2022,Jun,2022-06-01,pennsylvania,4.1
+2022,Jul,2022-07-01,pennsylvania,4.0
+2022,Aug,2022-08-01,pennsylvania,4.0
+2022,Sep,2022-09-01,pennsylvania,4.0
+2022,Oct,2022-10-01,pennsylvania,3.9
+2022,Nov,2022-11-01,pennsylvania,3.9
+2022,Dec,2022-12-01,pennsylvania,3.8
+2023,Jan,2023-01-01,pennsylvania,3.8
+2023,Feb,2023-02-01,pennsylvania,3.7
+2023,Mar,2023-03-01,pennsylvania,3.5
+2023,Apr,2023-04-01,pennsylvania,3.4
+2023,May,2023-05-01,pennsylvania,3.3
+2023,Jun,2023-06-01,pennsylvania,3.2
+2023,Jul,2023-07-01,pennsylvania,3.2
+2023,Aug,2023-08-01,pennsylvania,3.3
+2023,Sep,2023-09-01,pennsylvania,3.3
+2023,Oct,2023-10-01,pennsylvania,3.4
+2023,Nov,2023-11-01,pennsylvania,3.4
+2023,Dec,2023-12-01,pennsylvania,3.4
+2024,Jan,2024-01-01,pennsylvania,3.4
+2024,Feb,2024-02-01,pennsylvania,3.4
+2024,Mar,2024-03-01,pennsylvania,3.4
+2024,Apr,2024-04-01,pennsylvania,3.4
+2024,May,2024-05-01,pennsylvania,3.4
+2024,Jun,2024-06-01,pennsylvania,3.4
+2015,Jan,2015-01-01,puerto rico,12.2
+2015,Feb,2015-02-01,puerto rico,12.0
+2015,Mar,2015-03-01,puerto rico,12.1
+2015,Apr,2015-04-01,puerto rico,12.1
+2015,May,2015-05-01,puerto rico,12.1
+2015,Jun,2015-06-01,puerto rico,12.1
+2015,Jul,2015-07-01,puerto rico,12.1
+2015,Aug,2015-08-01,puerto rico,12.1
+2015,Sep,2015-09-01,puerto rico,12.0
+2015,Oct,2015-10-01,puerto rico,12.0
+2015,Nov,2015-11-01,puerto rico,12.0
+2015,Dec,2015-12-01,puerto rico,11.9
+2016,Jan,2016-01-01,puerto rico,11.7
+2016,Feb,2016-02-01,puerto rico,11.6
+2016,Mar,2016-03-01,puerto rico,11.5
+2016,Apr,2016-04-01,puerto rico,11.5
+2016,May,2016-05-01,puerto rico,11.6
+2016,Jun,2016-06-01,puerto rico,11.6
+2016,Jul,2016-07-01,puerto rico,11.7
+2016,Aug,2016-08-01,puerto rico,11.8
+2016,Sep,2016-09-01,puerto rico,12.0
+2016,Oct,2016-10-01,puerto rico,12.1
+2016,Nov,2016-11-01,puerto rico,12.0
+2016,Dec,2016-12-01,puerto rico,11.9
+2017,Jan,2017-01-01,puerto rico,11.8
+2017,Feb,2017-02-01,puerto rico,11.5
+2017,Mar,2017-03-01,puerto rico,11.2
+2017,Apr,2017-04-01,puerto rico,10.9
+2017,May,2017-05-01,puerto rico,10.6
+2017,Jun,2017-06-01,puerto rico,10.4
+2017,Jul,2017-07-01,puerto rico,10.4
+2017,Aug,2017-08-01,puerto rico,10.5
+2017,Sep,2017-09-01,puerto rico,10.7
+2017,Oct,2017-10-01,puerto rico,11.3
+2017,Nov,2017-11-01,puerto rico,10.9
+2017,Dec,2017-12-01,puerto rico,10.7
+2018,Jan,2018-01-01,puerto rico,10.4
+2018,Feb,2018-02-01,puerto rico,10.2
+2018,Mar,2018-03-01,puerto rico,9.9
+2018,Apr,2018-04-01,puerto rico,9.7
+2018,May,2018-05-01,puerto rico,9.5
+2018,Jun,2018-06-01,puerto rico,9.2
+2018,Jul,2018-07-01,puerto rico,9.0
+2018,Aug,2018-08-01,puerto rico,8.7
+2018,Sep,2018-09-01,puerto rico,8.5
+2018,Oct,2018-10-01,puerto rico,8.3
+2018,Nov,2018-11-01,puerto rico,8.3
+2018,Dec,2018-12-01,puerto rico,8.4
+2019,Jan,2019-01-01,puerto rico,8.6
+2019,Feb,2019-02-01,puerto rico,8.7
+2019,Mar,2019-03-01,puerto rico,8.6
+2019,Apr,2019-04-01,puerto rico,8.4
+2019,May,2019-05-01,puerto rico,8.1
+2019,Jun,2019-06-01,puerto rico,7.7
+2019,Jul,2019-07-01,puerto rico,7.6
+2019,Aug,2019-08-01,puerto rico,7.7
+2019,Sep,2019-09-01,puerto rico,8.0
+2019,Oct,2019-10-01,puerto rico,8.4
+2019,Nov,2019-11-01,puerto rico,8.7
+2019,Dec,2019-12-01,puerto rico,9.0
+2020,Jan,2020-01-01,puerto rico,9.1
+2020,Feb,2020-02-01,puerto rico,9.1
+2020,Mar,2020-03-01,puerto rico,
+2020,Apr,2020-04-01,puerto rico,
+2020,May,2020-05-01,puerto rico,8.9
+2020,Jun,2020-06-01,puerto rico,8.3
+2020,Jul,2020-07-01,puerto rico,8.2
+2020,Aug,2020-08-01,puerto rico,8.3
+2020,Sep,2020-09-01,puerto rico,8.6
+2020,Oct,2020-10-01,puerto rico,9.0
+2020,Nov,2020-11-01,puerto rico,9.3
+2020,Dec,2020-12-01,puerto rico,9.3
+2021,Jan,2021-01-01,puerto rico,9.0
+2021,Feb,2021-02-01,puerto rico,8.5
+2021,Mar,2021-03-01,puerto rico,8.2
+2021,Apr,2021-04-01,puerto rico,8.1
+2021,May,2021-05-01,puerto rico,8.1
+2021,Jun,2021-06-01,puerto rico,8.3
+2021,Jul,2021-07-01,puerto rico,8.4
+2021,Aug,2021-08-01,puerto rico,8.3
+2021,Sep,2021-09-01,puerto rico,7.9
+2021,Oct,2021-10-01,puerto rico,7.5
+2021,Nov,2021-11-01,puerto rico,7.0
+2021,Dec,2021-12-01,puerto rico,6.7
+2022,Jan,2022-01-01,puerto rico,6.5
+2022,Feb,2022-02-01,puerto rico,6.3
+2022,Mar,2022-03-01,puerto rico,6.1
+2022,Apr,2022-04-01,puerto rico,6.0
+2022,May,2022-05-01,puerto rico,5.9
+2022,Jun,2022-06-01,puerto rico,5.8
+2022,Jul,2022-07-01,puerto rico,5.8
+2022,Aug,2022-08-01,puerto rico,5.8
+2022,Sep,2022-09-01,puerto rico,5.9
+2022,Oct,2022-10-01,puerto rico,6.0
+2022,Nov,2022-11-01,puerto rico,6.0
+2022,Dec,2022-12-01,puerto rico,6.0
+2023,Jan,2023-01-01,puerto rico,6.0
+2023,Feb,2023-02-01,puerto rico,6.0
+2023,Mar,2023-03-01,puerto rico,6.0
+2023,Apr,2023-04-01,puerto rico,6.1
+2023,May,2023-05-01,puerto rico,6.2
+2023,Jun,2023-06-01,puerto rico,6.1
+2023,Jul,2023-07-01,puerto rico,6.0
+2023,Aug,2023-08-01,puerto rico,5.8
+2023,Sep,2023-09-01,puerto rico,5.7
+2023,Oct,2023-10-01,puerto rico,5.6
+2023,Nov,2023-11-01,puerto rico,5.6
+2023,Dec,2023-12-01,puerto rico,5.7
+2024,Jan,2024-01-01,puerto rico,5.7
+2024,Feb,2024-02-01,puerto rico,5.7
+2024,Mar,2024-03-01,puerto rico,5.8
+2024,Apr,2024-04-01,puerto rico,5.8
+2024,May,2024-05-01,puerto rico,5.8
+2024,Jun,2024-06-01,puerto rico,5.8
+2015,Jan,2015-01-01,rhode island,6.6
+2015,Feb,2015-02-01,rhode island,6.5
+2015,Mar,2015-03-01,rhode island,6.4
+2015,Apr,2015-04-01,rhode island,6.3
+2015,May,2015-05-01,rhode island,6.2
+2015,Jun,2015-06-01,rhode island,6.0
+2015,Jul,2015-07-01,rhode island,5.9
+2015,Aug,2015-08-01,rhode island,5.8
+2015,Sep,2015-09-01,rhode island,5.7
+2015,Oct,2015-10-01,rhode island,5.7
+2015,Nov,2015-11-01,rhode island,5.6
+2015,Dec,2015-12-01,rhode island,5.6
+2016,Jan,2016-01-01,rhode island,5.6
+2016,Feb,2016-02-01,rhode island,5.5
+2016,Mar,2016-03-01,rhode island,5.4
+2016,Apr,2016-04-01,rhode island,5.4
+2016,May,2016-05-01,rhode island,5.4
+2016,Jun,2016-06-01,rhode island,5.3
+2016,Jul,2016-07-01,rhode island,5.3
+2016,Aug,2016-08-01,rhode island,5.2
+2016,Sep,2016-09-01,rhode island,5.1
+2016,Oct,2016-10-01,rhode island,5.0
+2016,Nov,2016-11-01,rhode island,4.9
+2016,Dec,2016-12-01,rhode island,4.8
+2017,Jan,2017-01-01,rhode island,4.6
+2017,Feb,2017-02-01,rhode island,4.5
+2017,Mar,2017-03-01,rhode island,4.5
+2017,Apr,2017-04-01,rhode island,4.4
+2017,May,2017-05-01,rhode island,4.4
+2017,Jun,2017-06-01,rhode island,4.4
+2017,Jul,2017-07-01,rhode island,4.5
+2017,Aug,2017-08-01,rhode island,4.5
+2017,Sep,2017-09-01,rhode island,4.6
+2017,Oct,2017-10-01,rhode island,4.6
+2017,Nov,2017-11-01,rhode island,4.6
+2017,Dec,2017-12-01,rhode island,4.5
+2018,Jan,2018-01-01,rhode island,4.5
+2018,Feb,2018-02-01,rhode island,4.4
+2018,Mar,2018-03-01,rhode island,4.2
+2018,Apr,2018-04-01,rhode island,4.1
+2018,May,2018-05-01,rhode island,4.0
+2018,Jun,2018-06-01,rhode island,3.9
+2018,Jul,2018-07-01,rhode island,3.9
+2018,Aug,2018-08-01,rhode island,3.9
+2018,Sep,2018-09-01,rhode island,3.9
+2018,Oct,2018-10-01,rhode island,3.9
+2018,Nov,2018-11-01,rhode island,3.9
+2018,Dec,2018-12-01,rhode island,3.8
+2019,Jan,2019-01-01,rhode island,3.8
+2019,Feb,2019-02-01,rhode island,3.7
+2019,Mar,2019-03-01,rhode island,3.6
+2019,Apr,2019-04-01,rhode island,3.5
+2019,May,2019-05-01,rhode island,3.5
+2019,Jun,2019-06-01,rhode island,3.5
+2019,Jul,2019-07-01,rhode island,3.5
+2019,Aug,2019-08-01,rhode island,3.5
+2019,Sep,2019-09-01,rhode island,3.5
+2019,Oct,2019-10-01,rhode island,3.4
+2019,Nov,2019-11-01,rhode island,3.4
+2019,Dec,2019-12-01,rhode island,3.5
+2020,Jan,2020-01-01,rhode island,3.6
+2020,Feb,2020-02-01,rhode island,3.7
+2020,Mar,2020-03-01,rhode island,3.7
+2020,Apr,2020-04-01,rhode island,17.9
+2020,May,2020-05-01,rhode island,15.4
+2020,Jun,2020-06-01,rhode island,13.3
+2020,Jul,2020-07-01,rhode island,12.2
+2020,Aug,2020-08-01,rhode island,10.3
+2020,Sep,2020-09-01,rhode island,9.9
+2020,Oct,2020-10-01,rhode island,7.0
+2020,Nov,2020-11-01,rhode island,7.0
+2020,Dec,2020-12-01,rhode island,6.9
+2021,Jan,2021-01-01,rhode island,6.6
+2021,Feb,2021-02-01,rhode island,6.4
+2021,Mar,2021-03-01,rhode island,6.2
+2021,Apr,2021-04-01,rhode island,6.2
+2021,May,2021-05-01,rhode island,6.0
+2021,Jun,2021-06-01,rhode island,6.0
+2021,Jul,2021-07-01,rhode island,5.8
+2021,Aug,2021-08-01,rhode island,5.5
+2021,Sep,2021-09-01,rhode island,5.1
+2021,Oct,2021-10-01,rhode island,4.6
+2021,Nov,2021-11-01,rhode island,4.1
+2021,Dec,2021-12-01,rhode island,3.7
+2022,Jan,2022-01-01,rhode island,3.5
+2022,Feb,2022-02-01,rhode island,3.3
+2022,Mar,2022-03-01,rhode island,3.1
+2022,Apr,2022-04-01,rhode island,3.0
+2022,May,2022-05-01,rhode island,3.0
+2022,Jun,2022-06-01,rhode island,3.1
+2022,Jul,2022-07-01,rhode island,3.2
+2022,Aug,2022-08-01,rhode island,3.3
+2022,Sep,2022-09-01,rhode island,3.2
+2022,Oct,2022-10-01,rhode island,3.2
+2022,Nov,2022-11-01,rhode island,3.1
+2022,Dec,2022-12-01,rhode island,3.0
+2023,Jan,2023-01-01,rhode island,2.9
+2023,Feb,2023-02-01,rhode island,2.8
+2023,Mar,2023-03-01,rhode island,2.7
+2023,Apr,2023-04-01,rhode island,2.7
+2023,May,2023-05-01,rhode island,2.6
+2023,Jun,2023-06-01,rhode island,2.6
+2023,Jul,2023-07-01,rhode island,2.7
+2023,Aug,2023-08-01,rhode island,2.9
+2023,Sep,2023-09-01,rhode island,3.2
+2023,Oct,2023-10-01,rhode island,3.4
+2023,Nov,2023-11-01,rhode island,3.4
+2023,Dec,2023-12-01,rhode island,3.4
+2024,Jan,2024-01-01,rhode island,3.6
+2024,Feb,2024-02-01,rhode island,3.9
+2024,Mar,2024-03-01,rhode island,4.1
+2024,Apr,2024-04-01,rhode island,4.1
+2024,May,2024-05-01,rhode island,4.3
+2024,Jun,2024-06-01,rhode island,4.3
+2015,Jan,2015-01-01,south carolina,6.4
+2015,Feb,2015-02-01,south carolina,6.4
+2015,Mar,2015-03-01,south carolina,6.3
+2015,Apr,2015-04-01,south carolina,6.2
+2015,May,2015-05-01,south carolina,6.1
+2015,Jun,2015-06-01,south carolina,6.0
+2015,Jul,2015-07-01,south carolina,5.8
+2015,Aug,2015-08-01,south carolina,5.7
+2015,Sep,2015-09-01,south carolina,5.6
+2015,Oct,2015-10-01,south carolina,5.5
+2015,Nov,2015-11-01,south carolina,5.4
+2015,Dec,2015-12-01,south carolina,5.4
+2016,Jan,2016-01-01,south carolina,5.3
+2016,Feb,2016-02-01,south carolina,5.3
+2016,Mar,2016-03-01,south carolina,5.2
+2016,Apr,2016-04-01,south carolina,5.1
+2016,May,2016-05-01,south carolina,5.1
+2016,Jun,2016-06-01,south carolina,5.0
+2016,Jul,2016-07-01,south carolina,4.9
+2016,Aug,2016-08-01,south carolina,4.8
+2016,Sep,2016-09-01,south carolina,4.7
+2016,Oct,2016-10-01,south carolina,4.6
+2016,Nov,2016-11-01,south carolina,4.5
+2016,Dec,2016-12-01,south carolina,4.5
+2017,Jan,2017-01-01,south carolina,4.4
+2017,Feb,2017-02-01,south carolina,4.3
+2017,Mar,2017-03-01,south carolina,4.2
+2017,Apr,2017-04-01,south carolina,4.2
+2017,May,2017-05-01,south carolina,4.1
+2017,Jun,2017-06-01,south carolina,4.1
+2017,Jul,2017-07-01,south carolina,4.2
+2017,Aug,2017-08-01,south carolina,4.2
+2017,Sep,2017-09-01,south carolina,4.2
+2017,Oct,2017-10-01,south carolina,4.2
+2017,Nov,2017-11-01,south carolina,4.2
+2017,Dec,2017-12-01,south carolina,4.1
+2018,Jan,2018-01-01,south carolina,3.9
+2018,Feb,2018-02-01,south carolina,3.7
+2018,Mar,2018-03-01,south carolina,3.5
+2018,Apr,2018-04-01,south carolina,3.3
+2018,May,2018-05-01,south carolina,3.2
+2018,Jun,2018-06-01,south carolina,3.2
+2018,Jul,2018-07-01,south carolina,3.3
+2018,Aug,2018-08-01,south carolina,3.3
+2018,Sep,2018-09-01,south carolina,3.3
+2018,Oct,2018-10-01,south carolina,3.3
+2018,Nov,2018-11-01,south carolina,3.3
+2018,Dec,2018-12-01,south carolina,3.2
+2019,Jan,2019-01-01,south carolina,3.2
+2019,Feb,2019-02-01,south carolina,3.2
+2019,Mar,2019-03-01,south carolina,3.1
+2019,Apr,2019-04-01,south carolina,3.1
+2019,May,2019-05-01,south carolina,2.9
+2019,Jun,2019-06-01,south carolina,2.7
+2019,Jul,2019-07-01,south carolina,2.6
+2019,Aug,2019-08-01,south carolina,2.5
+2019,Sep,2019-09-01,south carolina,2.4
+2019,Oct,2019-10-01,south carolina,2.4
+2019,Nov,2019-11-01,south carolina,2.5
+2019,Dec,2019-12-01,south carolina,2.6
+2020,Jan,2020-01-01,south carolina,2.8
+2020,Feb,2020-02-01,south carolina,2.9
+2020,Mar,2020-03-01,south carolina,3.1
+2020,Apr,2020-04-01,south carolina,11.8
+2020,May,2020-05-01,south carolina,9.2
+2020,Jun,2020-06-01,south carolina,7.8
+2020,Jul,2020-07-01,south carolina,7.0
+2020,Aug,2020-08-01,south carolina,6.1
+2020,Sep,2020-09-01,south carolina,5.8
+2020,Oct,2020-10-01,south carolina,5.3
+2020,Nov,2020-11-01,south carolina,5.0
+2020,Dec,2020-12-01,south carolina,4.8
+2021,Jan,2021-01-01,south carolina,4.6
+2021,Feb,2021-02-01,south carolina,4.4
+2021,Mar,2021-03-01,south carolina,4.3
+2021,Apr,2021-04-01,south carolina,4.2
+2021,May,2021-05-01,south carolina,4.1
+2021,Jun,2021-06-01,south carolina,4.1
+2021,Jul,2021-07-01,south carolina,3.9
+2021,Aug,2021-08-01,south carolina,3.8
+2021,Sep,2021-09-01,south carolina,3.7
+2021,Oct,2021-10-01,south carolina,3.5
+2021,Nov,2021-11-01,south carolina,3.4
+2021,Dec,2021-12-01,south carolina,3.3
+2022,Jan,2022-01-01,south carolina,3.3
+2022,Feb,2022-02-01,south carolina,3.2
+2022,Mar,2022-03-01,south carolina,3.2
+2022,Apr,2022-04-01,south carolina,3.2
+2022,May,2022-05-01,south carolina,3.2
+2022,Jun,2022-06-01,south carolina,3.2
+2022,Jul,2022-07-01,south carolina,3.2
+2022,Aug,2022-08-01,south carolina,3.2
+2022,Sep,2022-09-01,south carolina,3.3
+2022,Oct,2022-10-01,south carolina,3.2
+2022,Nov,2022-11-01,south carolina,3.2
+2022,Dec,2022-12-01,south carolina,3.1
+2023,Jan,2023-01-01,south carolina,3.1
+2023,Feb,2023-02-01,south carolina,3.0
+2023,Mar,2023-03-01,south carolina,3.0
+2023,Apr,2023-04-01,south carolina,2.9
+2023,May,2023-05-01,south carolina,2.9
+2023,Jun,2023-06-01,south carolina,2.8
+2023,Jul,2023-07-01,south carolina,2.8
+2023,Aug,2023-08-01,south carolina,2.9
+2023,Sep,2023-09-01,south carolina,3.0
+2023,Oct,2023-10-01,south carolina,3.0
+2023,Nov,2023-11-01,south carolina,3.0
+2023,Dec,2023-12-01,south carolina,3.0
+2024,Jan,2024-01-01,south carolina,3.0
+2024,Feb,2024-02-01,south carolina,3.1
+2024,Mar,2024-03-01,south carolina,3.1
+2024,Apr,2024-04-01,south carolina,3.2
+2024,May,2024-05-01,south carolina,3.4
+2024,Jun,2024-06-01,south carolina,3.6
+2015,Jan,2015-01-01,south dakota,3.2
+2015,Feb,2015-02-01,south dakota,3.2
+2015,Mar,2015-03-01,south dakota,3.2
+2015,Apr,2015-04-01,south dakota,3.1
+2015,May,2015-05-01,south dakota,3.1
+2015,Jun,2015-06-01,south dakota,3.1
+2015,Jul,2015-07-01,south dakota,3.1
+2015,Aug,2015-08-01,south dakota,3.0
+2015,Sep,2015-09-01,south dakota,3.0
+2015,Oct,2015-10-01,south dakota,2.9
+2015,Nov,2015-11-01,south dakota,2.9
+2015,Dec,2015-12-01,south dakota,2.8
+2016,Jan,2016-01-01,south dakota,2.8
+2016,Feb,2016-02-01,south dakota,2.8
+2016,Mar,2016-03-01,south dakota,2.8
+2016,Apr,2016-04-01,south dakota,2.9
+2016,May,2016-05-01,south dakota,2.9
+2016,Jun,2016-06-01,south dakota,3.0
+2016,Jul,2016-07-01,south dakota,3.1
+2016,Aug,2016-08-01,south dakota,3.1
+2016,Sep,2016-09-01,south dakota,3.2
+2016,Oct,2016-10-01,south dakota,3.2
+2016,Nov,2016-11-01,south dakota,3.2
+2016,Dec,2016-12-01,south dakota,3.2
+2017,Jan,2017-01-01,south dakota,3.1
+2017,Feb,2017-02-01,south dakota,3.1
+2017,Mar,2017-03-01,south dakota,3.1
+2017,Apr,2017-04-01,south dakota,3.0
+2017,May,2017-05-01,south dakota,3.0
+2017,Jun,2017-06-01,south dakota,3.0
+2017,Jul,2017-07-01,south dakota,3.1
+2017,Aug,2017-08-01,south dakota,3.1
+2017,Sep,2017-09-01,south dakota,3.1
+2017,Oct,2017-10-01,south dakota,3.0
+2017,Nov,2017-11-01,south dakota,3.0
+2017,Dec,2017-12-01,south dakota,3.0
+2018,Jan,2018-01-01,south dakota,3.0
+2018,Feb,2018-02-01,south dakota,2.9
+2018,Mar,2018-03-01,south dakota,2.9
+2018,Apr,2018-04-01,south dakota,2.8
+2018,May,2018-05-01,south dakota,2.8
+2018,Jun,2018-06-01,south dakota,2.8
+2018,Jul,2018-07-01,south dakota,2.7
+2018,Aug,2018-08-01,south dakota,2.7
+2018,Sep,2018-09-01,south dakota,2.7
+2018,Oct,2018-10-01,south dakota,2.7
+2018,Nov,2018-11-01,south dakota,2.7
+2018,Dec,2018-12-01,south dakota,2.8
+2019,Jan,2019-01-01,south dakota,2.8
+2019,Feb,2019-02-01,south dakota,2.8
+2019,Mar,2019-03-01,south dakota,2.8
+2019,Apr,2019-04-01,south dakota,2.8
+2019,May,2019-05-01,south dakota,2.8
+2019,Jun,2019-06-01,south dakota,2.8
+2019,Jul,2019-07-01,south dakota,2.8
+2019,Aug,2019-08-01,south dakota,2.8
+2019,Sep,2019-09-01,south dakota,2.8
+2019,Oct,2019-10-01,south dakota,2.7
+2019,Nov,2019-11-01,south dakota,2.7
+2019,Dec,2019-12-01,south dakota,2.6
+2020,Jan,2020-01-01,south dakota,2.6
+2020,Feb,2020-02-01,south dakota,2.5
+2020,Mar,2020-03-01,south dakota,2.4
+2020,Apr,2020-04-01,south dakota,8.8
+2020,May,2020-05-01,south dakota,6.6
+2020,Jun,2020-06-01,south dakota,5.3
+2020,Jul,2020-07-01,south dakota,4.7
+2020,Aug,2020-08-01,south dakota,4.0
+2020,Sep,2020-09-01,south dakota,3.7
+2020,Oct,2020-10-01,south dakota,3.3
+2020,Nov,2020-11-01,south dakota,3.2
+2020,Dec,2020-12-01,south dakota,3.1
+2021,Jan,2021-01-01,south dakota,2.9
+2021,Feb,2021-02-01,south dakota,2.9
+2021,Mar,2021-03-01,south dakota,2.8
+2021,Apr,2021-04-01,south dakota,2.8
+2021,May,2021-05-01,south dakota,2.8
+2021,Jun,2021-06-01,south dakota,2.8
+2021,Jul,2021-07-01,south dakota,2.7
+2021,Aug,2021-08-01,south dakota,2.6
+2021,Sep,2021-09-01,south dakota,2.5
+2021,Oct,2021-10-01,south dakota,2.3
+2021,Nov,2021-11-01,south dakota,2.2
+2021,Dec,2021-12-01,south dakota,2.1
+2022,Jan,2022-01-01,south dakota,2.0
+2022,Feb,2022-02-01,south dakota,1.9
+2022,Mar,2022-03-01,south dakota,1.9
+2022,Apr,2022-04-01,south dakota,1.9
+2022,May,2022-05-01,south dakota,1.9
+2022,Jun,2022-06-01,south dakota,2.0
+2022,Jul,2022-07-01,south dakota,2.0
+2022,Aug,2022-08-01,south dakota,2.1
+2022,Sep,2022-09-01,south dakota,2.1
+2022,Oct,2022-10-01,south dakota,2.1
+2022,Nov,2022-11-01,south dakota,2.0
+2022,Dec,2022-12-01,south dakota,2.0
+2023,Jan,2023-01-01,south dakota,2.0
+2023,Feb,2023-02-01,south dakota,1.9
+2023,Mar,2023-03-01,south dakota,1.9
+2023,Apr,2023-04-01,south dakota,1.9
+2023,May,2023-05-01,south dakota,1.9
+2023,Jun,2023-06-01,south dakota,2.0
+2023,Jul,2023-07-01,south dakota,2.0
+2023,Aug,2023-08-01,south dakota,2.0
+2023,Sep,2023-09-01,south dakota,2.1
+2023,Oct,2023-10-01,south dakota,2.1
+2023,Nov,2023-11-01,south dakota,2.1
+2023,Dec,2023-12-01,south dakota,2.1
+2024,Jan,2024-01-01,south dakota,2.1
+2024,Feb,2024-02-01,south dakota,2.1
+2024,Mar,2024-03-01,south dakota,2.1
+2024,Apr,2024-04-01,south dakota,2.0
+2024,May,2024-05-01,south dakota,2.0
+2024,Jun,2024-06-01,south dakota,2.0
+2015,Jan,2015-01-01,tennessee,6.1
+2015,Feb,2015-02-01,tennessee,6.1
+2015,Mar,2015-03-01,tennessee,6.0
+2015,Apr,2015-04-01,tennessee,5.9
+2015,May,2015-05-01,tennessee,5.8
+2015,Jun,2015-06-01,tennessee,5.7
+2015,Jul,2015-07-01,tennessee,5.5
+2015,Aug,2015-08-01,tennessee,5.4
+2015,Sep,2015-09-01,tennessee,5.3
+2015,Oct,2015-10-01,tennessee,5.1
+2015,Nov,2015-11-01,tennessee,5.0
+2015,Dec,2015-12-01,tennessee,4.9
+2016,Jan,2016-01-01,tennessee,4.8
+2016,Feb,2016-02-01,tennessee,4.7
+2016,Mar,2016-03-01,tennessee,4.7
+2016,Apr,2016-04-01,tennessee,4.6
+2016,May,2016-05-01,tennessee,4.7
+2016,Jun,2016-06-01,tennessee,4.7
+2016,Jul,2016-07-01,tennessee,4.8
+2016,Aug,2016-08-01,tennessee,4.8
+2016,Sep,2016-09-01,tennessee,4.9
+2016,Oct,2016-10-01,tennessee,4.9
+2016,Nov,2016-11-01,tennessee,4.8
+2016,Dec,2016-12-01,tennessee,4.7
+2017,Jan,2017-01-01,tennessee,4.6
+2017,Feb,2017-02-01,tennessee,4.4
+2017,Mar,2017-03-01,tennessee,4.2
+2017,Apr,2017-04-01,tennessee,3.9
+2017,May,2017-05-01,tennessee,3.7
+2017,Jun,2017-06-01,tennessee,3.6
+2017,Jul,2017-07-01,tennessee,3.5
+2017,Aug,2017-08-01,tennessee,3.4
+2017,Sep,2017-09-01,tennessee,3.4
+2017,Oct,2017-10-01,tennessee,3.4
+2017,Nov,2017-11-01,tennessee,3.4
+2017,Dec,2017-12-01,tennessee,3.5
+2018,Jan,2018-01-01,tennessee,3.5
+2018,Feb,2018-02-01,tennessee,3.5
+2018,Mar,2018-03-01,tennessee,3.5
+2018,Apr,2018-04-01,tennessee,3.5
+2018,May,2018-05-01,tennessee,3.5
+2018,Jun,2018-06-01,tennessee,3.5
+2018,Jul,2018-07-01,tennessee,3.5
+2018,Aug,2018-08-01,tennessee,3.5
+2018,Sep,2018-09-01,tennessee,3.5
+2018,Oct,2018-10-01,tennessee,3.5
+2018,Nov,2018-11-01,tennessee,3.5
+2018,Dec,2018-12-01,tennessee,3.5
+2019,Jan,2019-01-01,tennessee,3.5
+2019,Feb,2019-02-01,tennessee,3.4
+2019,Mar,2019-03-01,tennessee,3.4
+2019,Apr,2019-04-01,tennessee,3.4
+2019,May,2019-05-01,tennessee,3.3
+2019,Jun,2019-06-01,tennessee,3.2
+2019,Jul,2019-07-01,tennessee,3.2
+2019,Aug,2019-08-01,tennessee,3.2
+2019,Sep,2019-09-01,tennessee,3.3
+2019,Oct,2019-10-01,tennessee,3.3
+2019,Nov,2019-11-01,tennessee,3.4
+2019,Dec,2019-12-01,tennessee,3.4
+2020,Jan,2020-01-01,tennessee,3.5
+2020,Feb,2020-02-01,tennessee,3.5
+2020,Mar,2020-03-01,tennessee,3.5
+2020,Apr,2020-04-01,tennessee,15.8
+2020,May,2020-05-01,tennessee,12.1
+2020,Jun,2020-06-01,tennessee,10.2
+2020,Jul,2020-07-01,tennessee,9.0
+2020,Aug,2020-08-01,tennessee,7.6
+2020,Sep,2020-09-01,tennessee,7.1
+2020,Oct,2020-10-01,tennessee,6.3
+2020,Nov,2020-11-01,tennessee,5.9
+2020,Dec,2020-12-01,tennessee,5.6
+2021,Jan,2021-01-01,tennessee,5.4
+2021,Feb,2021-02-01,tennessee,5.2
+2021,Mar,2021-03-01,tennessee,5.1
+2021,Apr,2021-04-01,tennessee,5.0
+2021,May,2021-05-01,tennessee,4.8
+2021,Jun,2021-06-01,tennessee,4.7
+2021,Jul,2021-07-01,tennessee,4.4
+2021,Aug,2021-08-01,tennessee,4.2
+2021,Sep,2021-09-01,tennessee,3.9
+2021,Oct,2021-10-01,tennessee,3.8
+2021,Nov,2021-11-01,tennessee,3.6
+2021,Dec,2021-12-01,tennessee,3.5
+2022,Jan,2022-01-01,tennessee,3.4
+2022,Feb,2022-02-01,tennessee,3.4
+2022,Mar,2022-03-01,tennessee,3.3
+2022,Apr,2022-04-01,tennessee,3.3
+2022,May,2022-05-01,tennessee,3.3
+2022,Jun,2022-06-01,tennessee,3.3
+2022,Jul,2022-07-01,tennessee,3.3
+2022,Aug,2022-08-01,tennessee,3.4
+2022,Sep,2022-09-01,tennessee,3.4
+2022,Oct,2022-10-01,tennessee,3.5
+2022,Nov,2022-11-01,tennessee,3.5
+2022,Dec,2022-12-01,tennessee,3.5
+2023,Jan,2023-01-01,tennessee,3.4
+2023,Feb,2023-02-01,tennessee,3.3
+2023,Mar,2023-03-01,tennessee,3.2
+2023,Apr,2023-04-01,tennessee,3.1
+2023,May,2023-05-01,tennessee,3.1
+2023,Jun,2023-06-01,tennessee,3.1
+2023,Jul,2023-07-01,tennessee,3.2
+2023,Aug,2023-08-01,tennessee,3.3
+2023,Sep,2023-09-01,tennessee,3.4
+2023,Oct,2023-10-01,tennessee,3.5
+2023,Nov,2023-11-01,tennessee,3.5
+2023,Dec,2023-12-01,tennessee,3.4
+2024,Jan,2024-01-01,tennessee,3.5
+2024,Feb,2024-02-01,tennessee,3.3
+2024,Mar,2024-03-01,tennessee,3.2
+2024,Apr,2024-04-01,tennessee,3.1
+2024,May,2024-05-01,tennessee,3.0
+2024,Jun,2024-06-01,tennessee,3.0
+2015,Jan,2015-01-01,texas,4.6
+2015,Feb,2015-02-01,texas,4.5
+2015,Mar,2015-03-01,texas,4.5
+2015,Apr,2015-04-01,texas,4.5
+2015,May,2015-05-01,texas,4.4
+2015,Jun,2015-06-01,texas,4.4
+2015,Jul,2015-07-01,texas,4.4
+2015,Aug,2015-08-01,texas,4.5
+2015,Sep,2015-09-01,texas,4.5
+2015,Oct,2015-10-01,texas,4.5
+2015,Nov,2015-11-01,texas,4.5
+2015,Dec,2015-12-01,texas,4.5
+2016,Jan,2016-01-01,texas,4.5
+2016,Feb,2016-02-01,texas,4.4
+2016,Mar,2016-03-01,texas,4.5
+2016,Apr,2016-04-01,texas,4.5
+2016,May,2016-05-01,texas,4.6
+2016,Jun,2016-06-01,texas,4.7
+2016,Jul,2016-07-01,texas,4.7
+2016,Aug,2016-08-01,texas,4.7
+2016,Sep,2016-09-01,texas,4.8
+2016,Oct,2016-10-01,texas,4.8
+2016,Nov,2016-11-01,texas,4.8
+2016,Dec,2016-12-01,texas,4.8
+2017,Jan,2017-01-01,texas,4.8
+2017,Feb,2017-02-01,texas,4.7
+2017,Mar,2017-03-01,texas,4.6
+2017,Apr,2017-04-01,texas,4.5
+2017,May,2017-05-01,texas,4.4
+2017,Jun,2017-06-01,texas,4.3
+2017,Jul,2017-07-01,texas,4.2
+2017,Aug,2017-08-01,texas,4.2
+2017,Sep,2017-09-01,texas,4.1
+2017,Oct,2017-10-01,texas,4.1
+2017,Nov,2017-11-01,texas,4.1
+2017,Dec,2017-12-01,texas,4.1
+2018,Jan,2018-01-01,texas,4.1
+2018,Feb,2018-02-01,texas,4.0
+2018,Mar,2018-03-01,texas,4.0
+2018,Apr,2018-04-01,texas,4.0
+2018,May,2018-05-01,texas,3.9
+2018,Jun,2018-06-01,texas,3.9
+2018,Jul,2018-07-01,texas,3.9
+2018,Aug,2018-08-01,texas,3.8
+2018,Sep,2018-09-01,texas,3.8
+2018,Oct,2018-10-01,texas,3.8
+2018,Nov,2018-11-01,texas,3.8
+2018,Dec,2018-12-01,texas,3.8
+2019,Jan,2019-01-01,texas,3.7
+2019,Feb,2019-02-01,texas,3.7
+2019,Mar,2019-03-01,texas,3.6
+2019,Apr,2019-04-01,texas,3.5
+2019,May,2019-05-01,texas,3.4
+2019,Jun,2019-06-01,texas,3.4
+2019,Jul,2019-07-01,texas,3.5
+2019,Aug,2019-08-01,texas,3.5
+2019,Sep,2019-09-01,texas,3.5
+2019,Oct,2019-10-01,texas,3.5
+2019,Nov,2019-11-01,texas,3.5
+2019,Dec,2019-12-01,texas,3.5
+2020,Jan,2020-01-01,texas,3.5
+2020,Feb,2020-02-01,texas,3.6
+2020,Mar,2020-03-01,texas,5.0
+2020,Apr,2020-04-01,texas,12.8
+2020,May,2020-05-01,texas,11.6
+2020,Jun,2020-06-01,texas,10.1
+2020,Jul,2020-07-01,texas,9.3
+2020,Aug,2020-08-01,texas,8.1
+2020,Sep,2020-09-01,texas,7.7
+2020,Oct,2020-10-01,texas,7.1
+2020,Nov,2020-11-01,texas,7.0
+2020,Dec,2020-12-01,texas,6.9
+2021,Jan,2021-01-01,texas,6.7
+2021,Feb,2021-02-01,texas,6.6
+2021,Mar,2021-03-01,texas,6.4
+2021,Apr,2021-04-01,texas,6.2
+2021,May,2021-05-01,texas,6.0
+2021,Jun,2021-06-01,texas,5.8
+2021,Jul,2021-07-01,texas,5.6
+2021,Aug,2021-08-01,texas,5.3
+2021,Sep,2021-09-01,texas,5.1
+2021,Oct,2021-10-01,texas,4.9
+2021,Nov,2021-11-01,texas,4.6
+2021,Dec,2021-12-01,texas,4.5
+2022,Jan,2022-01-01,texas,4.3
+2022,Feb,2022-02-01,texas,4.1
+2022,Mar,2022-03-01,texas,3.9
+2022,Apr,2022-04-01,texas,3.8
+2022,May,2022-05-01,texas,3.8
+2022,Jun,2022-06-01,texas,3.8
+2022,Jul,2022-07-01,texas,3.8
+2022,Aug,2022-08-01,texas,3.8
+2022,Sep,2022-09-01,texas,3.9
+2022,Oct,2022-10-01,texas,4.0
+2022,Nov,2022-11-01,texas,4.0
+2022,Dec,2022-12-01,texas,4.1
+2023,Jan,2023-01-01,texas,4.1
+2023,Feb,2023-02-01,texas,4.0
+2023,Mar,2023-03-01,texas,4.0
+2023,Apr,2023-04-01,texas,4.0
+2023,May,2023-05-01,texas,4.0
+2023,Jun,2023-06-01,texas,3.9
+2023,Jul,2023-07-01,texas,3.9
+2023,Aug,2023-08-01,texas,3.9
+2023,Sep,2023-09-01,texas,3.9
+2023,Oct,2023-10-01,texas,3.9
+2023,Nov,2023-11-01,texas,3.9
+2023,Dec,2023-12-01,texas,3.9
+2024,Jan,2024-01-01,texas,3.9
+2024,Feb,2024-02-01,texas,3.9
+2024,Mar,2024-03-01,texas,3.9
+2024,Apr,2024-04-01,texas,4.0
+2024,May,2024-05-01,texas,4.0
+2024,Jun,2024-06-01,texas,4.0
+2015,Jan,2015-01-01,utah,3.6
+2015,Feb,2015-02-01,utah,3.5
+2015,Mar,2015-03-01,utah,3.5
+2015,Apr,2015-04-01,utah,3.5
+2015,May,2015-05-01,utah,3.5
+2015,Jun,2015-06-01,utah,3.5
+2015,Jul,2015-07-01,utah,3.5
+2015,Aug,2015-08-01,utah,3.5
+2015,Sep,2015-09-01,utah,3.5
+2015,Oct,2015-10-01,utah,3.5
+2015,Nov,2015-11-01,utah,3.5
+2015,Dec,2015-12-01,utah,3.5
+2016,Jan,2016-01-01,utah,3.5
+2016,Feb,2016-02-01,utah,3.5
+2016,Mar,2016-03-01,utah,3.5
+2016,Apr,2016-04-01,utah,3.4
+2016,May,2016-05-01,utah,3.4
+2016,Jun,2016-06-01,utah,3.4
+2016,Jul,2016-07-01,utah,3.3
+2016,Aug,2016-08-01,utah,3.3
+2016,Sep,2016-09-01,utah,3.3
+2016,Oct,2016-10-01,utah,3.2
+2016,Nov,2016-11-01,utah,3.2
+2016,Dec,2016-12-01,utah,3.2
+2017,Jan,2017-01-01,utah,3.2
+2017,Feb,2017-02-01,utah,3.2
+2017,Mar,2017-03-01,utah,3.2
+2017,Apr,2017-04-01,utah,3.2
+2017,May,2017-05-01,utah,3.2
+2017,Jun,2017-06-01,utah,3.2
+2017,Jul,2017-07-01,utah,3.2
+2017,Aug,2017-08-01,utah,3.2
+2017,Sep,2017-09-01,utah,3.1
+2017,Oct,2017-10-01,utah,3.1
+2017,Nov,2017-11-01,utah,3.1
+2017,Dec,2017-12-01,utah,3.1
+2018,Jan,2018-01-01,utah,3.0
+2018,Feb,2018-02-01,utah,3.0
+2018,Mar,2018-03-01,utah,3.0
+2018,Apr,2018-04-01,utah,2.9
+2018,May,2018-05-01,utah,2.9
+2018,Jun,2018-06-01,utah,2.9
+2018,Jul,2018-07-01,utah,2.9
+2018,Aug,2018-08-01,utah,2.9
+2018,Sep,2018-09-01,utah,2.9
+2018,Oct,2018-10-01,utah,2.9
+2018,Nov,2018-11-01,utah,2.9
+2018,Dec,2018-12-01,utah,2.8
+2019,Jan,2019-01-01,utah,2.8
+2019,Feb,2019-02-01,utah,2.7
+2019,Mar,2019-03-01,utah,2.7
+2019,Apr,2019-04-01,utah,2.6
+2019,May,2019-05-01,utah,2.6
+2019,Jun,2019-06-01,utah,2.5
+2019,Jul,2019-07-01,utah,2.5
+2019,Aug,2019-08-01,utah,2.5
+2019,Sep,2019-09-01,utah,2.4
+2019,Oct,2019-10-01,utah,2.4
+2019,Nov,2019-11-01,utah,2.4
+2019,Dec,2019-12-01,utah,2.4
+2020,Jan,2020-01-01,utah,2.5
+2020,Feb,2020-02-01,utah,2.5
+2020,Mar,2020-03-01,utah,2.5
+2020,Apr,2020-04-01,utah,10.0
+2020,May,2020-05-01,utah,7.7
+2020,Jun,2020-06-01,utah,6.4
+2020,Jul,2020-07-01,utah,5.7
+2020,Aug,2020-08-01,utah,4.9
+2020,Sep,2020-09-01,utah,4.5
+2020,Oct,2020-10-01,utah,4.0
+2020,Nov,2020-11-01,utah,3.8
+2020,Dec,2020-12-01,utah,3.6
+2021,Jan,2021-01-01,utah,3.4
+2021,Feb,2021-02-01,utah,3.2
+2021,Mar,2021-03-01,utah,3.1
+2021,Apr,2021-04-01,utah,3.0
+2021,May,2021-05-01,utah,2.9
+2021,Jun,2021-06-01,utah,2.8
+2021,Jul,2021-07-01,utah,2.7
+2021,Aug,2021-08-01,utah,2.6
+2021,Sep,2021-09-01,utah,2.5
+2021,Oct,2021-10-01,utah,2.4
+2021,Nov,2021-11-01,utah,2.3
+2021,Dec,2021-12-01,utah,2.2
+2022,Jan,2022-01-01,utah,2.2
+2022,Feb,2022-02-01,utah,2.2
+2022,Mar,2022-03-01,utah,2.2
+2022,Apr,2022-04-01,utah,2.3
+2022,May,2022-05-01,utah,2.3
+2022,Jun,2022-06-01,utah,2.3
+2022,Jul,2022-07-01,utah,2.4
+2022,Aug,2022-08-01,utah,2.4
+2022,Sep,2022-09-01,utah,2.5
+2022,Oct,2022-10-01,utah,2.5
+2022,Nov,2022-11-01,utah,2.5
+2022,Dec,2022-12-01,utah,2.5
+2023,Jan,2023-01-01,utah,2.5
+2023,Feb,2023-02-01,utah,2.5
+2023,Mar,2023-03-01,utah,2.5
+2023,Apr,2023-04-01,utah,2.5
+2023,May,2023-05-01,utah,2.5
+2023,Jun,2023-06-01,utah,2.6
+2023,Jul,2023-07-01,utah,2.7
+2023,Aug,2023-08-01,utah,2.7
+2023,Sep,2023-09-01,utah,2.8
+2023,Oct,2023-10-01,utah,2.8
+2023,Nov,2023-11-01,utah,2.8
+2023,Dec,2023-12-01,utah,2.8
+2024,Jan,2024-01-01,utah,2.8
+2024,Feb,2024-02-01,utah,2.8
+2024,Mar,2024-03-01,utah,2.8
+2024,Apr,2024-04-01,utah,2.8
+2024,May,2024-05-01,utah,2.9
+2024,Jun,2024-06-01,utah,3.0
+2015,Jan,2015-01-01,vermont,3.8
+2015,Feb,2015-02-01,vermont,3.7
+2015,Mar,2015-03-01,vermont,3.7
+2015,Apr,2015-04-01,vermont,3.6
+2015,May,2015-05-01,vermont,3.6
+2015,Jun,2015-06-01,vermont,3.5
+2015,Jul,2015-07-01,vermont,3.5
+2015,Aug,2015-08-01,vermont,3.5
+2015,Sep,2015-09-01,vermont,3.4
+2015,Oct,2015-10-01,vermont,3.4
+2015,Nov,2015-11-01,vermont,3.4
+2015,Dec,2015-12-01,vermont,3.3
+2016,Jan,2016-01-01,vermont,3.2
+2016,Feb,2016-02-01,vermont,3.2
+2016,Mar,2016-03-01,vermont,3.2
+2016,Apr,2016-04-01,vermont,3.1
+2016,May,2016-05-01,vermont,3.1
+2016,Jun,2016-06-01,vermont,3.1
+2016,Jul,2016-07-01,vermont,3.1
+2016,Aug,2016-08-01,vermont,3.1
+2016,Sep,2016-09-01,vermont,3.1
+2016,Oct,2016-10-01,vermont,3.1
+2016,Nov,2016-11-01,vermont,3.1
+2016,Dec,2016-12-01,vermont,3.1
+2017,Jan,2017-01-01,vermont,3.1
+2017,Feb,2017-02-01,vermont,3.1
+2017,Mar,2017-03-01,vermont,3.1
+2017,Apr,2017-04-01,vermont,3.1
+2017,May,2017-05-01,vermont,3.0
+2017,Jun,2017-06-01,vermont,3.0
+2017,Jul,2017-07-01,vermont,2.9
+2017,Aug,2017-08-01,vermont,2.9
+2017,Sep,2017-09-01,vermont,2.9
+2017,Oct,2017-10-01,vermont,3.0
+2017,Nov,2017-11-01,vermont,3.0
+2017,Dec,2017-12-01,vermont,3.0
+2018,Jan,2018-01-01,vermont,2.8
+2018,Feb,2018-02-01,vermont,2.7
+2018,Mar,2018-03-01,vermont,2.7
+2018,Apr,2018-04-01,vermont,2.6
+2018,May,2018-05-01,vermont,2.5
+2018,Jun,2018-06-01,vermont,2.4
+2018,Jul,2018-07-01,vermont,2.4
+2018,Aug,2018-08-01,vermont,2.3
+2018,Sep,2018-09-01,vermont,2.3
+2018,Oct,2018-10-01,vermont,2.4
+2018,Nov,2018-11-01,vermont,2.4
+2018,Dec,2018-12-01,vermont,2.3
+2019,Jan,2019-01-01,vermont,2.3
+2019,Feb,2019-02-01,vermont,2.2
+2019,Mar,2019-03-01,vermont,2.1
+2019,Apr,2019-04-01,vermont,2.0
+2019,May,2019-05-01,vermont,2.0
+2019,Jun,2019-06-01,vermont,1.9
+2019,Jul,2019-07-01,vermont,2.0
+2019,Aug,2019-08-01,vermont,2.0
+2019,Sep,2019-09-01,vermont,2.1
+2019,Oct,2019-10-01,vermont,2.1
+2019,Nov,2019-11-01,vermont,2.1
+2019,Dec,2019-12-01,vermont,2.0
+2020,Jan,2020-01-01,vermont,2.0
+2020,Feb,2020-02-01,vermont,2.1
+2020,Mar,2020-03-01,vermont,2.4
+2020,Apr,2020-04-01,vermont,14.1
+2020,May,2020-05-01,vermont,9.5
+2020,Jun,2020-06-01,vermont,7.8
+2020,Jul,2020-07-01,vermont,6.7
+2020,Aug,2020-08-01,vermont,5.5
+2020,Sep,2020-09-01,vermont,4.9
+2020,Oct,2020-10-01,vermont,4.4
+2020,Nov,2020-11-01,vermont,4.2
+2020,Dec,2020-12-01,vermont,4.3
+2021,Jan,2021-01-01,vermont,4.4
+2021,Feb,2021-02-01,vermont,4.4
+2021,Mar,2021-03-01,vermont,4.4
+2021,Apr,2021-04-01,vermont,4.2
+2021,May,2021-05-01,vermont,3.9
+2021,Jun,2021-06-01,vermont,3.7
+2021,Jul,2021-07-01,vermont,3.4
+2021,Aug,2021-08-01,vermont,3.2
+2021,Sep,2021-09-01,vermont,3.1
+2021,Oct,2021-10-01,vermont,2.9
+2021,Nov,2021-11-01,vermont,2.8
+2021,Dec,2021-12-01,vermont,2.6
+2022,Jan,2022-01-01,vermont,2.4
+2022,Feb,2022-02-01,vermont,2.3
+2022,Mar,2022-03-01,vermont,2.2
+2022,Apr,2022-04-01,vermont,2.2
+2022,May,2022-05-01,vermont,2.2
+2022,Jun,2022-06-01,vermont,2.2
+2022,Jul,2022-07-01,vermont,2.3
+2022,Aug,2022-08-01,vermont,2.4
+2022,Sep,2022-09-01,vermont,2.5
+2022,Oct,2022-10-01,vermont,2.5
+2022,Nov,2022-11-01,vermont,2.4
+2022,Dec,2022-12-01,vermont,2.3
+2023,Jan,2023-01-01,vermont,2.1
+2023,Feb,2023-02-01,vermont,1.9
+2023,Mar,2023-03-01,vermont,1.8
+2023,Apr,2023-04-01,vermont,1.7
+2023,May,2023-05-01,vermont,1.7
+2023,Jun,2023-06-01,vermont,1.8
+2023,Jul,2023-07-01,vermont,1.9
+2023,Aug,2023-08-01,vermont,2.1
+2023,Sep,2023-09-01,vermont,2.2
+2023,Oct,2023-10-01,vermont,2.3
+2023,Nov,2023-11-01,vermont,2.3
+2023,Dec,2023-12-01,vermont,2.3
+2024,Jan,2024-01-01,vermont,2.3
+2024,Feb,2024-02-01,vermont,2.3
+2024,Mar,2024-03-01,vermont,2.2
+2024,Apr,2024-04-01,vermont,2.1
+2024,May,2024-05-01,vermont,2.1
+2024,Jun,2024-06-01,vermont,2.1
+2015,Jan,2015-01-01,virginia,4.8
+2015,Feb,2015-02-01,virginia,4.7
+2015,Mar,2015-03-01,virginia,4.7
+2015,Apr,2015-04-01,virginia,4.6
+2015,May,2015-05-01,virginia,4.5
+2015,Jun,2015-06-01,virginia,4.4
+2015,Jul,2015-07-01,virginia,4.3
+2015,Aug,2015-08-01,virginia,4.2
+2015,Sep,2015-09-01,virginia,4.1
+2015,Oct,2015-10-01,virginia,4.1
+2015,Nov,2015-11-01,virginia,4.0
+2015,Dec,2015-12-01,virginia,4.0
+2016,Jan,2016-01-01,virginia,4.0
+2016,Feb,2016-02-01,virginia,3.9
+2016,Mar,2016-03-01,virginia,3.9
+2016,Apr,2016-04-01,virginia,3.9
+2016,May,2016-05-01,virginia,3.9
+2016,Jun,2016-06-01,virginia,4.0
+2016,Jul,2016-07-01,virginia,4.0
+2016,Aug,2016-08-01,virginia,4.1
+2016,Sep,2016-09-01,virginia,4.1
+2016,Oct,2016-10-01,virginia,4.1
+2016,Nov,2016-11-01,virginia,4.1
+2016,Dec,2016-12-01,virginia,4.0
+2017,Jan,2017-01-01,virginia,4.0
+2017,Feb,2017-02-01,virginia,4.0
+2017,Mar,2017-03-01,virginia,3.9
+2017,Apr,2017-04-01,virginia,3.8
+2017,May,2017-05-01,virginia,3.7
+2017,Jun,2017-06-01,virginia,3.7
+2017,Jul,2017-07-01,virginia,3.6
+2017,Aug,2017-08-01,virginia,3.5
+2017,Sep,2017-09-01,virginia,3.5
+2017,Oct,2017-10-01,virginia,3.5
+2017,Nov,2017-11-01,virginia,3.4
+2017,Dec,2017-12-01,virginia,3.4
+2018,Jan,2018-01-01,virginia,3.4
+2018,Feb,2018-02-01,virginia,3.3
+2018,Mar,2018-03-01,virginia,3.2
+2018,Apr,2018-04-01,virginia,3.1
+2018,May,2018-05-01,virginia,2.9
+2018,Jun,2018-06-01,virginia,2.8
+2018,Jul,2018-07-01,virginia,2.8
+2018,Aug,2018-08-01,virginia,2.8
+2018,Sep,2018-09-01,virginia,2.8
+2018,Oct,2018-10-01,virginia,2.9
+2018,Nov,2018-11-01,virginia,3.0
+2018,Dec,2018-12-01,virginia,3.1
+2019,Jan,2019-01-01,virginia,3.1
+2019,Feb,2019-02-01,virginia,3.1
+2019,Mar,2019-03-01,virginia,3.0
+2019,Apr,2019-04-01,virginia,2.8
+2019,May,2019-05-01,virginia,2.7
+2019,Jun,2019-06-01,virginia,2.5
+2019,Jul,2019-07-01,virginia,2.5
+2019,Aug,2019-08-01,virginia,2.5
+2019,Sep,2019-09-01,virginia,2.6
+2019,Oct,2019-10-01,virginia,2.7
+2019,Nov,2019-11-01,virginia,2.8
+2019,Dec,2019-12-01,virginia,2.8
+2020,Jan,2020-01-01,virginia,2.8
+2020,Feb,2020-02-01,virginia,2.9
+2020,Mar,2020-03-01,virginia,3.2
+2020,Apr,2020-04-01,virginia,12.0
+2020,May,2020-05-01,virginia,10.0
+2020,Jun,2020-06-01,virginia,8.9
+2020,Jul,2020-07-01,virginia,8.2
+2020,Aug,2020-08-01,virginia,7.2
+2020,Sep,2020-09-01,virginia,6.6
+2020,Oct,2020-10-01,virginia,5.8
+2020,Nov,2020-11-01,virginia,5.3
+2020,Dec,2020-12-01,virginia,5.0
+2021,Jan,2021-01-01,virginia,4.8
+2021,Feb,2021-02-01,virginia,4.7
+2021,Mar,2021-03-01,virginia,4.5
+2021,Apr,2021-04-01,virginia,4.4
+2021,May,2021-05-01,virginia,4.2
+2021,Jun,2021-06-01,virginia,4.0
+2021,Jul,2021-07-01,virginia,3.8
+2021,Aug,2021-08-01,virginia,3.5
+2021,Sep,2021-09-01,virginia,3.3
+2021,Oct,2021-10-01,virginia,3.1
+2021,Nov,2021-11-01,virginia,3.0
+2021,Dec,2021-12-01,virginia,2.9
+2022,Jan,2022-01-01,virginia,2.8
+2022,Feb,2022-02-01,virginia,2.7
+2022,Mar,2022-03-01,virginia,2.7
+2022,Apr,2022-04-01,virginia,2.6
+2022,May,2022-05-01,virginia,2.5
+2022,Jun,2022-06-01,virginia,2.5
+2022,Jul,2022-07-01,virginia,2.6
+2022,Aug,2022-08-01,virginia,2.7
+2022,Sep,2022-09-01,virginia,2.8
+2022,Oct,2022-10-01,virginia,3.0
+2022,Nov,2022-11-01,virginia,3.1
+2022,Dec,2022-12-01,virginia,3.1
+2023,Jan,2023-01-01,virginia,3.1
+2023,Feb,2023-02-01,virginia,3.0
+2023,Mar,2023-03-01,virginia,2.9
+2023,Apr,2023-04-01,virginia,2.7
+2023,May,2023-05-01,virginia,2.6
+2023,Jun,2023-06-01,virginia,2.6
+2023,Jul,2023-07-01,virginia,2.6
+2023,Aug,2023-08-01,virginia,2.7
+2023,Sep,2023-09-01,virginia,2.9
+2023,Oct,2023-10-01,virginia,3.0
+2023,Nov,2023-11-01,virginia,3.1
+2023,Dec,2023-12-01,virginia,3.0
+2024,Jan,2024-01-01,virginia,3.0
+2024,Feb,2024-02-01,virginia,3.0
+2024,Mar,2024-03-01,virginia,2.9
+2024,Apr,2024-04-01,virginia,2.8
+2024,May,2024-05-01,virginia,2.7
+2024,Jun,2024-06-01,virginia,2.7
+2015,Jan,2015-01-01,washington,5.6
+2015,Feb,2015-02-01,washington,5.5
+2015,Mar,2015-03-01,washington,5.5
+2015,Apr,2015-04-01,washington,5.4
+2015,May,2015-05-01,washington,5.4
+2015,Jun,2015-06-01,washington,5.4
+2015,Jul,2015-07-01,washington,5.4
+2015,Aug,2015-08-01,washington,5.4
+2015,Sep,2015-09-01,washington,5.4
+2015,Oct,2015-10-01,washington,5.4
+2015,Nov,2015-11-01,washington,5.4
+2015,Dec,2015-12-01,washington,5.4
+2016,Jan,2016-01-01,washington,5.4
+2016,Feb,2016-02-01,washington,5.4
+2016,Mar,2016-03-01,washington,5.4
+2016,Apr,2016-04-01,washington,5.3
+2016,May,2016-05-01,washington,5.3
+2016,Jun,2016-06-01,washington,5.3
+2016,Jul,2016-07-01,washington,5.3
+2016,Aug,2016-08-01,washington,5.2
+2016,Sep,2016-09-01,washington,5.1
+2016,Oct,2016-10-01,washington,5.1
+2016,Nov,2016-11-01,washington,5.0
+2016,Dec,2016-12-01,washington,4.9
+2017,Jan,2017-01-01,washington,4.8
+2017,Feb,2017-02-01,washington,4.7
+2017,Mar,2017-03-01,washington,4.6
+2017,Apr,2017-04-01,washington,4.6
+2017,May,2017-05-01,washington,4.6
+2017,Jun,2017-06-01,washington,4.6
+2017,Jul,2017-07-01,washington,4.6
+2017,Aug,2017-08-01,washington,4.6
+2017,Sep,2017-09-01,washington,4.7
+2017,Oct,2017-10-01,washington,4.7
+2017,Nov,2017-11-01,washington,4.6
+2017,Dec,2017-12-01,washington,4.6
+2018,Jan,2018-01-01,washington,4.6
+2018,Feb,2018-02-01,washington,4.6
+2018,Mar,2018-03-01,washington,4.5
+2018,Apr,2018-04-01,washington,4.4
+2018,May,2018-05-01,washington,4.3
+2018,Jun,2018-06-01,washington,4.3
+2018,Jul,2018-07-01,washington,4.3
+2018,Aug,2018-08-01,washington,4.3
+2018,Sep,2018-09-01,washington,4.3
+2018,Oct,2018-10-01,washington,4.4
+2018,Nov,2018-11-01,washington,4.5
+2018,Dec,2018-12-01,washington,4.6
+2019,Jan,2019-01-01,washington,4.7
+2019,Feb,2019-02-01,washington,4.6
+2019,Mar,2019-03-01,washington,4.5
+2019,Apr,2019-04-01,washington,4.4
+2019,May,2019-05-01,washington,4.3
+2019,Jun,2019-06-01,washington,4.2
+2019,Jul,2019-07-01,washington,4.1
+2019,Aug,2019-08-01,washington,4.1
+2019,Sep,2019-09-01,washington,4.0
+2019,Oct,2019-10-01,washington,3.9
+2019,Nov,2019-11-01,washington,3.8
+2019,Dec,2019-12-01,washington,3.7
+2020,Jan,2020-01-01,washington,3.7
+2020,Feb,2020-02-01,washington,3.8
+2020,Mar,2020-03-01,washington,5.2
+2020,Apr,2020-04-01,washington,16.7
+2020,May,2020-05-01,washington,13.4
+2020,Jun,2020-06-01,washington,11.5
+2020,Jul,2020-07-01,washington,10.4
+2020,Aug,2020-08-01,washington,8.8
+2020,Sep,2020-09-01,washington,8.1
+2020,Oct,2020-10-01,washington,7.2
+2020,Nov,2020-11-01,washington,6.9
+2020,Dec,2020-12-01,washington,6.7
+2021,Jan,2021-01-01,washington,6.4
+2021,Feb,2021-02-01,washington,6.2
+2021,Mar,2021-03-01,washington,6.0
+2021,Apr,2021-04-01,washington,5.7
+2021,May,2021-05-01,washington,5.5
+2021,Jun,2021-06-01,washington,5.4
+2021,Jul,2021-07-01,washington,5.2
+2021,Aug,2021-08-01,washington,5.0
+2021,Sep,2021-09-01,washington,4.7
+2021,Oct,2021-10-01,washington,4.5
+2021,Nov,2021-11-01,washington,4.2
+2021,Dec,2021-12-01,washington,4.1
+2022,Jan,2022-01-01,washington,4.0
+2022,Feb,2022-02-01,washington,4.0
+2022,Mar,2022-03-01,washington,3.9
+2022,Apr,2022-04-01,washington,3.9
+2022,May,2022-05-01,washington,3.9
+2022,Jun,2022-06-01,washington,4.0
+2022,Jul,2022-07-01,washington,4.0
+2022,Aug,2022-08-01,washington,4.1
+2022,Sep,2022-09-01,washington,4.2
+2022,Oct,2022-10-01,washington,4.3
+2022,Nov,2022-11-01,washington,4.3
+2022,Dec,2022-12-01,washington,4.2
+2023,Jan,2023-01-01,washington,4.1
+2023,Feb,2023-02-01,washington,4.0
+2023,Mar,2023-03-01,washington,3.9
+2023,Apr,2023-04-01,washington,3.8
+2023,May,2023-05-01,washington,3.8
+2023,Jun,2023-06-01,washington,3.8
+2023,Jul,2023-07-01,washington,3.9
+2023,Aug,2023-08-01,washington,4.1
+2023,Sep,2023-09-01,washington,4.3
+2023,Oct,2023-10-01,washington,4.4
+2023,Nov,2023-11-01,washington,4.4
+2023,Dec,2023-12-01,washington,4.4
+2024,Jan,2024-01-01,washington,4.6
+2024,Feb,2024-02-01,washington,4.7
+2024,Mar,2024-03-01,washington,4.8
+2024,Apr,2024-04-01,washington,4.8
+2024,May,2024-05-01,washington,4.9
+2024,Jun,2024-06-01,washington,4.9
+2015,Jan,2015-01-01,wisconsin,4.7
+2015,Feb,2015-02-01,wisconsin,4.7
+2015,Mar,2015-03-01,wisconsin,4.6
+2015,Apr,2015-04-01,wisconsin,4.6
+2015,May,2015-05-01,wisconsin,4.5
+2015,Jun,2015-06-01,wisconsin,4.4
+2015,Jul,2015-07-01,wisconsin,4.4
+2015,Aug,2015-08-01,wisconsin,4.3
+2015,Sep,2015-09-01,wisconsin,4.3
+2015,Oct,2015-10-01,wisconsin,4.2
+2015,Nov,2015-11-01,wisconsin,4.2
+2015,Dec,2015-12-01,wisconsin,4.2
+2016,Jan,2016-01-01,wisconsin,4.1
+2016,Feb,2016-02-01,wisconsin,4.1
+2016,Mar,2016-03-01,wisconsin,4.0
+2016,Apr,2016-04-01,wisconsin,4.0
+2016,May,2016-05-01,wisconsin,4.0
+2016,Jun,2016-06-01,wisconsin,3.9
+2016,Jul,2016-07-01,wisconsin,3.9
+2016,Aug,2016-08-01,wisconsin,3.9
+2016,Sep,2016-09-01,wisconsin,3.9
+2016,Oct,2016-10-01,wisconsin,3.8
+2016,Nov,2016-11-01,wisconsin,3.7
+2016,Dec,2016-12-01,wisconsin,3.6
+2017,Jan,2017-01-01,wisconsin,3.5
+2017,Feb,2017-02-01,wisconsin,3.4
+2017,Mar,2017-03-01,wisconsin,3.3
+2017,Apr,2017-04-01,wisconsin,3.3
+2017,May,2017-05-01,wisconsin,3.2
+2017,Jun,2017-06-01,wisconsin,3.3
+2017,Jul,2017-07-01,wisconsin,3.3
+2017,Aug,2017-08-01,wisconsin,3.3
+2017,Sep,2017-09-01,wisconsin,3.2
+2017,Oct,2017-10-01,wisconsin,3.2
+2017,Nov,2017-11-01,wisconsin,3.1
+2017,Dec,2017-12-01,wisconsin,3.0
+2018,Jan,2018-01-01,wisconsin,2.9
+2018,Feb,2018-02-01,wisconsin,2.9
+2018,Mar,2018-03-01,wisconsin,2.9
+2018,Apr,2018-04-01,wisconsin,3.0
+2018,May,2018-05-01,wisconsin,3.0
+2018,Jun,2018-06-01,wisconsin,3.0
+2018,Jul,2018-07-01,wisconsin,3.0
+2018,Aug,2018-08-01,wisconsin,3.0
+2018,Sep,2018-09-01,wisconsin,3.0
+2018,Oct,2018-10-01,wisconsin,3.0
+2018,Nov,2018-11-01,wisconsin,3.0
+2018,Dec,2018-12-01,wisconsin,3.0
+2019,Jan,2019-01-01,wisconsin,3.1
+2019,Feb,2019-02-01,wisconsin,3.1
+2019,Mar,2019-03-01,wisconsin,3.1
+2019,Apr,2019-04-01,wisconsin,3.2
+2019,May,2019-05-01,wisconsin,3.2
+2019,Jun,2019-06-01,wisconsin,3.2
+2019,Jul,2019-07-01,wisconsin,3.3
+2019,Aug,2019-08-01,wisconsin,3.3
+2019,Sep,2019-09-01,wisconsin,3.3
+2019,Oct,2019-10-01,wisconsin,3.3
+2019,Nov,2019-11-01,wisconsin,3.2
+2019,Dec,2019-12-01,wisconsin,3.2
+2020,Jan,2020-01-01,wisconsin,3.1
+2020,Feb,2020-02-01,wisconsin,3.1
+2020,Mar,2020-03-01,wisconsin,3.0
+2020,Apr,2020-04-01,wisconsin,14.0
+2020,May,2020-05-01,wisconsin,10.6
+2020,Jun,2020-06-01,wisconsin,8.7
+2020,Jul,2020-07-01,wisconsin,7.7
+2020,Aug,2020-08-01,wisconsin,6.4
+2020,Sep,2020-09-01,wisconsin,5.8
+2020,Oct,2020-10-01,wisconsin,5.2
+2020,Nov,2020-11-01,wisconsin,5.0
+2020,Dec,2020-12-01,wisconsin,4.9
+2021,Jan,2021-01-01,wisconsin,4.7
+2021,Feb,2021-02-01,wisconsin,4.6
+2021,Mar,2021-03-01,wisconsin,4.4
+2021,Apr,2021-04-01,wisconsin,4.3
+2021,May,2021-05-01,wisconsin,4.1
+2021,Jun,2021-06-01,wisconsin,4.0
+2021,Jul,2021-07-01,wisconsin,3.8
+2021,Aug,2021-08-01,wisconsin,3.6
+2021,Sep,2021-09-01,wisconsin,3.4
+2021,Oct,2021-10-01,wisconsin,3.3
+2021,Nov,2021-11-01,wisconsin,3.1
+2021,Dec,2021-12-01,wisconsin,3.0
+2022,Jan,2022-01-01,wisconsin,3.0
+2022,Feb,2022-02-01,wisconsin,2.9
+2022,Mar,2022-03-01,wisconsin,2.9
+2022,Apr,2022-04-01,wisconsin,2.9
+2022,May,2022-05-01,wisconsin,2.9
+2022,Jun,2022-06-01,wisconsin,2.9
+2022,Jul,2022-07-01,wisconsin,2.9
+2022,Aug,2022-08-01,wisconsin,2.9
+2022,Sep,2022-09-01,wisconsin,3.0
+2022,Oct,2022-10-01,wisconsin,2.9
+2022,Nov,2022-11-01,wisconsin,2.8
+2022,Dec,2022-12-01,wisconsin,2.7
+2023,Jan,2023-01-01,wisconsin,2.7
+2023,Feb,2023-02-01,wisconsin,2.6
+2023,Mar,2023-03-01,wisconsin,2.6
+2023,Apr,2023-04-01,wisconsin,2.7
+2023,May,2023-05-01,wisconsin,2.9
+2023,Jun,2023-06-01,wisconsin,3.0
+2023,Jul,2023-07-01,wisconsin,3.2
+2023,Aug,2023-08-01,wisconsin,3.3
+2023,Sep,2023-09-01,wisconsin,3.4
+2023,Oct,2023-10-01,wisconsin,3.4
+2023,Nov,2023-11-01,wisconsin,3.4
+2023,Dec,2023-12-01,wisconsin,3.4
+2024,Jan,2024-01-01,wisconsin,3.2
+2024,Feb,2024-02-01,wisconsin,3.0
+2024,Mar,2024-03-01,wisconsin,3.0
+2024,Apr,2024-04-01,wisconsin,2.9
+2024,May,2024-05-01,wisconsin,2.9
+2024,Jun,2024-06-01,wisconsin,2.9
+2015,Jan,2015-01-01,wyoming,3.9
+2015,Feb,2015-02-01,wyoming,3.9
+2015,Mar,2015-03-01,wyoming,4.0
+2015,Apr,2015-04-01,wyoming,4.1
+2015,May,2015-05-01,wyoming,4.2
+2015,Jun,2015-06-01,wyoming,4.2
+2015,Jul,2015-07-01,wyoming,4.2
+2015,Aug,2015-08-01,wyoming,4.2
+2015,Sep,2015-09-01,wyoming,4.3
+2015,Oct,2015-10-01,wyoming,4.3
+2015,Nov,2015-11-01,wyoming,4.5
+2015,Dec,2015-12-01,wyoming,4.7
+2016,Jan,2016-01-01,wyoming,5.0
+2016,Feb,2016-02-01,wyoming,5.3
+2016,Mar,2016-03-01,wyoming,5.5
+2016,Apr,2016-04-01,wyoming,5.7
+2016,May,2016-05-01,wyoming,5.7
+2016,Jun,2016-06-01,wyoming,5.6
+2016,Jul,2016-07-01,wyoming,5.4
+2016,Aug,2016-08-01,wyoming,5.3
+2016,Sep,2016-09-01,wyoming,5.2
+2016,Oct,2016-10-01,wyoming,5.2
+2016,Nov,2016-11-01,wyoming,5.1
+2016,Dec,2016-12-01,wyoming,5.0
+2017,Jan,2017-01-01,wyoming,4.8
+2017,Feb,2017-02-01,wyoming,4.6
+2017,Mar,2017-03-01,wyoming,4.4
+2017,Apr,2017-04-01,wyoming,4.2
+2017,May,2017-05-01,wyoming,4.1
+2017,Jun,2017-06-01,wyoming,4.1
+2017,Jul,2017-07-01,wyoming,4.2
+2017,Aug,2017-08-01,wyoming,4.3
+2017,Sep,2017-09-01,wyoming,4.3
+2017,Oct,2017-10-01,wyoming,4.3
+2017,Nov,2017-11-01,wyoming,4.3
+2017,Dec,2017-12-01,wyoming,4.3
+2018,Jan,2018-01-01,wyoming,4.2
+2018,Feb,2018-02-01,wyoming,4.2
+2018,Mar,2018-03-01,wyoming,4.1
+2018,Apr,2018-04-01,wyoming,4.0
+2018,May,2018-05-01,wyoming,4.0
+2018,Jun,2018-06-01,wyoming,4.0
+2018,Jul,2018-07-01,wyoming,4.0
+2018,Aug,2018-08-01,wyoming,4.1
+2018,Sep,2018-09-01,wyoming,4.1
+2018,Oct,2018-10-01,wyoming,4.1
+2018,Nov,2018-11-01,wyoming,4.0
+2018,Dec,2018-12-01,wyoming,3.9
+2019,Jan,2019-01-01,wyoming,3.7
+2019,Feb,2019-02-01,wyoming,3.6
+2019,Mar,2019-03-01,wyoming,3.5
+2019,Apr,2019-04-01,wyoming,3.5
+2019,May,2019-05-01,wyoming,3.5
+2019,Jun,2019-06-01,wyoming,3.5
+2019,Jul,2019-07-01,wyoming,3.6
+2019,Aug,2019-08-01,wyoming,3.7
+2019,Sep,2019-09-01,wyoming,3.8
+2019,Oct,2019-10-01,wyoming,3.9
+2019,Nov,2019-11-01,wyoming,4.0
+2019,Dec,2019-12-01,wyoming,4.2
+2020,Jan,2020-01-01,wyoming,4.4
+2020,Feb,2020-02-01,wyoming,4.6
+2020,Mar,2020-03-01,wyoming,4.8
+2020,Apr,2020-04-01,wyoming,5.1
+2020,May,2020-05-01,wyoming,8.7
+2020,Jun,2020-06-01,wyoming,7.3
+2020,Jul,2020-07-01,wyoming,6.8
+2020,Aug,2020-08-01,wyoming,6.2
+2020,Sep,2020-09-01,wyoming,5.9
+2020,Oct,2020-10-01,wyoming,5.6
+2020,Nov,2020-11-01,wyoming,5.5
+2020,Dec,2020-12-01,wyoming,5.4
+2021,Jan,2021-01-01,wyoming,5.3
+2021,Feb,2021-02-01,wyoming,5.3
+2021,Mar,2021-03-01,wyoming,5.2
+2021,Apr,2021-04-01,wyoming,5.0
+2021,May,2021-05-01,wyoming,4.9
+2021,Jun,2021-06-01,wyoming,4.7
+2021,Jul,2021-07-01,wyoming,4.5
+2021,Aug,2021-08-01,wyoming,4.3
+2021,Sep,2021-09-01,wyoming,4.1
+2021,Oct,2021-10-01,wyoming,3.9
+2021,Nov,2021-11-01,wyoming,3.7
+2021,Dec,2021-12-01,wyoming,3.6
+2022,Jan,2022-01-01,wyoming,3.5
+2022,Feb,2022-02-01,wyoming,3.4
+2022,Mar,2022-03-01,wyoming,3.3
+2022,Apr,2022-04-01,wyoming,3.3
+2022,May,2022-05-01,wyoming,3.3
+2022,Jun,2022-06-01,wyoming,3.4
+2022,Jul,2022-07-01,wyoming,3.4
+2022,Aug,2022-08-01,wyoming,3.5
+2022,Sep,2022-09-01,wyoming,3.5
+2022,Oct,2022-10-01,wyoming,3.5
+2022,Nov,2022-11-01,wyoming,3.5
+2022,Dec,2022-12-01,wyoming,3.4
+2023,Jan,2023-01-01,wyoming,3.3
+2023,Feb,2023-02-01,wyoming,3.1
+2023,Mar,2023-03-01,wyoming,3.0
+2023,Apr,2023-04-01,wyoming,2.8
+2023,May,2023-05-01,wyoming,2.8
+2023,Jun,2023-06-01,wyoming,2.8
+2023,Jul,2023-07-01,wyoming,2.8
+2023,Aug,2023-08-01,wyoming,2.8
+2023,Sep,2023-09-01,wyoming,2.9
+2023,Oct,2023-10-01,wyoming,2.9
+2023,Nov,2023-11-01,wyoming,2.9
+2023,Dec,2023-12-01,wyoming,2.9
+2024,Jan,2024-01-01,wyoming,2.8
+2024,Feb,2024-02-01,wyoming,2.8
+2024,Mar,2024-03-01,wyoming,2.8
+2024,Apr,2024-04-01,wyoming,2.8
+2024,May,2024-05-01,wyoming,2.9
+2024,Jun,2024-06-01,wyoming,2.9
