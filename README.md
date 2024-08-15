@@ -63,9 +63,12 @@ Input files:
 ![Input files in HTML](images/input.png)
 
 Output files:
-![Output files- State folders](images/output 1.png)
+![state folders](images/output%201.png)
 
-![Output files- industry csv files in each state folder](images/output 2.png)
+![industry csv files in every state folder](images/output%202.png)
+
+Recovery time code:
+![recovery time code](images/recovery%20time%20code.png)
 
 # Analysis Variables:
 
@@ -136,3 +139,5 @@ To improve economic resilience, focus on upskilling people and expanding their a
 # Next Steps
 - Study other underlying factors: Analyze the impact of COVID-19 cases, vaccination data, and demographics to gain further insights into the employment trends observed.
 - Make the dashboard more customized for impacted job seekers to target the market effectively by identifying the best states and industries. Currently, changes in the number of employees by state and time act as a proxy. I would like to add the same for job openings and the number of establishments data in the future.
+
+
