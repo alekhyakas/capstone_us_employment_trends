@@ -1,13 +1,33 @@
-# capstone_us_employment_trends
+# Comprehensive Analysis of Post-Pandemic US Employment Trends
 
-# Motivation:
+## Google Slides presentation
+Link: https://docs.google.com/presentation/d/10exvrH0y4R8pl0ORxCnhpRO2AVf1Kge2QuPPH86JyIY/edit?usp=sharing
+
+## Tableau Dashboard
+Link: https://public.tableau.com/views/Aug14th_final_backup3_0/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+## Table of Contents
+* [Tableau Dashboard](#tableau-dashboard)
+* [Motivation](#motivation)
+* [Data Questions](#data-questions)
+* [Tools and Technologies](#tools-and-technologies)
+* [Problems and Hurdles](#problems-and-hurdles)
+* [Data Sources](#sources)
+* [Challenges Faced](#challenges-faced)
+* [Analysis Variables and KPIs](#analysis-variables-and-kpis)
+* [Key Insights](#key-insights)
+* [Recommendations](#recommendations)
+* [Next Steps](#next-steps)
+
+
+## Motivation:
 The COVID-19 pandemic has profoundly impacted lives and the global economy, leading to substantial shifts in the labor market and widespread unemployment.
 
 This project primarily aims to provide a comprehensive understanding of the changes in employment in the US after COVID-19, thereby aiding informed decision-making and targeted policy development. The findings from this analysis could potentially influence policy-making, helping the US government and organizations respond more effectively to future economic crises.
 
 On a personal level, I have been affected by the economic downturn due to the COVID-19 pandemic and the resulting job cuts. This analysis is particularly meaningful to me as I seek to understand job opportunity trends following the pandemic, both to target the market effectively for myself and to create a tool that can be useful for other impacted job seekers.
 
-# Data Questions:
+## Data Questions:
 How has employment changed in the US after COVID-19? The analysis is structured around the following questions:
 
 a. Which state has been most/least affected, and which one is fastest in bouncing back?
@@ -22,10 +42,8 @@ Methodology: Investigated by comparing "Depth of Impact" and 'recovery time' acr
 d. What are the underlying factors for these trends specifically, exploring education levels by state?
 Methodology: Explored through the distribution of educational attainment and unemployment rates by state.
 
-e. What is the correlation between these underlying factors (e.g., the interplay between education and industry)?
-Methodology: Examined using a correlation matrix comparing industry employment data and educational attainment percentages.
 
-# Tools and Technologies
+## Tools and Technologies
 To conduct this analysis, I worked with approximately 650 files that were either downloaded or scraped from various sources.
 
 Python:
@@ -40,11 +58,11 @@ Tableau:
 Visual Studio Code:
 - Used for editing HTML/Markdown files.
 
-# Data Sources:
+## Data Sources:
 - U.S. Bureau of Labor Statistics (BLS): https://www.bls.gov/
 - Wikipedia/Census: https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_educational_attainment
 
-# Challenges Faced:
+## Challenges Faced:
 1. Getting the Data: Downloading and Scraping
 
 Initially, I downloaded state-wise unemployment rates from the BLS website. Following that, I aimed to gather industry-wise employment data for each state. Given that each state has 11-12 industries, this task required manually downloading over 550 files.
@@ -62,15 +80,16 @@ Next, the script created a state-specific folder (based on the HTML filename) in
 Input files:
 ![Input files in HTML](images/input.png)
 
-Output files:
+Output file:
 ![state folders](images/output%201.png)
 
+Output file:
 ![industry csv files in every state folder](images/output%202.png)
 
 Recovery time code:
 ![recovery time code](images/recovery%20time%20code.png)
 
-# Analysis Variables:
+## Analysis Variables and KPIs:
 
 Python:
 To understand which state and industry was the fastest or slowest in bouncing back, I created a variable in Python called ‘bbt’ (bounce back time). I used loops and functions to calculate ‘bbt’ for every state as the number of months it took from April 2020 to reach pre-pandemic unemployment rates. Similarly, I calculated 'recovery time' for every industry.
@@ -85,9 +104,9 @@ I also calculated cumulative industry-wise "Depth of Impact" to determine the mo
 Python:
 To gain granular insights on the relationship between employment and education, I created a correlation matrix. Each matrix cell represents the correlation coefficient between the number of employees in each state for a specific industry (columns) and the percentage of educational attainment in each corresponding state for a specific education level (rows).
 
-![multi dimensional corr matrix code](images/corr screenshot.png)
+![corr matrix](images/corr%20screenshot.png)
 
-# Insights Gained
+# Key Insights
 
 a. Which state has been most affected, and which one is fastest in bouncing back? 
 - Nevada, New York, and New Jersey are the most affected in terms of employee volume.
@@ -110,7 +129,6 @@ d. Other underlying factors for these trends- exploring education levels by Stat
 - On exploring the distribution of educational attainment percentages by high school, bachelor's, and master's levels by state, and the distribution of unemployment rates by state, an ambiguous relationship was observed.
 - Some states like Nevada show a direct relationship between education % and unemployment rates, while others like South and North Dakota show an inverse relationship.
 
-e. Correlation between the underlying factors (here we explore education and industry’s interplay)
 To gain deeper insights into the relationship between employment and education, I created a correlation matrix where each cell represents the correlation coefficient between the number of employees in a specific industry and the percentage of educational attainment for a given state.
 
 High correlations were found between:
@@ -119,7 +137,7 @@ High correlations were found between:
 'Private Education and Health' and 'Advanced Degree'
 From previous analysis, we know that 'Other Services' is one of the most affected industries in terms of both recovery time and "Depth of Impact." 
 
-# Key Recommendations 
+# Recommendations 
 
 a. Invest in Digital Adaptability:
 Strengthen digital infrastructure across industries to support remote work and operations, ensuring sectors like Leisure and Hospitality can recover faster in future disruptions, modeling the stability of sectors like IT and Finance.
