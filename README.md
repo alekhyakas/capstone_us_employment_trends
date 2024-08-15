@@ -60,19 +60,19 @@ Next, the script created a state-specific folder (based on the HTML filename) in
 2. Data Accuracy: Ensuring that the data collected was accurate and consistent across different states required thorough validation checks.
 
 Input files:
-![Input files in HTML](https://drive.google.com/file/d/12pS9jwtw0IpfmX9MnXpfmxHWi94qHpda/view?usp=sharing)
+![Input files in HTML](images/input.png)
 
 Output files:
-![Output files- State folders](https://drive.google.com/file/d/1UHs-6gROTZx9uL2OoqAYeK3IZUDDWHzm/view?usp=sharing)
+![Output files- State folders](images/output 1.png)
 
-![Output files- industry csv files in each state folder](https://drive.google.com/file/d/1B4PUFHRYXXQbTwAw6WI0hkl6zlnEpeu9/view?usp=sharing)
+![Output files- industry csv files in each state folder](images/output 2.png)
 
 # Analysis Variables:
 
 Python:
 To understand which state and industry was the fastest or slowest in bouncing back, I created a variable in Python called ‘bbt’ (bounce back time). I used loops and functions to calculate ‘bbt’ for every state as the number of months it took from April 2020 to reach pre-pandemic unemployment rates. Similarly, I calculated 'recovery time' for every industry.
 
-![recovery time code](https://drive.google.com/file/d/11Y1fP7BVv5yl5w_Z_8qqZVBO0lhID8rH/view?usp=sharing)
+![recovery time code](images/recovery time code.png)
 
 Tableau:
 To gauge the most/least affected states, I created a calculated field in Tableau called "Depth of Impact," which is determined by the percentage difference in the number of employees in a given time period for each state. This can be filtered by industry to show the per state, per industry difference in employee numbers.
@@ -82,7 +82,7 @@ I also calculated cumulative industry-wise "Depth of Impact" to determine the mo
 Python:
 To gain granular insights on the relationship between employment and education, I created a correlation matrix. Each matrix cell represents the correlation coefficient between the number of employees in each state for a specific industry (columns) and the percentage of educational attainment in each corresponding state for a specific education level (rows).
 
-![multi dimensional corr matrix code](https://drive.google.com/file/d/1v-T54zggJ5qMCkLZEbHTe6R_CiLQ7Vdm/view?usp=sharing)
+![multi dimensional corr matrix code](images/corr screenshot.png)
 
 # Insights Gained
 
